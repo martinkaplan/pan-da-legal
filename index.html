@@ -1,85 +1,60 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Pan-da</title>
-  <style>
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      background: #f9f9f9;
-      color: #1a1a1a;
-      min-height: 100vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-    .card {
-      text-align: center;
-      padding: 48px 32px;
-      background: white;
-      border-radius: 20px;
-      border: 1px solid #e8e8e8;
-      max-width: 400px;
-      width: 100%;
-      margin: 24px;
-    }
-    .icon {
-      width: 80px;
-      height: 80px;
-      background: #5FBB56;
-      border-radius: 20px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 44px;
-      margin: 0 auto 20px;
-    }
-    h1 {
-      font-size: 28px;
-      font-weight: 700;
-      margin-bottom: 8px;
-    }
-    p {
-      color: #666;
-      margin-bottom: 28px;
-      font-size: 16px;
-      line-height: 1.5;
-    }
-    .links {
-      display: flex;
-      flex-direction: column;
-      gap: 10px;
-    }
-    a {
-      display: block;
-      padding: 12px;
-      border-radius: 10px;
-      text-decoration: none;
-      font-size: 15px;
-      font-weight: 500;
-    }
-    .primary {
-      background: #5FBB56;
-      color: white;
-    }
-    .secondary {
-      background: #f0f0f0;
-      color: #333;
-    }
-  </style>
+  <link rel="stylesheet" href="styles.css" />
 </head>
-<body>
-  <div class="card">
-    <div class="icon">🗣️</div>
-    <h1>Pan-da</h1>
-    <p>Speech practice app for children with expressive speech delay.</p>
-    <div class="links">
-      <a class="primary" href="https://apps.apple.com/app/id6761809094">Download on the App Store</a>
-      <a class="secondary" href="privacy.html">Privacy Policy</a>
-      <a class="secondary" href="https://www.instagram.com/pan_da_app">Support · @pan_da_app</a>
-    </div>
-  </div>
+<body class="home">
+  <main class="card" aria-labelledby="app-title">
+    <div class="language-switch" aria-label="Language selector"></div>
+    <div class="icon" aria-hidden="true">🗣️</div>
+    <h1 id="app-title">Pan-da</h1>
+    <p id="tagline">Speech practice app for children with expressive speech delay.</p>
+    <nav class="links" aria-label="Main links">
+      <a class="primary" id="download-link" href="https://apps.apple.com/app/id6761809094">Download on the App Store</a>
+      <a class="secondary" data-page-link="privacy" href="page.html?p=privacy">Privacy Policy</a>
+      <a class="secondary" data-page-link="terms" href="page.html?p=terms">Terms &amp; Conditions</a>
+      <a class="secondary" data-page-link="faq" href="page.html?p=faq">FAQ</a>
+      <a class="secondary" id="support-link" href="https://www.instagram.com/pan_da_app">Support · @pan_da_app</a>
+    </nav>
+  </main>
+  <script>
+    const LOCALES = {"cs": {"tag": "Aplikace pro nácvik řeči u dětí s expresivním opožděním řeči.", "download": "Stáhnout v App Storu", "privacy": "Zásady ochrany soukromí", "terms": "Obchodní podmínky", "faq": "FAQ", "support": "Podpora · @pan_da_app", "language": "Jazyk"}, "en": {"tag": "Speech practice app for children with expressive speech delay.", "download": "Download on the App Store", "privacy": "Privacy Policy", "terms": "Terms & Conditions", "faq": "FAQ", "support": "Support · @pan_da_app", "language": "Language"}, "de": {"tag": "App zum Sprachtraining für Kinder mit expressiver Sprachverzögerung.", "download": "Im App Store laden", "privacy": "Datenschutzerklärung", "terms": "Allgemeine Geschäftsbedingungen", "faq": "FAQ", "support": "Support · @pan_da_app", "language": "Sprache"}, "fr": {"tag": "Application d’entraînement à la parole pour les enfants présentant un retard d’expression orale.", "download": "Télécharger sur l’App Store", "privacy": "Politique de confidentialité", "terms": "Conditions générales", "faq": "FAQ", "support": "Assistance · @pan_da_app", "language": "Langue"}, "es": {"tag": "App de práctica del habla para niños con retraso expresivo del lenguaje.", "download": "Descargar en App Store", "privacy": "Política de privacidad", "terms": "Términos y condiciones", "faq": "Preguntas frecuentes", "support": "Soporte · @pan_da_app", "language": "Idioma"}, "pt": {"tag": "App de treino da fala para crianças com atraso expressivo da linguagem.", "download": "Descarregar na App Store", "privacy": "Política de privacidade", "terms": "Termos e condições", "faq": "FAQ", "support": "Suporte · @pan_da_app", "language": "Idioma"}};
+    const SUPPORTED_LANGS = Object.keys(LOCALES);
+    const DEFAULT_LANG = 'en';
+    const params = new URLSearchParams(location.search);
+    const detectedLang = (navigator.language || DEFAULT_LANG).slice(0, 2).toLowerCase();
+    const initialLang = params.get('lang') || localStorage.getItem('panda_lang') || detectedLang;
+    let lang = SUPPORTED_LANGS.includes(initialLang) ? initialLang : DEFAULT_LANG;
+
+    function setLang(nextLang) {
+      lang = SUPPORTED_LANGS.includes(nextLang) ? nextLang : DEFAULT_LANG;
+      localStorage.setItem('panda_lang', lang);
+      document.documentElement.lang = lang;
+      const t = LOCALES[lang];
+      document.getElementById('tagline').textContent = t.tag;
+      document.getElementById('download-link').textContent = t.download;
+      document.querySelector('[data-page-link="privacy"]').textContent = t.privacy;
+      document.querySelector('[data-page-link="terms"]').textContent = t.terms;
+      document.querySelector('[data-page-link="faq"]').textContent = t.faq;
+      document.getElementById('support-link').textContent = t.support;
+      document.querySelectorAll('[data-page-link]').forEach(link => {
+        link.href = `page.html?p=${link.dataset.pageLink}&lang=${lang}`;
+      });
+      history.replaceState(null, '', `?lang=${lang}`);
+      renderLanguageSwitch();
+    }
+
+    function renderLanguageSwitch() {
+      document.querySelector('.language-switch').innerHTML = SUPPORTED_LANGS.map(code =>
+        `<button type="button" class="${code === lang ? 'active' : ''}" data-lang="${code}">${code.toUpperCase()}</button>`
+      ).join('');
+      document.querySelectorAll('[data-lang]').forEach(btn => btn.addEventListener('click', () => setLang(btn.dataset.lang)));
+    }
+
+    setLang(lang);
+  </script>
 </body>
 </html>
