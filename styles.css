@@ -47,6 +47,15 @@ body.home {
   margin: 0 auto 22px;
   box-shadow: 0 12px 28px rgba(95, 187, 86, 0.28);
 }
+.app-icon {
+  width: 128px;
+  height: 128px;
+  display: block;
+  margin: 0 auto 20px;
+  border-radius: 22px;
+  object-fit: cover;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+}
 h1 {
   font-size: clamp(30px, 5vw, 42px);
   font-weight: 760;
