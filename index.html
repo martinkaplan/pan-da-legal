@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Pan-da</title>
+  <title>TalkCards</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body class="home">
@@ -13,76 +13,76 @@
     <img
       class="app-icon"
       src="pan_da.png"
-      alt="Pan-da app icon"
+      alt="TalkCards app icon"
       width="128"
       height="128"
     />
 
-    <p id="tagline">Speech practice app for children with expressive speech delay.</p>
+    <p id="tagline"></p>
+    <p id="origin"></p>
 
     <nav class="links" aria-label="Main links">
       <a class="primary" id="download-link" href="https://apps.apple.com/app/id6761809094">Download on the App Store</a>
       <a class="secondary" data-page-link="privacy" href="page.html?p=privacy">Privacy Policy</a>
-      <a class="secondary" data-page-link="terms" href="page.html?p=terms">Terms &amp; Conditions</a>
-      <a class="secondary" data-page-link="faq" href="page.html?p=faq">FAQ</a>
-      <a class="secondary" id="support-link" href="https://www.instagram.com/pan_da_app">Support · @pan_da_app</a>
+      <a class="secondary" data-page-link="terms" href="page.html?p=terms">Terms & Conditions</a>
+      <a class="secondary" data-page-link="faq" href="page.html?p=faq">FAQ & Support</a>
     </nav>
   </main>
 
   <script>
     const LOCALES = {
       en: {
-        tag: 'Speech practice app for children with expressive speech delay.',
+        tag: 'Parent-guided speech support at home. One daily recommendation, coaching tips, therapist reports. 6 languages, no ads, works offline.',
+        origin: 'Built by a parent of a child with speech delay, inspired by real home-practice activities from speech therapy.',
         download: 'Download on the App Store',
         privacy: 'Privacy Policy',
         terms: 'Terms & Conditions',
-        faq: 'FAQ',
-        support: 'Support · @pan_da_app',
+        faq: 'FAQ & Support',
         language: 'Language',
       },
       es: {
-        tag: 'App de práctica del habla para niños con retraso expresivo del lenguaje.',
+        tag: 'Práctica diaria de logopedia en casa. La app recomienda qué practicar cada día. Reportes para tu fonoaudiólogo. 6 idiomas, sin anuncios, funciona sin conexión.',
+        origin: 'Creada por un padre de un niño con retraso en el habla, inspirado en actividades reales de práctica en el hogar de la terapia del habla.',
         download: 'Descargar en App Store',
         privacy: 'Política de privacidad',
         terms: 'Términos y condiciones',
         faq: 'Preguntas frecuentes',
-        support: 'Soporte · @pan_da_app',
         language: 'Idioma',
       },
       pt: {
-        tag: 'App de treino da fala para crianças com atraso expressivo da linguagem.',
+        tag: 'Prática fonoaudiológica diária em casa. O app recomenda o que praticar cada dia. Relatórios para o fonoaudiólogo. 6 idiomas, sem anúncios, funciona offline.',
+        origin: 'Criado por um pai de uma criança com atraso na fala, inspirado em atividades reais de prática em casa da terapia de fala.',
         download: 'Descarregar na App Store',
         privacy: 'Política de privacidade',
         terms: 'Termos e condições',
-        faq: 'FAQ',
-        support: 'Suporte · @pan_da_app',
+        faq: 'Perguntas frequentes',
         language: 'Idioma',
       },
       fr: {
-        tag: 'Application d’entraînement à la parole pour les enfants présentant un retard d’expression orale.',
-        download: 'Télécharger sur l’App Store',
+        tag: 'Pratique orthophonique quotidienne à la maison. L\'app recommande quoi pratiquer chaque jour. Rapports pour le logopède. 6 langues, sans pub, fonctionne hors ligne.',
+        origin: 'Créée par un parent d\'un enfant ayant un retard de la parole, inspirée par des activités réelles de pratique à la maison de l\'orthophonie.',
+        download: 'Télécharger sur l\'App Store',
         privacy: 'Politique de confidentialité',
         terms: 'Conditions générales',
         faq: 'FAQ',
-        support: 'Assistance · @pan_da_app',
         language: 'Langue',
       },
       de: {
-        tag: 'App zum Sprachtraining für Kinder mit expressiver Sprachverzögerung.',
+        tag: 'Tägliche Sprachtherapie zu Hause. Die App empfiehlt täglich, was zu üben ist. Berichte für Logopäden. 6 Sprachen, keine Werbung, funktioniert offline.',
+        origin: 'Entwickelt von einem Elternteil eines Kindes mit Sprachverzögerung, inspiriert von echten häuslichen Übungsaktivitäten aus der Sprachtherapie.',
         download: 'Im App Store laden',
         privacy: 'Datenschutzerklärung',
         terms: 'Allgemeine Geschäftsbedingungen',
         faq: 'FAQ',
-        support: 'Support · @pan_da_app',
         language: 'Sprache',
       },
       cs: {
-        tag: 'Aplikace pro nácvik řeči u dětí s expresivním opožděním řeči.',
+        tag: 'Denní logopedická cvičení doma. Aplikace každý den doporučuje co procvičovat. Reporty pro logopeda. 6 jazyků, bez reklam, funguje offline.',
+        origin: 'Vytvořeno rodiči dítěte s vývojovou dysfázií, inspirováno skutečnými domácími cvičeními z logopedie.',
         download: 'Stáhnout v App Storu',
         privacy: 'Zásady ochrany soukromí',
         terms: 'Obchodní podmínky',
-        faq: 'FAQ',
-        support: 'Podpora · @pan_da_app',
+        faq: 'Časté otázky',
         language: 'Jazyk',
       },
     };
@@ -113,11 +113,11 @@
       const t = LOCALES[lang];
 
       document.getElementById('tagline').textContent = t.tag;
+      document.getElementById('origin').textContent = t.origin;
       document.getElementById('download-link').textContent = t.download;
       document.querySelector('[data-page-link="privacy"]').textContent = t.privacy;
       document.querySelector('[data-page-link="terms"]').textContent = t.terms;
       document.querySelector('[data-page-link="faq"]').textContent = t.faq;
-      document.getElementById('support-link').textContent = t.support;
 
       document.querySelectorAll('[data-page-link]').forEach(link => {
         link.href = `page.html?p=${link.dataset.pageLink}&lang=${lang}`;
