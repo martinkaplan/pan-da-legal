@@ -1,7 +1,7 @@
 # FAQ
 
-## Was ist Pan-da?
-Pan-da ist eine App zur Erweiterung des Wortschatzes und zum Sprachtraining für Kinder mit expressiver Sprachverzögerung. Mit Bildkarten, Sätzen und Spielen lernen Kinder neue Wörter spielerisch.
+## Was ist PAN_DA?
+PAN_DA ist eine App zur Erweiterung des Wortschatzes und zum Sprachtraining für Kinder mit expressiver Sprachverzögerung. Mit Bildkarten, Sätzen und Spielen lernen Kinder neue Wörter spielerisch.
 
 ## Für wen ist die App gedacht?
 Die App richtet sich an Vorschulkinder im Alter von etwa 3 bis 6 Jahren. Sie kann von Eltern, Sprachtherapeuten und pädagogischen Fachkräften genutzt werden.

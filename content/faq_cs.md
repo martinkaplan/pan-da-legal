@@ -1,7 +1,7 @@
 # FAQ
 
-## Co je Pan-da?
-Pan-da je aplikace pro rozvoj slovní zásoby dětí s expresivním opožděním řeči. Pomocí obrázkových kartiček, frází a her pomáhá dětem učit se nová slova a věty hravou formou.
+## Co je PAN_DA?
+PAN_DA je aplikace pro rozvoj slovní zásoby dětí s expresivním opožděním řeči. Pomocí obrázkových kartiček, frází a her pomáhá dětem učit se nová slova a věty hravou formou.
 
 ## Pro koho je aplikace určena?
 Aplikace je určena pro předškolní děti (3–6 let) s expresivní expresivním opožděním řeči. Mohou ji využívat rodiče, logopedi i učitelé v mateřských školách.

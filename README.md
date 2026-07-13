@@ -1,4 +1,4 @@
-# Pan-da localized static site
+# PAN_DA localized static site
 
 Open via a local HTTP server, not by double-clicking `index.html`, because browsers usually block `fetch()` from `file://` URLs.
 

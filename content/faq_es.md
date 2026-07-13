@@ -1,7 +1,7 @@
 # Preguntas frecuentes
 
-## ¿Qué es Pan-da?
-Pan-da es una app para desarrollar vocabulario y practicar el habla en niños con retraso expresivo del lenguaje. Con tarjetas ilustradas, frases y juegos, ayuda a aprender palabras nuevas de forma lúdica.
+## ¿Qué es PAN_DA?
+PAN_DA es una app para desarrollar vocabulario y practicar el habla en niños con retraso expresivo del lenguaje. Con tarjetas ilustradas, frases y juegos, ayuda a aprender palabras nuevas de forma lúdica.
 
 ## ¿Para quién es la app?
 Está pensada para niños en edad preescolar, aproximadamente de 3 a 6 años. Pueden usarla padres, logopedas y docentes.

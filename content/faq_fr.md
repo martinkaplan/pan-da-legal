@@ -1,7 +1,7 @@
 # FAQ
 
-## Qu’est-ce que Pan-da ?
-Pan-da est une application de développement du vocabulaire et d’entraînement à la parole pour les enfants présentant un retard d’expression orale. Grâce à des cartes illustrées, des phrases et des jeux, les enfants apprennent de nouveaux mots de manière ludique.
+## Qu’est-ce que PAN_DA ?
+PAN_DA est une application de développement du vocabulaire et d’entraînement à la parole pour les enfants présentant un retard d’expression orale. Grâce à des cartes illustrées, des phrases et des jeux, les enfants apprennent de nouveaux mots de manière ludique.
 
 ## À qui s’adresse l’application ?
 Elle est destinée aux enfants d’âge préscolaire, environ 3 à 6 ans. Elle peut être utilisée par les parents, orthophonistes et enseignants.

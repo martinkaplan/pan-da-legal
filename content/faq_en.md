@@ -1,7 +1,7 @@
 # FAQ
 
-## What is Pan-da?
-Pan-da is an app for developing vocabulary in children with expressive speech delay. Using picture flashcards, phrases, and games, it helps children learn new words and sentences in a playful way.
+## What is PAN_DA?
+PAN_DA is an app for developing vocabulary in children with expressive speech delay. Using picture flashcards, phrases, and games, it helps children learn new words and sentences in a playful way.
 
 ## Who is the app for?
 The app is designed for preschool children (ages 3–6) with expressive expressive speech delay. It can be used by parents, speech therapists, and kindergarten teachers.
