@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>TalkCards</title>
-  <meta name="description" content="Daily speech therapy practice at home. 5 training modes, 6 languages, daily recommendations, therapist reports." />
+  <title>TalkCards — Playful language practice for young children</title>
+  <meta name="description" content="Playful vocabulary and communication practice for young children. Pictures, sounds and short activities in six languages." />
   <link rel="stylesheet" href="styles.css" />
   <link rel="stylesheet" href="landing.css" />
 </head>
@@ -26,9 +26,9 @@
 <section class="hero">
   <div class="hero-inner">
     <div class="hero-text">
-      <div class="hero-badge" id="hero-badge">🏆 App Store</div>
-      <h1 id="hero-h1">Speech therapy<br>at home,<br>every day.</h1>
-      <p id="hero-sub">Daily practice for children with speech delay. Recommended by speech therapists. Works in 6 languages, offline, no ads.</p>
+      <div class="hero-badge" id="hero-badge">🧡 Built by parents for everyday practice</div>
+      <h1 id="hero-h1">Playful language practice<br>for little learners.</h1>
+      <p id="hero-sub">Build vocabulary and communication through pictures, sounds and short activities — in six languages.</p>
       <a class="btn-primary" id="hero-cta" href="https://apps.apple.com/app/id6761809094">
         <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>
         <span id="hero-cta-text">Download on App Store</span>
@@ -38,34 +38,47 @@
     <div class="hero-visual">
       <div class="phone-mockup">
         <div class="phone-screen">
-          <img src="pan_da.png" alt="TalkCards app" class="phone-app-icon" />
+          <img id="hero-screenshot" src="screen_categories_en.png" alt="TalkCards app screenshot" class="phone-screenshot" />
         </div>
       </div>
     </div>
   </div>
 </section>
 
+<!-- ── STORY ── -->
+<section class="section section-tinted" id="sec-story">
+  <div class="container story-container">
+    <div class="story-icon">🧡</div>
+    <h2 id="story-title">Why we built TalkCards</h2>
+    <p id="story-body">TalkCards started when we were looking for a simple way to practice language and vocabulary with our son at home. We wanted short activities that felt like play — something we could use between therapy sessions, in the car or before bed. Nothing quite fit what we were looking for, so we built our own app.</p>
+    <p id="story-body2">Our son has developmental dysphasia. That experience shaped the app, while its picture-based activities can also support young children building vocabulary, including bilingual families.</p>
+    <p class="story-sig">— Martin &amp; Hannah, Prague</p>
+  </div>
+</section>
+
 <!-- ── FOR WHOM ── -->
 <section class="section" id="sec-for-whom">
   <div class="container">
-    <h2 class="section-title" id="for-whom-title">Who is TalkCards for?</h2>
+    <h2 class="section-title" id="for-whom-title">For children learning to communicate</h2>
+    <p class="section-sub" id="for-whom-sub">Use TalkCards at your child's own pace — for first words, extra speech support or more than one home language.</p>
     <div class="cards-grid-3">
       <div class="feature-card">
-        <div class="feature-icon">👶</div>
-        <h3 id="fw1-title">Children with speech delay</h3>
-        <p id="fw1-body">Designed for developmental dysphasia (vývojová dysfázie), ages 2–7. Cards are organized by communication levels — from first words to full sentences.</p>
+        <div class="feature-icon">🌱</div>
+        <h3 id="fw1-title">First words and vocabulary</h3>
+        <p id="fw1-body">Explore useful everyday words through clear pictures, spoken audio and short playful activities.</p>
       </div>
       <div class="feature-card">
-        <div class="feature-icon">👨‍👩‍👦</div>
-        <h3 id="fw2-title">Parents who practice at home</h3>
-        <p id="fw2-body">The app recommends what to practice today based on your child's history. No guessing. 5–10 minutes a day, guided by what therapists actually recommend.</p>
+        <div class="feature-icon">🗣️</div>
+        <h3 id="fw2-title">A little extra speech support</h3>
+        <p id="fw2-body">A practical tool for home practice between professional sessions or while your family is waiting for support.</p>
       </div>
       <div class="feature-card">
         <div class="feature-icon">🌍</div>
-        <h3 id="fw3-title">Bilingual families</h3>
-        <p id="fw3-body">Practice the same flashcards in Czech, English, German, Portuguese, Spanish or French. Switch languages mid-session — the cards adapt instantly.</p>
+        <h3 id="fw3-title">Bilingual and multilingual families</h3>
+        <p id="fw3-body">Practice the same picture cards in any of six languages and switch whenever your family needs.</p>
       </div>
     </div>
+    <p class="for-whom-cta" id="for-whom-cta">Short, guided activities that fit into everyday family life.</p>
   </div>
 </section>
 
@@ -91,8 +104,8 @@
       <div class="step">
         <div class="step-num">3</div>
         <div class="step-body">
-          <h3 id="step3-title">Report for your therapist</h3>
-          <p id="step3-body">TalkCards tracks accuracy and session history. Export a PDF report and bring it to your next speech therapy appointment.</p>
+          <h3 id="step3-title">Show your therapist what you practiced</h3>
+          <p id="step3-body">TalkCards keeps a practice log — how often, which categories, how well. Export a PDF and bring it to your next appointment as a starting point for the session.</p>
         </div>
       </div>
     </div>
@@ -102,25 +115,25 @@
 <!-- ── TRAINING MODES ── -->
 <section class="section" id="sec-modes">
   <div class="container">
-    <h2 class="section-title" id="modes-title">5 training modes</h2>
-    <p class="section-sub" id="modes-sub">Each mode builds a different skill. Repeat is always free.</p>
+    <h2 class="section-title" id="modes-title">5 activities</h2>
+    <p class="section-sub" id="modes-sub">Each activity builds a different skill. Repeat is always free.</p>
     <div class="modes-grid">
       <div class="mode-card mode-free">
         <div class="mode-badge" id="mode-free-label">FREE</div>
         <div class="mode-emoji">🔁</div>
-        <h3 id="mode1-title">Opakuj / Repeat</h3>
+        <h3 id="mode1-title">Repeat</h3>
         <p id="mode1-body">Swipe through flashcards. Hear every word spoken aloud. Tap syllables to practice pronunciation step by step.</p>
       </div>
       <div class="mode-card mode-premium">
         <div class="mode-badge mode-badge-premium">✦ Premium</div>
         <div class="mode-emoji">🔍</div>
-        <h3 id="mode2-title">Najdi</h3>
+        <h3 id="mode2-title">Find</h3>
         <p id="mode2-body">The app says a word — your child taps the right image from 4 options. Builds receptive vocabulary.</p>
       </div>
       <div class="mode-card mode-premium">
         <div class="mode-badge mode-badge-premium">✦ Premium</div>
         <div class="mode-emoji">🔊</div>
-        <h3 id="mode3-title">Poznej zvuk</h3>
+        <h3 id="mode3-title">Hear & Find</h3>
         <p id="mode3-body">Identify animals and objects by their real sound — not the word. Works with 60+ audio recordings.</p>
       </div>
       <div class="mode-card mode-premium">
@@ -166,8 +179,8 @@
       </div>
       <div class="feature-card">
         <div class="feature-icon">📊</div>
-        <h3 id="feat5-title">Therapist reports</h3>
-        <p id="feat5-body">Export a PDF with session history, accuracy by category, and progress over time. Bring it to your next appointment.</p>
+        <h3 id="feat5-title">Practice log PDF</h3>
+        <p id="feat5-body">Export a practice summary — frequency, categories, accuracy — and bring it to your therapist so they know exactly what you've been working on at home.</p>
       </div>
       <div class="feature-card">
         <div class="feature-icon">🎚️</div>
@@ -182,17 +195,13 @@
 <section class="section section-tinted" id="sec-pricing">
   <div class="container pricing-container">
     <h2 class="section-title" id="pricing-title">Simple pricing</h2>
-    <div class="billing-toggle" id="billing-toggle">
-      <button class="billing-btn active" data-billing="monthly" id="btn-monthly">Monthly</button>
-      <button class="billing-btn" data-billing="yearly" id="btn-yearly">Yearly <span class="save-badge" id="save-badge">Save 67%</span></button>
-    </div>
     <div class="pricing-grid">
       <div class="pricing-card">
         <div class="pricing-label" id="price-free-label">Free</div>
         <div class="pricing-price">$0</div>
         <ul class="pricing-list">
           <li id="pf1">✅ Repeat mode</li>
-          <li id="pf2">✅ All 500+ flashcards</li>
+          <li id="pf2">✅ Hundreds of picture cards</li>
           <li id="pf3">✅ 6 languages</li>
           <li id="pf4">✅ Daily recommendations</li>
           <li id="pf5">✅ Family & classmates cards</li>
@@ -203,8 +212,7 @@
       <div class="pricing-card pricing-card-featured">
         <div class="pricing-label" id="price-premium-label">Premium</div>
         <div class="pricing-price">
-          <span id="price-monthly-display">$4.99<span id="per-month">/month</span></span>
-          <span id="price-yearly-display" style="display:none">$19.99<span id="per-year">/year</span></span>
+          $4.99<span id="per-month">/month</span>
         </div>
         <ul class="pricing-list">
           <li id="pp1">✅ Everything in Free</li>
@@ -212,7 +220,7 @@
           <li id="pp3">✅ Sounds mode</li>
           <li id="pp4">✅ Phrases mode</li>
           <li id="pp5">✅ Memory game</li>
-          <li id="pp6">✅ Therapist PDF reports</li>
+          <li id="pp6">✅ Practice log PDF</li>
         </ul>
         <a class="btn-primary" id="price-premium-cta" href="https://apps.apple.com/app/id6761809094">Start free trial</a>
       </div>
@@ -229,12 +237,12 @@
       <div class="roadmap-version">
         <div class="roadmap-tag roadmap-done" id="tag-10">Version 1.0 — Released</div>
         <ul class="roadmap-list">
-          <li id="r10-1">✅ 500+ flashcards across 20 categories</li>
+          <li id="r10-1">✅ 650+ flashcards across 20+ categories</li>
           <li id="r10-2">✅ 5 training modes (Repeat, Find, Sounds, Phrases, Memory)</li>
-          <li id="r10-3">✅ 6 languages with native TTS voices</li>
+          <li id="r10-3">✅ Text-to-speech in six languages</li>
           <li id="r10-4">✅ Daily smart recommendations</li>
           <li id="r10-5">✅ Family & Classmates custom photo cards</li>
-          <li id="r10-6">✅ Therapist PDF reports</li>
+          <li id="r10-6">✅ Practice log PDF</li>
           <li id="r10-7">✅ Syllable breakdown in Repeat mode</li>
           <li id="r10-8">✅ Communication level settings</li>
           <li id="r10-9">✅ Works offline, syncs via iCloud</li>
@@ -243,10 +251,12 @@
       <div class="roadmap-version">
         <div class="roadmap-tag roadmap-next" id="tag-11">Version 1.1 — Coming soon</div>
         <ul class="roadmap-list">
-          <li id="r11-1">🚀 Bilingual practice — practice the same words in two languages back to back</li>
-          <li id="r11-2">🚀 Family cards speak your language — "Tatínek" becomes "Daddy" when you switch to English</li>
-          <li id="r11-3">🚀 Vocabulary gating by communication stage — core words first, expansion later</li>
-          <li id="r11-4">🚀 More card categories</li>
+          <li id="r11-1">🚀 750+ flashcards across 25+ categories — expanded vocabulary</li>
+          <li id="r11-2">🚀 Bilingual practice — same words in two languages back to back</li>
+          <li id="r11-3">🚀 Vocabulary filtering by communication level</li>
+          <li id="r11-4">🚀 Find by Phrase — hear a sentence, choose the matching picture</li>
+          <li id="r11-5">🚀 Odd One Out — which picture doesn't belong?</li>
+          <li id="r11-6">🚀 Custom card labels — pick a role (Daddy, Grandma, Friend…)</li>
         </ul>
       </div>
       <div class="roadmap-version">
@@ -258,17 +268,6 @@
         </ul>
       </div>
     </div>
-  </div>
-</section>
-
-<!-- ── STORY ── -->
-<section class="section section-tinted" id="sec-story">
-  <div class="container story-container">
-    <div class="story-icon">🐼</div>
-    <h2 id="story-title">Made for Matyáš</h2>
-    <p id="story-body">TalkCards started as a home project when our son Matyáš was diagnosed with developmental dysphasia. We wanted something we could actually use at home — between therapy sessions, in the car, before bed. Something that felt like play, not homework. We couldn't find it, so we built it.</p>
-    <p id="story-body2">If you're a parent going through the same thing — this was made for you.</p>
-    <p class="story-sig">— Martin &amp; Hannah, Prague</p>
   </div>
 </section>
 
@@ -297,8 +296,12 @@
       <a id="footer-terms" href="page.html?p=terms">Terms &amp; Conditions</a>
       <a id="footer-faq" href="page.html?p=faq">FAQ &amp; Support</a>
       <a href="mailto:contact.panda.app@gmail.com">contact.panda.app@gmail.com</a>
+      <a href="https://www.instagram.com/pan_da_app" target="_blank" rel="noopener" class="footer-instagram">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg>
+        @pan_da_app
+      </a>
     </nav>
-    <p class="footer-copy" id="footer-copy">© 2025 TalkCards. Made in Prague.</p>
+    <p class="footer-copy" id="footer-copy">© 2026 TalkCards. Made in Prague.</p>
   </div>
 </footer>
 
@@ -306,98 +309,111 @@
 const L = {
   en: {
     'nav-download': 'Download',
-    'hero-badge': '🏆 App Store',
-    'hero-h1': 'Speech therapy<br>at home,<br>every day.',
-    'hero-sub': 'Daily practice for children with speech delay. Recommended by speech therapists. Works in 6 languages, offline, no ads.',
+    'hero-badge': '🧡 Built by parents for everyday practice',
+    'hero-h1': 'Playful language practice<br>for little learners.',
+    'hero-sub': 'Build vocabulary and communication through pictures, sounds and short activities — in six languages.',
     'hero-cta-text': 'Download on App Store',
     'hero-free': 'Free to download · Premium from $4.99/month',
-    'for-whom-title': 'Who is TalkCards for?',
-    'fw1-title': 'Children with speech delay',
-    'fw1-body': 'Designed for developmental dysphasia, ages 2–7. Cards are organized by communication level — from first words to full sentences.',
-    'fw2-title': 'Parents who practice at home',
-    'fw2-body': 'The app recommends what to practice today. 5–10 minutes a day, guided by what therapists actually recommend.',
-    'fw3-title': 'Bilingual families',
-    'fw3-body': 'Practice in Czech, English, German, Portuguese, Spanish or French. Switch languages mid-session — cards adapt instantly.',
+    'for-whom-title': 'For children learning to communicate',
+    'for-whom-sub': 'Use TalkCards at your child\'s own pace — for first words, extra speech support or more than one home language.',
+    'fw1-title': 'First words and vocabulary',
+    'fw1-body': 'Explore useful everyday words through clear pictures, spoken audio and short playful activities.',
+    'fw2-title': 'A little extra speech support',
+    'fw2-body': 'A practical tool for home practice between professional sessions or while your family is waiting for support.',
+    'fw3-title': 'Bilingual and multilingual families',
+    'fw3-body': 'Practice the same picture cards in any of six languages and switch whenever your family needs.',
+    'for-whom-cta': 'Short, guided activities that fit into everyday family life.',
     'how-title': 'How it works',
     'step1-title': "Today's recommendation",
     'step1-body': "Every day the app suggests which category to practice — based on what your child hasn't seen recently and their communication level.",
     'step2-title': 'Practice together',
     'step2-body': 'Pick a training mode and go through flashcards together. The app speaks every word aloud.',
-    'step3-title': 'Report for your therapist',
-    'step3-body': 'TalkCards tracks accuracy and session history. Export a PDF and bring it to your next speech therapy appointment.',
-    'modes-title': '5 training modes',
-    'modes-sub': 'Each mode builds a different skill. Repeat is always free.',
+    'step3-title': 'Show your therapist what you practiced',
+    'step3-body': 'TalkCards keeps a practice log — how often, which categories, how well. Export a PDF and bring it to your next appointment as a starting point.',
+    'modes-title': '5 activities',
+    'modes-sub': 'Each activity builds a different skill. Repeat is always free.',
     'mode-free-label': 'FREE',
     'mode1-title': 'Repeat', 'mode1-body': 'Swipe through flashcards. Hear every word spoken aloud. Tap syllables to practice pronunciation step by step.',
     'mode2-title': 'Find', 'mode2-body': 'The app says a word — your child taps the right image from 4 options. Builds receptive vocabulary.',
-    'mode3-title': 'Hear & Find', 'mode3-body': 'Identify animals by their real sound — not the word. Works with 60+ audio recordings.',
+    'mode3-title': 'Hear & Find', 'mode3-body': 'Identify animals by their real sound — not the word. Includes real recorded animal sounds.',
     'mode4-title': 'Phrases', 'mode4-body': '5 ready-to-use sentences for every card — from simple needs to full conversational phrases.',
     'mode5-title': 'Memory', 'mode5-body': 'Classic memory matching. Flip cards, find pairs, hear words on every match.',
     'langs-title': '6 languages, one app',
-    'langs-sub': 'Practice 500+ flashcards in any language. Perfect for bilingual children or families living abroad.',
+    'langs-sub': 'Practice 650+ flashcards in any language. Perfect for bilingual children or families living abroad.',
     'langs-note': 'Italian and Polish coming soon.',
     'feat-title': 'Built for daily use',
     'feat1-title': 'Works offline', 'feat1-body': 'All cards and audio work without internet. Practice in the car, on a plane, anywhere.',
     'feat2-title': 'Private by design', 'feat2-body': 'No account, no ads, no tracking. Give your child an older phone to practice on — your device stays in sync via iCloud automatically.',
     'feat3-title': 'Daily recommendations', 'feat3-body': 'The app learns what you\'ve practiced and suggests the right category each day.',
     'feat4-title': 'Family & classmates', 'feat4-body': 'Add photos of family members and classmates from your phone — they appear on the child\'s device instantly via iCloud.',
-    'feat5-title': 'Therapist reports', 'feat5-body': 'Export PDF with session history and accuracy. Bring it to your next appointment.',
+    'feat5-title': 'Practice log PDF', 'feat5-body': 'Export a practice summary — frequency, categories, accuracy — so your therapist knows exactly what you\'ve been working on at home.',
     'feat6-title': 'Communication levels', 'feat6-body': 'Set your child\'s stage — nonverbal to full sentences. The app adapts cards and modes shown.',
     'pricing-title': 'Simple pricing',
     'price-free-label': 'Free', 'price-premium-label': 'Premium',
     'per-month': '/month',
-    'pf1': '✅ Repeat mode', 'pf2': '✅ All 500+ flashcards', 'pf3': '✅ 6 languages',
+    'pf1': '✅ Repeat mode', 'pf2': '✅ All 700+ flashcards', 'pf3': '✅ 6 languages',
     'pf4': '✅ Daily recommendations', 'pf5': '✅ Family & classmates cards', 'pf6': '✅ Offline + iCloud sync',
     'price-free-cta': 'Download free',
     'pp1': '✅ Everything in Free', 'pp2': '✅ Find mode', 'pp3': '✅ Hear & Find mode',
-    'pp4': '✅ Phrases mode', 'pp5': '✅ Memory game', 'pp6': '✅ Therapist PDF reports',
+    'pp4': '✅ Phrases mode', 'pp5': '✅ Memory game', 'pp6': '✅ Practice log PDF',
     'price-premium-cta': 'Start free trial',
     'roadmap-title': 'Roadmap',
     'roadmap-sub': 'Built actively. New features ship regularly.',
     'tag-10': 'Version 1.0 — Released',
-    'r10-1': '✅ 500+ flashcards across 20 categories', 'r10-2': '✅ 5 training modes', 'r10-3': '✅ 6 languages with native TTS voices',
-    'r10-4': '✅ Daily smart recommendations', 'r10-5': '✅ Family & Classmates photo cards', 'r10-6': '✅ Therapist PDF reports',
+    'r10-1': '✅ 700+ flashcards across 20 categories', 'r10-2': '✅ 5 training modes', 'r10-3': '✅ Text-to-speech in six languages',
+    'r10-4': '✅ Daily smart recommendations', 'r10-5': '✅ Family & Classmates photo cards', 'r10-6': '✅ Practice log PDF',
     'r10-7': '✅ Syllable breakdown in Repeat', 'r10-8': '✅ Communication level settings', 'r10-9': '✅ Works offline, syncs via iCloud',
     'tag-11': 'Version 1.1 — Coming soon',
     'r11-1': '🚀 Bilingual practice — same words in two languages back to back',
-    'r11-2': '🚀 Family cards speak your language — "Tatínek" becomes "Daddy" in English',
+    'r11-2': '🚀 Custom card labels — pick a role (Daddy, Grandma, Friend…) and it switches language automatically',
     'r11-3': '🚀 Vocabulary gating by communication stage',
     'r11-4': '🚀 More card categories',
+    'r11-5': '🚀 Odd one out — tap which picture doesn\'t belong, builds categorisation skills',
+    'r11-6': '🚀 What do you hear? — hear a short phrase and choose the matching picture — builds sentence comprehension',
     'tag-future': 'Future',
     'rf1': '💡 Italian and Polish', 'rf2': '💡 Android version', 'rf3': '💡 Therapist dashboard',
-    'story-title': 'Made for Matyáš',
-    'story-body': 'TalkCards started as a home project when our son Matyáš was diagnosed with developmental dysphasia. We wanted something we could use at home — between therapy sessions, in the car, before bed. Something that felt like play, not homework. We couldn\'t find it, so we built it.',
-    'story-body2': 'If you\'re a parent going through the same thing — this was made for you.',
-    'cta-title': 'Start practicing today',
+    'story-title': 'Why we built TalkCards',
+    'story-body': 'TalkCards started when we were looking for a simple way to practice language and vocabulary with our son at home. We wanted short activities that felt like play — something we could use between therapy sessions, in the car or before bed. Nothing quite fit what we were looking for, so we built our own app.',
+    'story-body2': 'Our son has developmental dysphasia. That experience shaped the app, while its picture-based activities can also support young children building vocabulary, including bilingual families.',
+    'pf2': '✅ Hundreds of picture cards',
+    'r10-1': '✅ 650+ flashcards across 20+ categories',
+    'r11-1': '🚀 750+ flashcards across 25+ categories — expanded vocabulary',
+    'r11-2': '🚀 Bilingual practice — same words in two languages back to back',
+    'r11-3': '🚀 Vocabulary filtering by communication level',
+    'r11-4': '🚀 Find by Phrase — hear a sentence, choose the matching picture',
+    'r11-5': '🚀 Odd One Out — which picture doesn\'t belong?',
+    'r11-6': '🚀 Custom card labels — pick a role (Daddy, Grandma, Friend…)',
+    'cta-title': 'Start practising today',
     'cta-sub': 'Free to download. No account needed.',
     'cta-btn-text': 'Download on App Store',
     'footer-privacy': 'Privacy Policy', 'footer-terms': 'Terms & Conditions', 'footer-faq': 'FAQ & Support',
-    'billing-monthly': 'Monthly', 'billing-yearly': 'Yearly', 'save-badge': 'Save 67%',
-    'footer-copy': '© 2025 TalkCards. Made in Prague.',
+    'footer-copy': '© 2026 TalkCards. Made in Prague.',
   },
   cs: {
     'nav-download': 'Stáhnout',
-    'hero-badge': '🏆 App Store',
-    'hero-h1': 'Logopedie doma,<br>každý den.',
-    'hero-sub': 'Denní procvičování pro děti s vývojovou dysfázií. Doporučeno logopedy. 6 jazyků, offline, bez reklam.',
+    'hero-badge': '🧡 Vytvořeno rodiči pro každodenní procvičování',
+    'hero-h1': 'Hravé procvičování řeči<br>pro malé děti.',
+    'hero-sub': 'Rozšiřujte slovní zásobu a komunikaci pomocí obrázků, zvuků a krátkých aktivit — v šesti jazycích.',
     'hero-cta-text': 'Stáhnout v App Storu',
     'hero-free': 'Zdarma ke stažení · Premium od 119 Kč/měsíc',
-    'for-whom-title': 'Pro koho je TalkCards?',
-    'fw1-title': 'Děti s vývojovou dysfázií',
-    'fw1-body': 'Navrženo pro vývojovou dysfázii, věk 2–7 let. Karty jsou organizovány podle komunikační úrovně — od prvních slov po celé věty.',
-    'fw2-title': 'Rodiče, kteří procvičují doma',
-    'fw2-body': 'Aplikace každý den doporučí, co procvičovat. 5–10 minut denně, vedené tím, co logopedi skutečně doporučují.',
-    'fw3-title': 'Dvojjazyčné rodiny',
-    'fw3-body': 'Procvičujte v češtině, angličtině, němčině, portugalštině, španělštině nebo francouzštině. Přepněte jazyk uprostřed sezení — karty se okamžitě přizpůsobí.',
+    'for-whom-title': 'Pro děti, které se učí komunikovat',
+    'for-whom-sub': 'Používejte TalkCards vlastním tempem dítěte — pro první slova, větší podporu řeči i více jazyků doma.',
+    'fw1-title': 'První slova a slovní zásoba',
+    'fw1-body': 'Objevujte užitečná každodenní slova pomocí jasných obrázků, namluveného zvuku a krátkých hravých aktivit.',
+    'fw2-title': 'Trocha podpory navíc',
+    'fw2-body': 'Praktická pomůcka pro domácí procvičování mezi návštěvami odborníka nebo během čekání na další podporu.',
+    'fw3-title': 'Dvojjazyčné a vícejazyčné rodiny',
+    'fw3-body': 'Procvičujte stejné obrázkové karty v kterémkoli ze šesti jazyků a přepínejte podle potřeb vaší rodiny.',
+    'for-whom-cta': 'Krátké vedené aktivity, které zapadnou do běžného rodinného dne.',
     'how-title': 'Jak to funguje',
     'step1-title': 'Doporučení na dnes',
     'step1-body': 'Každý den aplikace navrhne, jakou kategorii procvičit — na základě toho, co dítě nevidělo nedávno a jeho komunikační úrovně.',
     'step2-title': 'Procvičujte společně',
     'step2-body': 'Vyberte tréninkový mód a projděte karty společně. Aplikace každé slovo vysloví nahlas.',
-    'step3-title': 'Report pro logopeda',
-    'step3-body': 'TalkCards sleduje přesnost a historii sezení. Exportujte PDF a přineste ho na příští návštěvu logopeda.',
-    'modes-title': '5 tréninkových módů',
-    'modes-sub': 'Každý mód rozvíjí jinou dovednost. Opakování je vždy zdarma.',
+    'step3-title': 'Ukažte logopedovi, co jste procvičovali',
+    'step3-body': 'TalkCards vede záznamy — jak často, jaké kategorie, jak přesně. Exportujte PDF a přineste ho na příští sezení jako podklad pro rozhovor.',
+    'modes-title': '5 aktivit',
+    'modes-sub': 'Každá aktivita rozvíjí jinou dovednost. Opakování je vždy zdarma.',
     'mode-free-label': 'ZDARMA',
     'mode1-title': 'Opakuj', 'mode1-body': 'Přejíždějte kartami. Každé slovo je vysloveno nahlas. Klepněte na slabiky pro procvičení výslovnosti krok po kroku.',
     'mode2-title': 'Najdi', 'mode2-body': 'Aplikace řekne slovo — dítě klepne na správný obrázek ze 4 možností. Rozvíjí receptivní slovní zásobu.',
@@ -405,189 +421,254 @@ const L = {
     'mode4-title': 'Fráze', 'mode4-body': '5 hotových vět pro každou kartu — od jednoduchých potřeb po celé konverzační fráze.',
     'mode5-title': 'Pexeso', 'mode5-body': 'Klasická paměťová hra. Otočte karty, najděte páry, slyšte slova při každém úspěšném párování.',
     'langs-title': '6 jazyků, jedna aplikace',
-    'langs-sub': 'Procvičujte 500+ karet v libovolném jazyce. Ideální pro dvojjazyčné děti nebo rodiny žijící v zahraničí.',
+    'langs-sub': 'Procvičujte 650+ karet v libovolném jazyce. Ideální pro dvojjazyčné děti nebo rodiny žijící v zahraničí.',
     'langs-note': 'Italština a polština připravována.',
     'feat-title': 'Navrženo pro každodenní použití',
     'feat1-title': 'Funguje offline', 'feat1-body': 'Všechny karty a zvuky fungují bez internetu. Procvičujte v autě, v letadle, kdekoliv.',
     'feat2-title': 'Soukromé by design', 'feat2-body': 'Bez účtu, bez reklam, bez sledování. Dejte dítěti starší telefon na procvičování — váš přístroj se automaticky synchronizuje přes iCloud.',
     'feat3-title': 'Denní doporučení', 'feat3-body': 'Aplikace si pamatuje, co jste procvičovali, a každý den navrhuje správnou kategorii.',
     'feat4-title': 'Rodina a spolužáci', 'feat4-body': 'Přidejte fotky rodiny a spolužáků ze svého telefonu — na přístroji dítěte se ihned zobrazí přes iCloud.',
-    'feat5-title': 'Reporty pro logopeda', 'feat5-body': 'Exportujte PDF s historií sezení a přesností. Přineste ho na příští návštěvu.',
+    'feat5-title': 'Záznamy o procvičování', 'feat5-body': 'Exportujte přehled procvičování — frekvence, kategorie, přesnost — ať logoped hned ví, čemu jste se doma věnovali.',
     'feat6-title': 'Komunikační úrovně', 'feat6-body': 'Nastavte vývojovou fázi dítěte — od neverbálního stádia po celé věty. Aplikace přizpůsobí zobrazené karty a módy.',
     'pricing-title': 'Jednoduché ceny',
     'price-free-label': 'Zdarma', 'price-premium-label': 'Premium',
     'per-month': '/měsíc',
-    'pf1': '✅ Mód Opakuj', 'pf2': '✅ Všech 500+ karet', 'pf3': '✅ 6 jazyků',
+    'pf1': '✅ Mód Opakuj', 'pf2': '✅ Všech 700+ karet', 'pf3': '✅ 6 jazyků',
     'pf4': '✅ Denní doporučení', 'pf5': '✅ Karty rodiny a spolužáků', 'pf6': '✅ Offline + iCloud sync',
     'price-free-cta': 'Stáhnout zdarma',
     'pp1': '✅ Vše ze Zdarma', 'pp2': '✅ Mód Najdi', 'pp3': '✅ Mód Poznej zvuk',
-    'pp4': '✅ Mód Fráze', 'pp5': '✅ Pexeso', 'pp6': '✅ PDF reporty pro logopeda',
+    'pp4': '✅ Mód Fráze', 'pp5': '✅ Pexeso', 'pp6': '✅ Záznamy o procvičování (PDF)',
     'price-premium-cta': 'Vyzkoušet Premium',
     'roadmap-title': 'Plán vývoje',
     'roadmap-sub': 'Aktivně vyvíjíme. Nové funkce přichází pravidelně.',
     'tag-10': 'Verze 1.0 — Vydáno',
-    'r10-1': '✅ 500+ karet ve 20 kategoriích', 'r10-2': '✅ 5 tréninkových módů', 'r10-3': '✅ 6 jazyků s nativními TTS hlasy',
-    'r10-4': '✅ Chytrá denní doporučení', 'r10-5': '✅ Vlastní fotky pro rodinu a spolužáky', 'r10-6': '✅ PDF reporty pro logopeda',
+    'r10-1': '✅ 700+ karet ve 20 kategoriích', 'r10-2': '✅ 5 tréninkových módů', 'r10-3': '✅ Text-to-speech v šesti jazycích',
+    'r10-4': '✅ Chytrá denní doporučení', 'r10-5': '✅ Vlastní fotky pro rodinu a spolužáky', 'r10-6': '✅ Záznamy o procvičování (PDF)',
     'r10-7': '✅ Slabikování v Opakování', 'r10-8': '✅ Nastavení komunikační úrovně', 'r10-9': '✅ Offline, synchronizace přes iCloud',
     'tag-11': 'Verze 1.1 — Připravujeme',
     'r11-1': '🚀 Bilingvní procvičování — stejná slova ve dvou jazycích za sebou',
-    'r11-2': '🚀 Karty rodiny mluví vaším jazykem — "Tatínek" se stane "Daddy" po přepnutí do angličtiny',
+    'r11-2': '🚀 Vlastní štítky karet — vyberte roli (Tatínek, Babička, Kamarád…) a název se automaticky přepne s jazykem',
     'r11-3': '🚀 Filtrování slovní zásoby podle komunikační fáze',
     'r11-4': '🚀 Nové kategorie karet',
+    'r11-5': '🚀 Co sem nepatří — klepni na obrázek který nepatří do skupiny, rozvíjí kategorizaci',
+    'r11-6': '🚀 Co slyšíš? — uslyš krátkou frázi a vyber odpovídající obrázek — rozvíjí porozumění větám',
     'tag-future': 'Budoucnost',
     'rf1': '💡 Italština a polština', 'rf2': '💡 Android verze', 'rf3': '💡 Dashboard pro logopeda',
-    'story-title': 'Vytvořeno pro Matyáše',
-    'story-body': 'TalkCards vznikl jako domácí projekt, když byl našemu synovi Matyášovi diagnostikována vývojová dysfázie. Chtěli jsme něco, co bychom mohli používat doma — mezi terapiemi, v autě, před spaním. Něco, co vypadá jako hra, ne jako domácí úkol. Nenašli jsme to, tak jsme to vytvořili.',
-    'story-body2': 'Pokud jste rodič procházející stejnou situací — tohle jsme vytvořili pro vás.',
+    'story-title': 'Proč jsme TalkCards vytvořili',
+    'story-body': 'TalkCards vznikl, když jsme hledali jednoduchý způsob, jak se synem pravidelně procvičovat řeč a slovní zásobu doma. Chtěli jsme krátké aktivity, které působí jako hra a které můžeme používat mezi návštěvami logopeda, v autě nebo před spaním. Nic podobného nám úplně nevyhovovalo, a tak jsme vytvořili vlastní aplikaci.',
+    'story-body2': 'Náš syn má vývojovou dysfázii. Tato zkušenost podobu aplikace výrazně ovlivnila, její obrázkové aktivity ale mohou podpořit i malé děti rozšiřující slovní zásobu, včetně dvojjazyčných rodin.',
+    'pf2': '✅ Stovky obrázkových karet',
+    'r10-1': '✅ 650+ karet ve 20+ kategoriích',
+    'r11-1': '🚀 750+ karet ve 25+ kategoriích — rozšířená slovní zásoba',
+    'r11-2': '🚀 Bilingvní procvičování — stejná slova ve dvou jazycích za sebou',
+    'r11-3': '🚀 Filtrování slovní zásoby podle komunikační úrovně',
+    'r11-4': '🚀 Co slyšíš? — uslyšte větu, vyberte odpovídající obrázek',
+    'r11-5': '🚀 Co sem nepatří? — procvičuje kategorizaci',
+    'r11-6': '🚀 Vlastní štítky karet — vyberte roli (Tatínek, Babička, Kamarád…)',
     'cta-title': 'Začněte procvičovat dnes',
     'cta-sub': 'Zdarma ke stažení. Bez registrace.',
     'cta-btn-text': 'Stáhnout v App Storu',
     'footer-privacy': 'Zásady ochrany soukromí', 'footer-terms': 'Obchodní podmínky', 'footer-faq': 'Časté otázky',
-    'billing-monthly': 'Měsíčně', 'billing-yearly': 'Ročně', 'save-badge': 'Ušetřete 67 %',
-    'footer-copy': '© 2025 TalkCards. Vytvořeno v Praze.',
+    'footer-copy': '© 2026 TalkCards. Vytvořeno v Praze.',
   },
   de: {
     'nav-download': 'Herunterladen',
-    'hero-h1': 'Sprachtherapie<br>zu Hause,<br>jeden Tag.',
-    'hero-sub': 'Tägliches Üben für Kinder mit Sprachverzögerung. Von Logopäden empfohlen. 6 Sprachen, offline, ohne Werbung.',
+    'hero-badge': '🧡 Von Eltern für den Alltag entwickelt',
+    'hero-h1': 'Spielerisches Sprachtraining<br>für kleine Kinder.',
+    'hero-sub': 'Wortschatz und Kommunikation durch Bilder, Sounds und kurze Aktivitäten üben — in sechs Sprachen.',
     'hero-cta-text': 'Im App Store laden',
     'hero-free': 'Kostenlos herunterladen · Premium ab 4,99 $/Monat',
-    'for-whom-title': 'Für wen ist TalkCards?',
-    'fw1-title': 'Kinder mit Sprachverzögerung', 'fw1-body': 'Entwickelt für Sprachentwicklungsstörungen, Alter 2–7.',
-    'fw2-title': 'Eltern, die zu Hause üben', 'fw2-body': 'Die App empfiehlt täglich, was geübt werden soll.',
-    'fw3-title': 'Zweisprachige Familien', 'fw3-body': 'Übe auf Tschechisch, Englisch, Deutsch, Portugiesisch, Spanisch oder Französisch.',
+    'for-whom-title': 'Für Kinder, die lernen zu kommunizieren',
+    'for-whom-sub': 'Nutzen Sie TalkCards im eigenen Tempo Ihres Kindes — für erste Wörter, mehr Sprachunterstützung oder mehrere Sprachen zu Hause.',
+    'fw1-title': 'Erste Wörter und Wortschatz', 'fw1-body': 'Entdecken Sie nützliche Alltagswörter durch klare Bilder, gesprochenes Audio und kurze spielerische Aktivitäten.',
+    'fw2-title': 'Ein bisschen mehr Sprachunterstützung', 'fw2-body': 'Ein praktisches Werkzeug für das Üben zu Hause zwischen Fachsitzungen oder während Ihre Familie auf Unterstützung wartet.',
+    'fw3-title': 'Zwei- und mehrsprachige Familien', 'fw3-body': 'Üben Sie dieselben Bildkarten in einer von sechs Sprachen und wechseln Sie, wann immer Ihre Familie es braucht.',
+    'for-whom-cta': 'Kurze, geführte Aktivitäten, die in den Familienalltag passen.',
     'how-title': 'So funktioniert es',
     'step1-title': 'Empfehlung für heute', 'step1-body': 'Die App schlägt täglich vor, welche Kategorie geübt werden soll.',
     'step2-title': 'Gemeinsam üben', 'step2-body': 'Wähle einen Trainingsmodus und gehe Karteikarten gemeinsam durch.',
-    'step3-title': 'Bericht für den Logopäden', 'step3-body': 'Exportiere ein PDF und bringe es zur nächsten Sitzung.',
-    'modes-title': '5 Trainingsmodi',
-    'modes-sub': 'Jeder Modus entwickelt eine andere Fähigkeit. Wiederholen ist immer kostenlos.',
+    'step3-title': 'Zeige dem Logopäden, was ihr geübt habt', 'step3-body': 'TalkCards führt ein Übungsprotokoll — Häufigkeit, Kategorien, Genauigkeit. Exportiere ein PDF als Gesprächsgrundlage für die nächste Sitzung.',
+    'modes-title': '5 Aktivitäten',
+    'modes-sub': 'Jede Aktivität entwickelt eine andere Fähigkeit. Wiederholen ist immer kostenlos.',
     'mode-free-label': 'KOSTENLOS',
     'mode1-title': 'Wiederholen', 'mode2-title': 'Finde', 'mode3-title': 'Ton erkennen', 'mode4-title': 'Phrasen', 'mode5-title': 'Memory',
     'langs-title': '6 Sprachen, eine App',
-    'langs-sub': 'Übe 500+ Karten in jeder Sprache. Perfekt für zweisprachige Kinder.',
+    'langs-sub': 'Übe 650+ Karten in jeder Sprache. Perfekt für zweisprachige Kinder.',
     'langs-note': 'Italienisch und Polnisch kommen bald.',
     'feat-title': 'Für den täglichen Gebrauch',
     'feat1-title': 'Funktioniert offline', 'feat2-title': 'Privat by Design', 'feat2-body': 'Kein Konto, keine Werbung, kein Tracking. Gib dem Kind ein älteres Gerät — dein Gerät synchronisiert sich automatisch über iCloud.', 'feat3-title': 'Tägliche Empfehlungen',
-    'feat4-title': 'Familie & Mitschüler', 'feat4-body': 'Füge Fotos von Familienmitgliedern hinzu — sie erscheinen sofort auf dem Gerät des Kindes über iCloud.', 'feat5-title': 'Logopädenberichte', 'feat6-title': 'Kommunikationsstufen',
+    'feat4-title': 'Familie & Mitschüler', 'feat4-body': 'Füge Fotos von Familienmitgliedern hinzu — sie erscheinen sofort auf dem Gerät des Kindes über iCloud.', 'feat5-title': 'Übungsprotokoll PDF', 'feat5-body': 'Exportiere eine Übungszusammenfassung — Häufigkeit, Kategorien, Genauigkeit — damit der Logopäde sofort weiß, woran ihr zu Hause gearbeitet habt.', 'feat6-title': 'Kommunikationsstufen',
     'pricing-title': 'Einfache Preise', 'price-free-label': 'Kostenlos', 'price-premium-label': 'Premium', 'per-month': '/Monat',
     'price-free-cta': 'Kostenlos laden', 'price-premium-cta': 'Testversion starten',
     'roadmap-title': 'Roadmap', 'roadmap-sub': 'Aktiv entwickelt. Neue Funktionen erscheinen regelmäßig.',
     'tag-10': 'Version 1.0 — Veröffentlicht', 'tag-11': 'Version 1.1 — Demnächst', 'tag-future': 'Zukunft',
-    'story-title': 'Gemacht für Matyáš',
-    'story-body': 'TalkCards entstand als Hausprojekt, als bei unserem Sohn Matyáš eine Sprachentwicklungsstörung diagnostiziert wurde.',
-    'story-body2': 'Wenn du ein Elternteil in derselben Situation bist — das wurde für dich gemacht.',
+    'story-title': 'Warum wir TalkCards gebaut haben',
+    'story-body': 'TalkCards entstand, als wir nach einem einfachen Weg suchten, mit unserem Sohn regelmäßig Sprache und Wortschatz zu Hause zu üben. Wir wollten kurze Aktivitäten, die sich wie Spielen anfühlen — etwas, das wir zwischen Therapiestunden, im Auto oder vor dem Schlafengehen nutzen können. Nichts passte so richtig, also haben wir unsere eigene App entwickelt.',
+    'story-body2': 'Unser Sohn hat eine Sprachentwicklungsstörung. Diese Erfahrung hat die App geprägt, während ihre bildbasierten Aktivitäten auch junge Kinder beim Wortschatzaufbau unterstützen können — einschließlich zweisprachiger Familien.',
     'cta-title': 'Heute mit dem Üben beginnen', 'cta-sub': 'Kostenlos herunterladen. Kein Konto erforderlich.',
     'cta-btn-text': 'Im App Store laden',
     'footer-privacy': 'Datenschutzerklärung', 'footer-terms': 'AGB', 'footer-faq': 'FAQ',
-    'billing-monthly': 'Monatlich', 'billing-yearly': 'Jährlich', 'save-badge': '67 % sparen',
-    'pf6': 'Offline + iCloud-Sync',
-    'footer-copy': '© 2025 TalkCards. Gemacht in Prag.',
+    'pf1': '✅ Wiederholen-Modus', 'pf2': '✅ Hunderte von Bildkarten', 'pf3': '✅ 6 Sprachen',
+    'pf4': '✅ Tägliche Empfehlungen', 'pf5': '✅ Karten für Familie & Mitschüler', 'pf6': '✅ Offline + iCloud-Sync',
+    'pp1': '✅ Alles aus Kostenlos', 'pp2': '✅ Modus Suchen', 'pp3': '✅ Modus Ton erkennen',
+    'pp4': '✅ Modus Phrasen', 'pp5': '✅ Memory', 'pp6': '✅ Übungsprotokoll PDF',
+    'r10-1': '✅ 650+ Karten in 20+ Kategorien', 'r10-2': '✅ 5 Trainingsmodi', 'r10-3': '✅ Text-to-Speech in sechs Sprachen',
+    'r10-4': '✅ Tägliche intelligente Empfehlungen', 'r10-5': '✅ Eigene Fotos für Familie & Mitschüler', 'r10-6': '✅ Übungsprotokoll PDF',
+    'r10-7': '✅ Silbentrennung in Wiederholen', 'r10-8': '✅ Kommunikationsstufen-Einstellungen', 'r10-9': '✅ Offline, Synchronisation über iCloud',
+    'r11-1': '🚀 750+ Karten in 25+ Kategorien — erweiterter Wortschatz',
+    'r11-2': '🚀 Zweisprachiges Üben — dieselben Wörter in zwei Sprachen nacheinander',
+    'r11-3': '🚀 Wortschatzkontrolle nach Kommunikationsphase',
+    'r11-4': '🚀 Was hörst du? — höre einen Satz, tippe das passende Bild',
+    'r11-5': '🚀 Was gehört nicht dazu? — fördert Kategorisierung',
+    'r11-6': '🚀 Eigene Karten-Beschriftungen — Rolle wählen (Papa, Oma, Freund…)',
+    'footer-copy': '© 2026 TalkCards. Gemacht in Prag.',
   },
   es: {
     'nav-download': 'Descargar',
-    'hero-h1': 'Logopedia en casa,<br>cada día.',
-    'hero-sub': 'Práctica diaria para niños con retraso del habla. Recomendada por logopedas. 6 idiomas, offline, sin anuncios.',
+    'hero-badge': '🧡 Creado por padres para la práctica diaria',
+    'hero-h1': 'Práctica de lenguaje lúdica<br>para los más pequeños.',
+    'hero-sub': 'Desarrolla vocabulario y comunicación mediante imágenes, sonidos y actividades cortas — en seis idiomas.',
     'hero-cta-text': 'Descargar en App Store',
     'hero-free': 'Descarga gratuita · Premium desde $4.99/mes',
-    'for-whom-title': '¿Para quién es TalkCards?',
-    'fw1-title': 'Niños con retraso del habla', 'fw1-body': 'Diseñado para disfasia del desarrollo, edades 2–7.',
-    'fw2-title': 'Padres que practican en casa', 'fw2-body': 'La app recomienda qué practicar cada día.',
-    'fw3-title': 'Familias bilingües', 'fw3-body': 'Practica en checo, inglés, alemán, portugués, español o francés.',
+    'for-whom-title': 'Para niños que aprenden a comunicarse',
+    'for-whom-sub': 'Usa TalkCards al ritmo de tu hijo — para primeras palabras, apoyo extra o más de un idioma en casa.',
+    'fw1-title': 'Primeras palabras y vocabulario', 'fw1-body': 'Explora palabras cotidianas útiles a través de imágenes claras, audio hablado y actividades cortas y lúdicas.',
+    'fw2-title': 'Un poco más de apoyo', 'fw2-body': 'Una herramienta práctica para practicar en casa entre sesiones profesionales o mientras esperas más apoyo.',
+    'fw3-title': 'Familias bilingües y multilingües', 'fw3-body': 'Practica las mismas tarjetas en cualquiera de los seis idiomas y cambia cuando tu familia lo necesite.',
+    'for-whom-cta': 'Actividades cortas y guiadas que encajan en la vida familiar diaria.',
     'how-title': 'Cómo funciona',
-    'step1-title': 'Recomendación de hoy', 'step2-title': 'Practica juntos', 'step3-title': 'Informe para el logopeda',
-    'modes-title': '5 modos de entrenamiento', 'modes-sub': 'Repetir siempre es gratis.',
+    'step1-title': 'Recomendación de hoy', 'step2-title': 'Practica juntos', 'step3-title': 'Muestra al logopeda lo que practicaste',
+    'modes-title': '5 actividades', 'modes-sub': 'Cada actividad desarrolla una habilidad diferente. Repetir es siempre gratis.',
     'mode-free-label': 'GRATIS',
     'mode1-title': 'Repite', 'mode2-title': 'Busca', 'mode3-title': 'Reconoce', 'mode4-title': 'Frases', 'mode5-title': 'Memoria',
     'langs-title': '6 idiomas, una app',
-    'langs-sub': 'Practica 500+ tarjetas en cualquier idioma.',
+    'langs-sub': 'Practica 650+ tarjetas en cualquier idioma.',
     'langs-note': 'Italiano y polaco próximamente.',
     'feat-title': 'Diseñado para uso diario',
     'feat1-title': 'Funciona offline', 'feat2-title': 'Privado por diseño', 'feat2-body': 'Sin cuenta, sin anuncios, sin rastreo. Dale al niño un teléfono antiguo — tu dispositivo se sincroniza automáticamente por iCloud.', 'feat3-title': 'Recomendaciones diarias',
-    'feat4-title': 'Familia y compañeros', 'feat4-body': 'Añade fotos de familiares desde tu teléfono — aparecen al instante en el dispositivo del niño por iCloud.', 'feat5-title': 'Informes para logopeda', 'feat6-title': 'Niveles de comunicación',
+    'feat4-title': 'Familia y compañeros', 'feat4-body': 'Añade fotos de familiares desde tu teléfono — aparecen al instante en el dispositivo del niño por iCloud.', 'feat5-title': 'Registro de práctica PDF', 'feat5-body': 'Exporta un resumen de práctica — frecuencia, categorías, precisión — para que el logopeda sepa exactamente en qué habéis trabajado en casa.', 'feat6-title': 'Niveles de comunicación',
     'pricing-title': 'Precios simples', 'price-free-label': 'Gratis', 'price-premium-label': 'Premium', 'per-month': '/mes',
     'price-free-cta': 'Descargar gratis', 'price-premium-cta': 'Prueba gratuita',
     'roadmap-title': 'Hoja de ruta', 'roadmap-sub': 'En desarrollo activo.',
     'tag-10': 'Versión 1.0 — Publicada', 'tag-11': 'Versión 1.1 — Próximamente', 'tag-future': 'Futuro',
-    'story-title': 'Hecho para Matyáš',
-    'story-body': 'TalkCards nació como proyecto casero cuando a nuestro hijo Matyáš le diagnosticaron disfasia del desarrollo.',
-    'story-body2': 'Si eres un padre pasando por lo mismo — esto fue hecho para ti.',
+    'story-title': 'Por qué creamos TalkCards',
+    'story-body': 'TalkCards nació cuando buscábamos una forma sencilla de practicar el lenguaje y el vocabulario con nuestro hijo en casa. Queríamos actividades cortas que se sintieran como un juego — algo que pudiéramos usar entre sesiones de terapia, en el coche o antes de dormir. Nada encajaba del todo, así que creamos nuestra propia app.',
+    'story-body2': 'Nuestro hijo tiene disfasia del desarrollo. Esa experiencia dio forma a la app, mientras que sus actividades visuales también pueden apoyar a niños pequeños que amplían su vocabulario, incluidas las familias bilingües.',
     'cta-title': 'Empieza a practicar hoy', 'cta-sub': 'Descarga gratuita. Sin cuenta.',
     'cta-btn-text': 'Descargar en App Store',
     'footer-privacy': 'Política de privacidad', 'footer-terms': 'Términos y condiciones', 'footer-faq': 'Preguntas frecuentes',
-    'billing-monthly': 'Mensual', 'billing-yearly': 'Anual', 'save-badge': 'Ahorra 67 %',
-    'pf6': 'Sin conexión + sincronización iCloud',
-    'footer-copy': '© 2025 TalkCards. Hecho en Praga.',
+    'pf1': '✅ Modo Repetir', 'pf2': '✅ Cientos de tarjetas', 'pf3': '✅ 6 idiomas',
+    'pf4': '✅ Recomendaciones diarias', 'pf5': '✅ Tarjetas de familia y compañeros', 'pf6': '✅ Sin conexión + sincronización iCloud',
+    'pp1': '✅ Todo lo de Gratis', 'pp2': '✅ Modo Buscar', 'pp3': '✅ Modo Escuchar y Buscar',
+    'pp4': '✅ Modo Frases', 'pp5': '✅ Juego de memoria', 'pp6': '✅ Registro de práctica PDF',
+    'r10-1': '✅ 650+ tarjetas en 20+ categorías', 'r10-2': '✅ 5 modos de entrenamiento', 'r10-3': '✅ Texto a voz en seis idiomas',
+    'r10-4': '✅ Recomendaciones diarias inteligentes', 'r10-5': '✅ Fotos personalizadas para familia y compañeros', 'r10-6': '✅ Registro de práctica PDF',
+    'r10-7': '✅ División en sílabas en Repetir', 'r10-8': '✅ Configuración de nivel de comunicación', 'r10-9': '✅ Funciona offline, sincroniza por iCloud',
+    'r11-1': '🚀 750+ tarjetas en 25+ categorías — vocabulario ampliado',
+    'r11-2': '🚀 Práctica bilingüe — las mismas palabras en dos idiomas seguidos',
+    'r11-3': '🚀 Control de vocabulario por etapa de comunicación',
+    'r11-4': '🚀 ¿Qué escuchas? — escucha una frase, toca la imagen correcta',
+    'r11-5': '🚀 ¿Cuál no pertenece? — desarrolla la categorización',
+    'r11-6': '🚀 Etiquetas personalizadas — elige un rol (Papá, Abuela, Amigo…)',
+    'footer-copy': '© 2026 TalkCards. Hecho en Praga.',
   },
   pt: {
     'nav-download': 'Baixar',
-    'hero-h1': 'Fonoaudiologia em casa,<br>todo dia.',
-    'hero-sub': 'Prática diária para crianças com atraso na fala. Recomendado por fonoaudiólogos. 6 idiomas, offline, sem anúncios.',
+    'hero-badge': '🧡 Criado por pais para a prática diária',
+    'hero-h1': 'Prática lúdica de linguagem<br>para pequenos aprendizes.',
+    'hero-sub': 'Desenvolva vocabulário e comunicação por meio de imagens, sons e atividades curtas — em seis idiomas.',
     'hero-cta-text': 'Baixar na App Store',
     'hero-free': 'Download gratuito · Premium a partir de $4,99/mês',
-    'for-whom-title': 'Para quem é o TalkCards?',
-    'fw1-title': 'Crianças com atraso na fala', 'fw1-body': 'Desenvolvido para disfasia, idades 2–7.',
-    'fw2-title': 'Pais que praticam em casa', 'fw2-body': 'O app recomenda o que praticar cada dia.',
-    'fw3-title': 'Famílias bilíngues', 'fw3-body': 'Pratique em tcheco, inglês, alemão, português, espanhol ou francês.',
+    'for-whom-title': 'Para crianças que aprendem a se comunicar',
+    'for-whom-sub': 'Use o TalkCards no ritmo do seu filho — para primeiras palavras, mais apoio ou mais de um idioma em casa.',
+    'fw1-title': 'Primeiras palavras e vocabulário', 'fw1-body': 'Explore palavras cotidianas úteis por meio de imagens claras, áudio falado e atividades curtas e lúdicas.',
+    'fw2-title': 'Um pouco mais de apoio', 'fw2-body': 'Uma ferramenta prática para praticar em casa entre sessões profissionais ou enquanto a família aguarda mais suporte.',
+    'fw3-title': 'Famílias bilíngues e multilíngues', 'fw3-body': 'Pratique os mesmos cartões em qualquer um dos seis idiomas e alterne quando a família precisar.',
+    'for-whom-cta': 'Atividades curtas e guiadas que se encaixam na rotina familiar.',
     'how-title': 'Como funciona',
-    'step1-title': 'Recomendação de hoje', 'step2-title': 'Pratique juntos', 'step3-title': 'Relatório para o fonoaudiólogo',
-    'modes-title': '5 modos de treino', 'modes-sub': 'Repetir é sempre gratuito.',
+    'step1-title': 'Recomendação de hoje', 'step2-title': 'Pratique juntos', 'step3-title': 'Mostre ao fonoaudiólogo o que praticaram',
+    'modes-title': '5 atividades', 'modes-sub': 'Cada atividade desenvolve uma habilidade diferente. Repetir é sempre gratuito.',
     'mode-free-label': 'GRATUITO',
     'mode1-title': 'Repita', 'mode2-title': 'Encontre', 'mode3-title': 'Reconheça', 'mode4-title': 'Frases', 'mode5-title': 'Memória',
     'langs-title': '6 idiomas, um app',
-    'langs-sub': 'Pratique 500+ cartões em qualquer idioma.',
+    'langs-sub': 'Pratique 650+ cartões em qualquer idioma.',
     'langs-note': 'Italiano e polonês em breve.',
     'feat-title': 'Feito para uso diário',
     'feat1-title': 'Funciona offline', 'feat2-title': 'Privado por design', 'feat2-body': 'Sem conta, sem anúncios, sem rastreamento. Dê ao filho um telefone antigo — seu dispositivo sincroniza automaticamente pelo iCloud.', 'feat3-title': 'Recomendações diárias',
-    'feat4-title': 'Família e colegas', 'feat4-body': 'Adicione fotos de familiares do seu telefone — aparecem instantaneamente no dispositivo da criança pelo iCloud.', 'feat5-title': 'Relatórios para fonoaudiólogo', 'feat6-title': 'Níveis de comunicação',
+    'feat4-title': 'Família e colegas', 'feat4-body': 'Adicione fotos de familiares do seu telefone — aparecem instantaneamente no dispositivo da criança pelo iCloud.', 'feat5-title': 'Registro de prática PDF', 'feat5-body': 'Exporte um resumo de prática — frequência, categorias, precisão — para que o fonoaudiólogo saiba exatamente no que vocês trabalharam em casa.', 'feat6-title': 'Níveis de comunicação',
     'pricing-title': 'Preços simples', 'price-free-label': 'Gratuito', 'price-premium-label': 'Premium', 'per-month': '/mês',
     'price-free-cta': 'Baixar grátis', 'price-premium-cta': 'Iniciar teste grátis',
     'roadmap-title': 'Roadmap', 'roadmap-sub': 'Em desenvolvimento ativo.',
     'tag-10': 'Versão 1.0 — Lançada', 'tag-11': 'Versão 1.1 — Em breve', 'tag-future': 'Futuro',
-    'story-title': 'Feito para o Matyáš',
-    'story-body': 'O TalkCards começou como um projeto caseiro quando nosso filho Matyáš foi diagnosticado com disfasia do desenvolvimento.',
-    'story-body2': 'Se você é um pai passando pela mesma situação — isso foi feito para você.',
+    'story-title': 'Por que criamos o TalkCards',
+    'story-body': 'O TalkCards nasceu quando procurávamos uma forma simples de praticar linguagem e vocabulário com nosso filho em casa. Queríamos atividades curtas que parecessem uma brincadeira — algo que pudéssemos usar entre as sessões de terapia, no carro ou antes de dormir. Nada se encaixava bem, então criamos nosso próprio app.',
+    'story-body2': 'Nosso filho tem disfasia do desenvolvimento. Essa experiência moldou o app, enquanto suas atividades visuais também podem apoiar crianças pequenas que ampliam o vocabulário, incluindo famílias bilíngues.',
     'cta-title': 'Comece a praticar hoje', 'cta-sub': 'Download gratuito. Sem conta necessária.',
     'cta-btn-text': 'Baixar na App Store',
     'footer-privacy': 'Política de privacidade', 'footer-terms': 'Termos e condições', 'footer-faq': 'Perguntas frequentes',
-    'billing-monthly': 'Mensal', 'billing-yearly': 'Anual', 'save-badge': 'Poupe 67 %',
-    'pf6': 'Offline + sincronização iCloud',
-    'footer-copy': '© 2025 TalkCards. Feito em Praga.',
+    'pf1': '✅ Modo Repetir', 'pf2': '✅ Centenas de cartões', 'pf3': '✅ 6 idiomas',
+    'pf4': '✅ Recomendações diárias', 'pf5': '✅ Cartões de família e colegas', 'pf6': '✅ Offline + sincronização iCloud',
+    'pp1': '✅ Tudo do Gratuito', 'pp2': '✅ Modo Encontrar', 'pp3': '✅ Modo Ouvir e Encontrar',
+    'pp4': '✅ Modo Frases', 'pp5': '✅ Jogo da memória', 'pp6': '✅ Registro de prática PDF',
+    'r10-1': '✅ 650+ cartões em 20+ categorias', 'r10-2': '✅ 5 modos de treino', 'r10-3': '✅ Texto para fala em seis idiomas',
+    'r10-4': '✅ Recomendações diárias inteligentes', 'r10-5': '✅ Fotos personalizadas para família e colegas', 'r10-6': '✅ Registro de prática PDF',
+    'r10-7': '✅ Divisão silábica em Repetir', 'r10-8': '✅ Configurações de nível de comunicação', 'r10-9': '✅ Funciona offline, sincroniza pelo iCloud',
+    'r11-1': '🚀 750+ cartões em 25+ categorias — vocabulário ampliado',
+    'r11-2': '🚀 Prática bilíngue — as mesmas palavras em dois idiomas seguidos',
+    'r11-3': '🚀 Controle de vocabulário por fase de comunicação',
+    'r11-4': '🚀 O que você ouve? — ouça uma frase, toque na imagem certa',
+    'r11-5': '🚀 Qual não pertence? — desenvolve a categorização',
+    'r11-6': '🚀 Rótulos personalizados — escolha um papel (Papai, Vovó, Amigo…)',
+    'footer-copy': '© 2026 TalkCards. Feito em Praga.',
   },
   fr: {
     'nav-download': 'Télécharger',
-    'hero-h1': "Orthophonie à la maison,<br>chaque jour.",
-    'hero-sub': "Pratique quotidienne pour les enfants avec un retard de la parole. Recommandé par les orthophonistes. 6 langues, hors ligne, sans pub.",
+    'hero-badge': "🧡 Créé par des parents pour la pratique quotidienne",
+    'hero-h1': "Pratique ludique du langage<br>pour les petits.",
+    'hero-sub': "Développez le vocabulaire et la communication par des images, des sons et des activités courtes — en six langues.",
     'hero-cta-text': "Télécharger sur l'App Store",
     'hero-free': 'Téléchargement gratuit · Premium dès 4,99 $/mois',
-    'for-whom-title': 'Pour qui est TalkCards ?',
-    'fw1-title': 'Enfants avec retard de la parole', 'fw1-body': 'Conçu pour la dysphasie, âges 2–7 ans.',
-    'fw2-title': 'Parents qui pratiquent à la maison', 'fw2-body': "L'app recommande quoi pratiquer chaque jour.",
-    'fw3-title': 'Familles bilingues', 'fw3-body': 'Pratiquez en tchèque, anglais, allemand, portugais, espagnol ou français.',
+    'for-whom-title': 'Pour les enfants qui apprennent à communiquer',
+    'for-whom-sub': 'Chaque enfant a son propre parcours. TalkCards s\'adapte au vôtre.',
+    'fw1-title': "Premiers mots et vocabulaire", 'fw1-body': "Des images simples et des activités courtes pour aider votre enfant à acquérir le vocabulaire du quotidien — besoins, famille, nourriture, objets familiers.",
+    'fw2-title': 'Soutien orthophonique', 'fw2-body': "Conçu avec des familles dont les enfants ont un retard de parole ou une dysphasie. Pratique entre les séances, journal exportable pour l'orthophoniste.",
+    'fw3-title': "Familles bilingues", 'fw3-body': "Pratiquez les mêmes mots dans deux langues. TalkCards prend en charge six langues avec texte et voix — parfait pour les foyers où plusieurs langues cohabitent.",
+    'for-whom-cta': 'Des activités courtes et guidées qui s\'intègrent dans la routine familiale.',
     'how-title': 'Comment ça marche',
-    'step1-title': "Recommandation du jour", 'step2-title': 'Pratiquez ensemble', 'step3-title': "Rapport pour l'orthophoniste",
-    'modes-title': "5 modes d'entraînement", 'modes-sub': 'Répéter est toujours gratuit.',
+    'step1-title': "Recommandation du jour", 'step2-title': 'Pratiquez ensemble', 'step3-title': "Montrez à l'orthophoniste ce que vous avez pratiqué",
+    'modes-title': '5 activités', 'modes-sub': 'Chaque activité développe une compétence différente. Répéter est toujours gratuit.',
     'mode-free-label': 'GRATUIT',
     'mode1-title': 'Répète', 'mode2-title': 'Trouve', 'mode3-title': 'Reconnais', 'mode4-title': 'Phrases', 'mode5-title': 'Mémoire',
     'langs-title': '6 langues, une seule app',
-    'langs-sub': 'Pratiquez 500+ cartes dans n\'importe quelle langue.',
+    'langs-sub': 'Pratiquez 650+ cartes dans n\'importe quelle langue.',
     'langs-note': 'Italien et polonais bientôt disponibles.',
     'feat-title': 'Conçu pour un usage quotidien',
     'feat1-title': 'Fonctionne hors ligne', 'feat2-title': 'Privé dès la conception', 'feat2-body': 'Sans compte, sans pub, sans suivi. Donnez un vieux téléphone à l\'enfant — votre appareil se synchronise automatiquement via iCloud.', 'feat3-title': 'Recommandations quotidiennes',
-    'feat4-title': 'Famille et camarades', 'feat4-body': 'Ajoutez des photos de la famille depuis votre téléphone — elles apparaissent instantanément sur l\'appareil de l\'enfant via iCloud.', 'feat5-title': 'Rapports pour orthophoniste', 'feat6-title': 'Niveaux de communication',
+    'feat4-title': 'Famille et camarades', 'feat4-body': 'Ajoutez des photos de la famille depuis votre téléphone — elles apparaissent instantanément sur l\'appareil de l\'enfant via iCloud.', 'feat5-title': 'Journal de pratique PDF', 'feat5-body': 'Exportez un résumé de pratique — fréquence, catégories, précision — pour que l\'orthophoniste sache exactement sur quoi vous avez travaillé à la maison.', 'feat6-title': 'Niveaux de communication',
     'pricing-title': 'Tarifs simples', 'price-free-label': 'Gratuit', 'price-premium-label': 'Premium', 'per-month': '/mois',
     'price-free-cta': 'Télécharger gratuitement', 'price-premium-cta': 'Commencer l\'essai gratuit',
     'roadmap-title': 'Feuille de route', 'roadmap-sub': 'En développement actif.',
     'tag-10': 'Version 1.0 — Publiée', 'tag-11': 'Version 1.1 — Bientôt', 'tag-future': 'Avenir',
-    'story-title': 'Fait pour Matyáš',
-    'story-body': "TalkCards a commencé comme un projet familial lorsque notre fils Matyáš a été diagnostiqué avec une dysphasie du développement.",
-    'story-body2': 'Si vous êtes un parent dans la même situation — cela a été fait pour vous.',
+    'story-title': 'Pourquoi nous avons créé TalkCards',
+    'story-body': "TalkCards est né quand nous cherchions un moyen simple de pratiquer le langage et le vocabulaire avec notre fils à la maison. Nous voulions de courtes activités qui ressemblaient à un jeu — quelque chose que nous pouvions utiliser entre les séances de thérapie, dans la voiture ou avant de dormir. Rien ne convenait vraiment, alors nous avons créé notre propre app.",
+    'story-body2': "Notre fils a une dysphasie du développement. Cette expérience a façonné l'app, tandis que ses activités visuelles peuvent aussi aider les jeunes enfants qui élargissent leur vocabulaire, y compris les familles bilingues.",
     'cta-title': "Commencez à pratiquer aujourd'hui", 'cta-sub': 'Téléchargement gratuit. Sans compte.',
     'cta-btn-text': "Télécharger sur l'App Store",
     'footer-privacy': 'Politique de confidentialité', 'footer-terms': 'CGU', 'footer-faq': 'FAQ',
-    'billing-monthly': 'Mensuel', 'billing-yearly': 'Annuel', 'save-badge': 'Économisez 67 %',
-    'pf6': 'Hors ligne + synchronisation iCloud',
-    'footer-copy': '© 2025 TalkCards. Fait à Prague.',
+    'pf1': '✅ Mode Répéter', 'pf2': '✅ Des centaines de cartes', 'pf3': '✅ 6 langues',
+    'pf4': '✅ Recommandations quotidiennes', 'pf5': '✅ Cartes famille & camarades', 'pf6': '✅ Hors ligne + synchronisation iCloud',
+    'pp1': '✅ Tout du Gratuit', 'pp2': '✅ Mode Trouver', 'pp3': "✅ Mode Entendre & Trouver",
+    'pp4': '✅ Mode Phrases', 'pp5': '✅ Jeu de mémoire', 'pp6': '✅ Journal de pratique PDF',
+    'r10-1': '✅ 650+ cartes dans 20+ catégories', 'r10-2': "✅ 5 modes d'entraînement", 'r10-3': '✅ Synthèse vocale en six langues',
+    'r10-4': '✅ Recommandations quotidiennes intelligentes', 'r10-5': '✅ Photos personnalisées pour famille & camarades', 'r10-6': '✅ Journal de pratique PDF',
+    'r10-7': '✅ Décomposition en syllabes dans Répéter', 'r10-8': '✅ Paramètres de niveau de communication', 'r10-9': '✅ Fonctionne hors ligne, synchronise via iCloud',
+    'r11-1': '🚀 750+ cartes dans 25+ catégories — vocabulaire élargi',
+    'r11-2': '🚀 Pratique bilingue — les mêmes mots dans deux langues à la suite',
+    'r11-3': '🚀 Filtrage du vocabulaire par niveau de communication',
+    'r11-4': "🚀 Qu'est-ce que tu entends ? — écoute une phrase, touche la bonne image",
+    'r11-5': "🚀 Quel intrus ? — développe la catégorisation",
+    'r11-6': "🚀 Étiquettes personnalisées — choisissez un rôle (Papa, Mamie, Ami…)",
+    'footer-copy': '© 2026 TalkCards. Fait à Prague.',
   },
 };
 
@@ -617,6 +698,10 @@ function applyLang() {
     if (htmlIds.includes(el.id)) el.innerHTML = val;
     else el.textContent = val;
   });
+
+  // Update hero screenshot
+  const heroShot = document.getElementById('hero-screenshot');
+  if (heroShot) heroShot.src = `screen_categories_${lang}.png`;
 
   // Update links with lang param
   ['footer-privacy','footer-terms','footer-faq'].forEach(id => {
