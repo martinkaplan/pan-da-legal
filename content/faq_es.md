@@ -26,7 +26,7 @@ Premium desbloquea todos los modos a la vez. Empieza la prueba gratuita desde el
 En Ajustes, toca la bandera o el nombre del idioma. Los textos y la pronunciación cambian al instante — puedes cambiar en cualquier momento.
 
 ## ¿Cuántas categorías y tarjetas hay?
-Actualmente 750+ tarjetas en 25+ categorías: palabras básicas, comida, animales, vehículos, naturaleza, emociones, lugares, profesiones, modales, números, colores, formas y más. Cada tarjeta incluye 5 frases en los seis idiomas.
+Actualmente 729 tarjetas en 30 categorías: palabras básicas, comida, animales, vehículos, naturaleza, emociones, lugares, profesiones, modales, números, colores, formas y más. Cada tarjeta incluye 5 frases en los seis idiomas.
 
 ## ¿Cómo añado tarjetas personalizadas?
 En Ajustes, en **Tarjetas de familia** o **Compañeros**, añade fotos de tu cámara. Estas categorías sirven para practicar los nombres de personas conocidas — las fotos se sincronizan privadamente por iCloud.

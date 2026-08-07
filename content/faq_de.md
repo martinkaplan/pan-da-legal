@@ -26,7 +26,7 @@ Premium schaltet alle Modi auf einmal frei. Starte eine kostenlose Testversion �
 In den Einstellungen auf die Flagge oder den Sprachnamen tippen. Texte und Aussprache ändern sich sofort — jederzeit umschaltbar.
 
 ## Wie viele Kategorien und Karten gibt es?
-Aktuell 750+ Karten in 25+ Kategorien: Grundwörter, Essen, Tiere, Fahrzeuge, Natur, Gefühle, Orte, Berufe, Manieren, Zahlen, Farben, Formen und mehr. Jede Karte enthält 5 Sätze in allen sechs Sprachen.
+Aktuell 729 Karten in 30 Kategorien: Grundwörter, Essen, Tiere, Fahrzeuge, Natur, Gefühle, Orte, Berufe, Manieren, Zahlen, Farben, Formen und mehr. Jede Karte enthält 5 Sätze in allen sechs Sprachen.
 
 ## Wie füge ich eigene Karten hinzu?
 In den Einstellungen unter **Familienkarten** oder **Mitschüler** Fotos aus der Bildergalerie hinzufügen. Diese Kategorien sind für das Üben von Namen vertrauter Personen gedacht — Fotos synchronisieren sich privat über iCloud.

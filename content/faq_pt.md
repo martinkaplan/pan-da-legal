@@ -26,7 +26,7 @@ O Premium desbloqueia todos os modos de uma só vez. Inicie o teste gratuito pel
 Em Configurações, toque na bandeira ou no nome do idioma. Os textos e a pronúncia mudam na hora — pode trocar a qualquer momento.
 
 ## Quantas categorias e cartões há?
-Atualmente 750+ cartões em 25+ categorias: palavras básicas, comida, animais, veículos, natureza, emoções, lugares, profissões, boas maneiras, números, cores, formas e mais. Cada cartão inclui 5 frases em todos os seis idiomas.
+Atualmente 729 cartões em 30 categorias: palavras básicas, comida, animais, veículos, natureza, emoções, lugares, profissões, boas maneiras, números, cores, formas e mais. Cada cartão inclui 5 frases em todos os seis idiomas.
 
 ## Como adiciono cartões personalizados?
 Em Configurações, em **Cartões de família** ou **Colegas**, adicione fotos da câmera. Essas categorias servem para praticar os nomes de pessoas conhecidas — as fotos sincronizam de forma privada pelo iCloud.

@@ -26,7 +26,7 @@ Premium unlocks all modes at once. Start a free trial from the App Store.
 In Settings, tap the flag or language name. App text and pronunciation change instantly — you can switch at any time, even mid-session.
 
 ## How many categories and cards are there?
-Currently 750+ cards across 25+ categories: core words, food, animals, vehicles, nature, emotions, places, professions, manners, numbers, colours, shapes and more. Every card includes 5 phrases in all six languages.
+Currently 729 cards across 30 categories: core words, food, animals, vehicles, nature, emotions, places, professions, manners, numbers, colours, shapes and more. Every card includes 5 phrases in all six languages.
 
 ## How do I add custom cards?
 In Settings under **Family Cards** or **Classmates**, add photos from your camera roll. These categories are for practising the names of familiar people — photos sync privately via iCloud to your other devices.

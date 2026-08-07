@@ -26,7 +26,7 @@ Premium odemkne všechny módy najednou. Zkušební verzi spustíte přes App St
 V Nastavení klepněte na vlajku nebo název jazyka. Změní se texty i výslovnost — přepnout lze kdykoli, i uprostřed procvičování.
 
 ## Kolik kategorií a kartiček aplikace obsahuje?
-Aktuálně 750+ kartiček v 25+ kategoriích: základní slova, jídlo, zvířata, doprava, příroda, emoce, místa, povolání, slušné chování, čísla, barvy, tvary a další. Každou kartičku doprovází 5 frází ve všech jazycích.
+Aktuálně 729 kartiček ve 30 kategoriích: základní slova, jídlo, zvířata, doprava, příroda, emoce, místa, povolání, slušné chování, čísla, barvy, tvary a další. Každou kartičku doprovází 5 frází ve všech jazycích.
 
 ## Jak přidám vlastní kartičky?
 V Nastavení v sekci **Rodinné kartičky** nebo **Spolužáci** přidejte fotografie z telefonu. Kategorie jsou určené pro procvičování jmen blízkých lidí — fotografie se synchronizují přes iCloud na ostatní vaše zařízení.

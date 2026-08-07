@@ -26,7 +26,7 @@ Le Premium débloque tous les modes en une seule fois. Démarrez un essai gratui
 Dans Paramètres, touchez le drapeau ou le nom de la langue. Les textes et la prononciation changent instantanément — vous pouvez changer à tout moment.
 
 ## Combien de catégories et de cartes y a-t-il ?
-Actuellement 750+ cartes dans 25+ catégories : mots de base, nourriture, animaux, véhicules, nature, émotions, lieux, professions, politesse, chiffres, couleurs, formes et bien plus. Chaque carte comprend 5 phrases dans les six langues.
+Actuellement 729 cartes dans 30 catégories : mots de base, nourriture, animaux, véhicules, nature, émotions, lieux, professions, politesse, chiffres, couleurs, formes et bien plus. Chaque carte comprend 5 phrases dans les six langues.
 
 ## Comment ajouter des cartes personnalisées ?
 Dans Paramètres, sous **Cartes famille** ou **Camarades**, ajoutez des photos de votre appareil. Ces catégories servent à pratiquer les prénoms des proches — les photos se synchronisent en privé via iCloud.
