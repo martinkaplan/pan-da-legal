@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>TalkCards — Playful language practice for young children</title>
-  <meta name="description" content="Playful vocabulary and communication practice for young children. Pictures, sounds and short activities in six languages." />
+  <title>PAN | DA — Playful language practice for young children</title>
+  <meta name="description" content="PAN | DA — playful vocabulary and communication practice for young children. Pictures, sounds and short activities in six languages." />
   <link rel="stylesheet" href="styles.css" />
   <link rel="stylesheet" href="landing.css" />
 </head>
@@ -13,9 +13,14 @@
 <!-- ── NAV ── -->
 <header class="nav">
   <a class="nav-brand" href="#">
-    <img src="pan_da.png" alt="TalkCards" width="36" height="36" class="nav-icon" />
-    <span>TalkCards</span>
+    <img src="pan_da.png" alt="PAN | DA" width="36" height="36" class="nav-icon" />
+    <span>PAN | DA</span>
   </a>
+  <nav class="nav-anchors" aria-label="Page sections">
+    <a href="#sec-how">How it works</a>
+    <a href="#sec-modes">Activities</a>
+    <a href="#sec-pricing">Pricing</a>
+  </nav>
   <div class="nav-right">
     <div class="language-switch" id="lang-switch"></div>
     <a class="nav-cta" id="nav-download" href="https://apps.apple.com/app/id6761809094">Download</a>
@@ -44,6 +49,21 @@
     </div>
   </div>
 </section>
+
+<!-- ── LANG FLAGS STRIP ── -->
+<div class="lang-strip">
+  <span>🇺🇸 English</span>
+  <span class="lang-strip-dot">·</span>
+  <span>🇨🇿 Čeština</span>
+  <span class="lang-strip-dot">·</span>
+  <span>🇩🇪 Deutsch</span>
+  <span class="lang-strip-dot">·</span>
+  <span>🇪🇸 Español</span>
+  <span class="lang-strip-dot">·</span>
+  <span>🇧🇷 Português</span>
+  <span class="lang-strip-dot">·</span>
+  <span>🇫🇷 Français</span>
+</div>
 
 <!-- ── STORY ── -->
 <section class="section section-tinted" id="sec-story">
@@ -177,7 +197,7 @@
       <div class="feature-card">
         <div class="feature-icon">🔒</div>
         <h3 id="feat2-title">Private by design</h3>
-        <p id="feat2-body">No account required. No ads. No tracking. Your child's data is stored on your devices and syncs through your private iCloud account. TalkCards does not run its own user-data server.</p>
+        <p id="feat2-body">No account required. No ads. No tracking. Your child's data is stored on your devices and syncs through your private iCloud account. PAN | DA does not run its own user-data server.</p>
       </div>
       <div class="feature-card">
         <div class="feature-icon">📅</div>
@@ -299,7 +319,7 @@
 <!-- ── DOWNLOAD CTA ── -->
 <section class="section cta-section" id="sec-cta">
   <div class="container cta-container">
-    <img src="pan_da.png" alt="TalkCards" width="80" height="80" class="cta-icon" />
+    <img src="pan_da.png" alt="PAN | DA" width="80" height="80" class="cta-icon" />
     <h2 id="cta-title">Start practicing today</h2>
     <p id="cta-sub">Free to download. No account needed.</p>
     <a class="btn-primary btn-large" id="cta-btn" href="https://apps.apple.com/app/id6761809094">
@@ -313,8 +333,8 @@
 <footer class="site-footer">
   <div class="container footer-inner">
     <div class="footer-brand">
-      <img src="pan_da.png" alt="TalkCards" width="28" height="28" class="nav-icon" />
-      <span>TalkCards</span>
+      <img src="pan_da.png" alt="PAN | DA" width="28" height="28" class="nav-icon" />
+      <span>PAN | DA</span>
     </div>
     <nav class="footer-links">
       <a id="footer-privacy" href="page.html?p=privacy">Privacy Policy</a>
@@ -326,7 +346,7 @@
         @pan_da_app
       </a>
     </nav>
-    <p class="footer-copy" id="footer-copy">© 2026 TalkCards. Made in Prague.</p>
+    <p class="footer-copy" id="footer-copy">© 2026 PAN | DA. Made in Prague.</p>
   </div>
 </footer>
 
@@ -413,7 +433,7 @@ const L = {
     'cta-sub': 'Free to download. No account needed.',
     'cta-btn-text': 'Download on App Store',
     'footer-privacy': 'Privacy Policy', 'footer-terms': 'Terms & Conditions', 'footer-faq': 'FAQ & Support',
-    'footer-copy': '© 2026 TalkCards. Made in Prague.',
+    'footer-copy': '© 2026 PAN | DA. Made in Prague.',
   },
   cs: {
     'nav-download': 'Stáhnout',
@@ -453,10 +473,10 @@ const L = {
     'langs-note': 'Angličtina je k dispozici v americké i britské variantě.',
     'feat-title': 'Navrženo pro každodenní použití',
     'feat1-title': 'Funguje offline', 'feat1-body': 'Všechny karty a zvuky fungují bez internetu. Procvičujte v autě, v letadle, kdekoliv.',
-    'feat2-title': 'Soukromé by design', 'feat2-body': 'Bez registrace. Bez reklam. Bez sledování. Data vašeho dítěte jsou uložena na vašich zařízeních a synchronizují se přes váš soukromý iCloud účet. TalkCards neprovozuje vlastní server pro uživatelská data.',
-    'feat3-title': 'Denní doporučení', 'feat3-body': 'Aplikace si pamatuje, co jste procvičovali, a každý den navrhuje správnou kategorii.',
+    'feat2-title': 'Navrženo s důrazem na soukromí', 'feat2-body': 'Bez registrace. Bez reklam. Bez sledování. Data vašeho dítěte jsou uložena na vašich zařízeních a synchronizují se přes váš soukromý iCloud účet. PAN | DA neprovozuje vlastní server pro uživatelská data.',
+    'feat3-title': 'Denní doporučení', 'feat3-body': 'Aplikace si pamatuje, co jste procvičovali, a každý den navrhuje vhodnou kategorii.',
     'feat4-title': 'Rodina a spolužáci', 'feat4-body': 'Přidejte fotky rodiny a spolužáků ze svého telefonu — na přístroji dítěte se ihned zobrazí přes iCloud.',
-    'feat5-title': 'Záznamy o procvičování', 'feat5-body': 'Exportujte přehled procvičování — frekvence, kategorie, přesnost — ať logoped hned ví, čemu jste se doma věnovali.',
+    'feat5-title': 'Záznamy o procvičování', 'feat5-body': 'Exportujte přehled procvičování — jak často, jaké kategorie a s jakou úspěšností — ať logoped hned ví, čemu jste se doma věnovali.',
     'feat6-title': 'Komunikační úrovně', 'feat6-body': 'Nastavte vývojovou fázi dítěte — od neverbálního stádia po celé věty. Aplikace přizpůsobí zobrazené karty a módy.',
     'pricing-title': 'Jednoduché ceny',
     'price-free-label': 'Zdarma', 'price-premium-label': 'Premium',
@@ -496,7 +516,7 @@ const L = {
     'cta-sub': 'Zdarma ke stažení. Bez registrace.',
     'cta-btn-text': 'Stáhnout v App Storu',
     'footer-privacy': 'Zásady ochrany soukromí', 'footer-terms': 'Obchodní podmínky', 'footer-faq': 'Časté otázky',
-    'footer-copy': '© 2026 TalkCards. Vytvořeno v Praze.',
+    'footer-copy': '© 2026 PAN | DA. Vytvořeno v Praze.',
   },
   de: {
     'nav-download': 'Herunterladen',
@@ -559,7 +579,7 @@ const L = {
     'r11-4': '✅ Finde nach Satz — höre einen gesprochenen Satz, tippe das passende Bild',
     'r11-5': '✅ Was gehört nicht dazu? — fördert Kategorisierung',
     'r11-6': '✅ Lernpfad — schrittweiser Übungsplan',
-    'footer-copy': '© 2026 TalkCards. Gemacht in Prag.',
+    'footer-copy': '© 2026 PAN | DA. Gemacht in Prag.',
   },
   es: {
     'nav-download': 'Descargar',
@@ -619,7 +639,7 @@ const L = {
     'r11-4': '✅ Encuentra por frase — escucha una frase hablada, toca la imagen correcta',
     'r11-5': '✅ ¿Cuál no pertenece? — desarrolla la categorización',
     'r11-6': '✅ Ruta de aprendizaje — práctica paso a paso',
-    'footer-copy': '© 2026 TalkCards. Hecho en Praga.',
+    'footer-copy': '© 2026 PAN | DA. Hecho en Praga.',
   },
   pt: {
     'nav-download': 'Baixar',
@@ -679,7 +699,7 @@ const L = {
     'r11-4': '✅ Encontre pela frase — ouça uma frase falada, toque na imagem certa',
     'r11-5': '✅ Qual não pertence? — desenvolve a categorização',
     'r11-6': '✅ Caminho de aprendizado — prática passo a passo',
-    'footer-copy': '© 2026 TalkCards. Feito em Praga.',
+    'footer-copy': '© 2026 PAN | DA. Feito em Praga.',
   },
   fr: {
     'nav-download': 'Télécharger',
@@ -739,7 +759,7 @@ const L = {
     'r11-4': "✅ Trouve par la phrase — écoute une phrase parlée, touche la bonne image",
     'r11-5': "✅ Quel intrus ? — développe la catégorisation",
     'r11-6': "✅ Parcours d'apprentissage — programme de pratique étape par étape",
-    'footer-copy': '© 2026 TalkCards. Fait à Prague.',
+    'footer-copy': '© 2026 PAN | DA. Fait à Prague.',
   },
 };
 
@@ -808,40 +828,6 @@ function renderSwitch() {
 applyLang();
 document.addEventListener('click', () => document.getElementById('lang-switch')?.classList.remove('open'));
 
-// Billing toggle
-let billingYearly = false;
-function updateBillingUI() {
-  document.getElementById('price-monthly-display').style.display = billingYearly ? 'none' : '';
-  document.getElementById('price-yearly-display').style.display = billingYearly ? '' : 'none';
-  document.querySelectorAll('.billing-btn').forEach(btn => {
-    btn.classList.toggle('active', btn.dataset.billing === (billingYearly ? 'yearly' : 'monthly'));
-  });
-  // localize toggle labels
-  const btnM = document.getElementById('btn-monthly');
-  const btnY = document.getElementById('btn-yearly');
-  if (btnM) btnM.firstChild.textContent = t('billing-monthly') || 'Monthly';
-  const badge = document.getElementById('save-badge');
-  if (badge) badge.textContent = t('save-badge') || 'Save 67%';
-  if (btnY) {
-    // Reset text node before badge
-    btnY.childNodes[0].textContent = (t('billing-yearly') || 'Yearly') + ' ';
-  }
-  // localize per-year
-  const perYearEl = document.getElementById('per-year');
-  if (perYearEl) perYearEl.textContent = billingYearly ? (t('per-year') || '/year') : '';
-}
-document.querySelectorAll('.billing-btn').forEach(btn => {
-  btn.addEventListener('click', () => {
-    billingYearly = btn.dataset.billing === 'yearly';
-    updateBillingUI();
-  });
-});
-// Re-run on lang change: patch applyLang to also update billing
-const _origApply = applyLang;
-// updateBillingUI called after applyLang via a simple hook
-const origRenderSwitch = renderSwitch;
-window.renderSwitch = function() { origRenderSwitch(); updateBillingUI(); };
-updateBillingUI();
 </script>
 </body>
 </html>

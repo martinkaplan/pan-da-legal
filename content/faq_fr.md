@@ -1,43 +1,47 @@
 # FAQ
 
-## Qu’est-ce que PAN_DA ?
-PAN_DA est une application de développement du vocabulaire et d’entraînement à la parole pour les enfants présentant un retard d’expression orale. Grâce à des cartes illustrées, des phrases et des jeux, les enfants apprennent de nouveaux mots de manière ludique.
+## Qu'est-ce que PAN | DA ?
+PAN | DA est une application pour développer le vocabulaire et la communication des enfants ayant un retard de parole ou une dysphasie du développement. Grâce à des cartes illustrées, des sons et de courtes activités, les enfants apprennent de nouveaux mots de façon ludique — en tchèque, anglais, allemand, espagnol, portugais et français.
 
-## À qui s’adresse l’application ?
-Elle est destinée aux enfants d’âge préscolaire, environ 3 à 6 ans. Elle peut être utilisée par les parents, orthophonistes et enseignants.
+## À qui s'adresse l'application ?
+PAN | DA s'adresse aux enfants qui apprennent à communiquer — pour les premiers mots, un soutien supplémentaire entre les séances d'orthophonie ou les familles multilingues. Il n'y a pas de limite d'âge stricte ; le niveau de communication compte plus que l'âge.
 
-## Comment fonctionne le mode Répéter ?
-Les cartes s’affichent une par une. Touchez une carte pour entendre le mot. Les flèches permettent de passer d’une carte à l’autre. L’exercice est terminé lorsque toutes les cartes de la catégorie ont été parcourues.
+## Comment fonctionne la pratique quotidienne ?
+Chaque jour, PAN | DA choisit un petit ensemble de mots à pratiquer. L'application se souvient de ce que l'enfant a déjà vu et ramène progressivement les mots pour les réviser. Quelques minutes par jour suffisent.
 
-## Comment fonctionne le mode Trouver ?
-Un mot s’affiche en haut et l’enfant doit choisir l’image correspondante parmi plusieurs images. Un son de récompense est joué après une bonne réponse.
+## Comment fonctionnent les modes d'entraînement ?
+PAN | DA propose 7 activités :
+- **Répète** — faites défiler les cartes ; chaque mot est dit à voix haute ; touchez les syllabes pour travailler la prononciation étape par étape (gratuit)
+- **Trouve** — l'application dit un mot ; l'enfant touche la bonne image parmi 4 options (Premium)
+- **Reconnais** — identifiez des animaux et des objets à leur vrai son, sans entendre le nom (Premium)
+- **Phrases** — chaque carte a 5 phrases, des besoins simples aux phrases conversationnelles (Premium)
+- **Mémoire** — jeu de paires classique ; un mot est prononcé à chaque paire trouvée (Premium)
+- **Trouve par la phrase** — écoute une courte phrase et trouve l'image correspondante ; entraîne la reconnaissance des mots dans la parole continue (Premium)
+- **Quel intrus ?** — quelle image n'est pas à sa place ? Développe la catégorisation et la logique (Premium)
 
-## Comment fonctionne le mode Sons ?
-L’enfant entend un vrai son d’animal ou d’objet et doit choisir la bonne image. Ce mode entraîne la discrimination auditive et n’est disponible que pour les catégories avec sons.
-
-## Comment fonctionne le mode Phrases ?
-L’enfant parcourt des cartes avec de courtes phrases. Chaque carte aide à pratiquer le mot dans différents contextes.
-
-## Comment fonctionne le Memory ?
-Memory est un jeu d’association. Les cartes sont face cachée, l’enfant les retourne et cherche toutes les paires.
-
-## Dans quel ordre les modes se débloquent-ils ?
-Répéter est disponible en premier. Une fois terminé, Trouver est débloqué. Ensuite, Sons, Phrases et Memory deviennent disponibles.
+## Comment débloquer les modes Premium ?
+Le Premium débloque tous les modes en une seule fois. Démarrez un essai gratuit depuis l'App Store.
 
 ## Comment changer la langue ?
-Dans les réglages, vous pouvez passer d’une langue prise en charge à une autre. Les textes de l’application et la prononciation changent également.
+Dans Paramètres, touchez le drapeau ou le nom de la langue. Les textes et la prononciation changent instantanément — vous pouvez changer à tout moment.
 
-## Comment ajouter mes propres cartes ?
-Dans les réglages, vous pouvez ajouter des photos depuis l’appareil photo ou la photothèque dans les cartes Famille ou Camarades.
+## Combien de catégories et de cartes y a-t-il ?
+Actuellement 750+ cartes dans 25+ catégories : mots de base, nourriture, animaux, véhicules, nature, émotions, lieux, professions, politesse, chiffres, couleurs, formes et bien plus. Chaque carte comprend 5 phrases dans les six langues.
+
+## Comment ajouter des cartes personnalisées ?
+Dans Paramètres, sous **Cartes famille** ou **Camarades**, ajoutez des photos de votre appareil. Ces catégories servent à pratiquer les prénoms des proches — les photos se synchronisent en privé via iCloud.
 
 ## Comment masquer une catégorie ou une carte ?
-Dans les réglages parentaux, vous pouvez activer ou désactiver des catégories entières. Vous pouvez aussi masquer des cartes individuelles.
+Dans les **Paramètres parentaux** (protégés par Face ID / Touch ID), vous pouvez activer ou désactiver des catégories entières, ou masquer des cartes individuelles.
 
-## Que sont les statistiques quotidiennes ?
-Touchez l’indicateur de progression pour voir les catégories travaillées, le mode utilisé et le résultat de la journée.
+## Comment fonctionne le niveau de communication ?
+En définissant le niveau de l'enfant (non verbal → phrases complètes), l'application masque automatiquement les cartes trop avancées et adapte les activités suggérées.
 
-## Que signifie la coche verte ?
-Elle indique que l’enfant a terminé au moins un exercice dans cette catégorie aujourd’hui.
+## Quelles données l'application stocke-t-elle ?
+La date de naissance, le niveau de communication, l'objectif principal, la progression et les paramètres sont stockés localement ou synchronisés via votre compte iCloud privé. PAN | DA ne gère pas son propre serveur de données utilisateur. Consultez la Politique de confidentialité pour les détails.
 
-## Des conseils pour les parents ?
-Travaillez régulièrement mais brièvement — 5 à 10 minutes par jour suffisent souvent. Félicitez chaque tentative et variez les modes.
+## L'application fonctionne-t-elle hors ligne ?
+Oui. Toutes les cartes, les sons et la synthèse vocale fonctionnent sans internet. Une connexion n'est nécessaire que pour la synchronisation iCloud et l'App Store.
+
+## Avez-vous des conseils pour les parents ?
+Pratiquez régulièrement mais brièvement — 5 à 10 minutes par jour suffisent. Félicitez chaque tentative. Alternez les modes pour varier les activités. Nommez les images ensemble et intégrez naturellement les nouveaux mots dans la conversation quotidienne.

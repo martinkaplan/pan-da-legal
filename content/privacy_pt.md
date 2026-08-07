@@ -1,22 +1,22 @@
 # Política de privacidade
 Última atualização: maio de 2026
 
-> A PAN_DA não vende dados pessoais e foi concebida para funcionar sem conta de utilizador.
+> A PAN | DA não vende dados pessoais e foi concebida para funcionar sem conta de utilizador.
 
 ## Que dados a app recolhe
-A PAN_DA não requer uma conta de utilizador e não pede o nome da criança, endereço de e-mail, localização ou dados de contacto.
+A PAN | DA não requer uma conta de utilizador e não pede o nome da criança, endereço de e-mail, localização ou dados de contacto.
 
 ## Dados guardados no dispositivo
-As definições da app, idioma, progresso diário, favoritos, cartões ocultos e fotografias personalizadas dos cartões familiares são guardados localmente no seu dispositivo. As fotografias personalizadas ficam no armazenamento privado da app e não são carregadas pela PAN_DA.
+As definições da app, idioma, progresso diário, favoritos, cartões ocultos e fotografias personalizadas dos cartões familiares são guardados localmente no seu dispositivo. As fotografias personalizadas ficam no armazenamento privado da app e não são carregadas pela PAN | DA.
 
 ## Sincronização iCloud
-Se o iCloud estiver ativado para a app, alguns dados podem ser sincronizados entre os seus dispositivos Apple através da infraestrutura iCloud da Apple. A PAN_DA não opera um servidor próprio para esses dados.
+Se o iCloud estiver ativado para a app, alguns dados podem ser sincronizados entre os seus dispositivos Apple através da infraestrutura iCloud da Apple. A PAN | DA não opera um servidor próprio para esses dados.
 
 ## Privacidade das crianças
-A PAN_DA destina-se a ser utilizada por pais, cuidadores, professores ou terapeutas da fala em conjunto com crianças. Não recolhemos intencionalmente informações pessoais de crianças.
+A PAN | DA destina-se a ser utilizada por pais, cuidadores, professores ou terapeutas da fala em conjunto com crianças. Não recolhemos intencionalmente informações pessoais de crianças.
 
 ## Compras e subscrições
-Quaisquer compras ou subscrições são processadas pela Apple através da App Store. A PAN_DA não recebe nem guarda dados do cartão de pagamento.
+Quaisquer compras ou subscrições são processadas pela Apple através da App Store. A PAN | DA não recebe nem guarda dados do cartão de pagamento.
 
 ## Serviços de terceiros
 

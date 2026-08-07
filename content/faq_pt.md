@@ -1,43 +1,47 @@
 # FAQ
 
-## O que é a PAN_DA?
-A PAN_DA é uma app para desenvolver vocabulário e treinar a fala em crianças com atraso expressivo da linguagem. Com cartões ilustrados, frases e jogos, ajuda as crianças a aprender novas palavras de forma lúdica.
+## O que é a PAN | DA?
+PAN | DA é um app para desenvolver o vocabulário e a comunicação de crianças com atraso de fala ou disfasia do desenvolvimento. Com cartões ilustrados, sons e atividades curtas, as crianças aprendem novas palavras de forma lúdica — em checo, inglês, alemão, espanhol, português e francês.
 
-## Para quem é a app?
-A app foi pensada para crianças em idade pré-escolar, aproximadamente dos 3 aos 6 anos. Pode ser usada por pais, terapeutas da fala e educadores.
+## Para quem é o app?
+PAN | DA destina-se a crianças que estão aprendendo a se comunicar — para primeiras palavras, apoio extra entre sessões de terapia ou famílias multilíngues. Não há limite de idade rígido; o nível de comunicação importa mais do que a idade.
 
-## Como funciona o modo Repetir?
-Os cartões são apresentados um a um. Toque num cartão para ouvir a palavra. Use as setas para mudar de cartão. O exercício termina depois de percorrer todos os cartões da categoria.
+## Como funciona a prática diária?
+Todos os dias, PAN | DA escolhe um pequeno conjunto de palavras para praticar. O app lembra o que a criança já viu e traz as palavras de volta gradualmente para revisão. Alguns minutos por dia são suficientes.
 
-## Como funciona o modo Encontrar?
-É apresentada uma palavra no topo e a criança deve escolher a imagem correta entre várias opções. Ao acertar, é reproduzido um som de recompensa.
+## Como funcionam os modos de treino?
+PAN | DA oferece 7 atividades:
+- **Repita** — deslize os cartões; cada palavra é lida em voz alta; toque nas sílabas para praticar a pronúncia passo a passo (gratuito)
+- **Encontre** — o app diz uma palavra; a criança toca a imagem certa entre 4 opções (Premium)
+- **Reconheça** — identifique animais e objetos pelo som real, sem ouvir o nome (Premium)
+- **Frases** — cada cartão tem 5 frases, de necessidades simples a frases conversacionais (Premium)
+- **Memória** — jogo clássico de pares; uma palavra é reproduzida a cada par encontrado (Premium)
+- **Encontre pela frase** — ouça uma frase curta e encontre a imagem correspondente; treina o reconhecimento de palavras na fala contínua (Premium)
+- **Qual não pertence?** — qual imagem não se encaixa? Desenvolve a categorização e o raciocínio lógico (Premium)
 
-## Como funciona o modo Sons?
-A criança ouve um som real de um animal ou objeto e escolhe a imagem correta. Este modo treina a discriminação auditiva e só está disponível em categorias com sons.
+## Como desbloqueio os modos Premium?
+O Premium desbloqueia todos os modos de uma só vez. Inicie o teste gratuito pelo App Store.
 
-## Como funciona o modo Frases?
-A criança vê cartões com frases curtas que ajudam a praticar a palavra em diferentes contextos.
+## Como mudo o idioma?
+Em Configurações, toque na bandeira ou no nome do idioma. Os textos e a pronúncia mudam na hora — pode trocar a qualquer momento.
 
-## Como funciona o Memory?
-Memory é um jogo de pares. Os cartões ficam virados para baixo, são virados ao toque e o objetivo é encontrar todos os pares.
+## Quantas categorias e cartões há?
+Atualmente 750+ cartões em 25+ categorias: palavras básicas, comida, animais, veículos, natureza, emoções, lugares, profissões, boas maneiras, números, cores, formas e mais. Cada cartão inclui 5 frases em todos os seis idiomas.
 
-## Em que ordem os modos são desbloqueados?
-Repetir está disponível primeiro. Ao concluí-lo, Encontrar é desbloqueado. Depois ficam disponíveis Sons, Frases e Memory.
+## Como adiciono cartões personalizados?
+Em Configurações, em **Cartões de família** ou **Colegas**, adicione fotos da câmera. Essas categorias servem para praticar os nomes de pessoas conhecidas — as fotos sincronizam de forma privada pelo iCloud.
 
-## Como altero o idioma?
-Nas Definições pode alternar entre os idiomas suportados. Os textos da app e a pronúncia também mudam.
+## Como oculto uma categoria ou cartão?
+Nas **Configurações parentais** (protegidas por Face ID / Touch ID), você pode ativar ou desativar categorias inteiras ou ocultar cartões individuais.
 
-## Como adiciono cartões próprios?
-Nas Definições pode adicionar fotografias da câmara ou biblioteca em Cartões familiares ou Colegas.
+## Como funciona o nível de comunicação?
+Ao configurar o nível da criança (não verbal → frases completas), o app oculta automaticamente os cartões muito avançados e adapta as atividades sugeridas.
 
-## Como escondo uma categoria ou cartão?
-Nas Definições parentais pode ativar ou desativar categorias inteiras. Também é possível esconder cartões individuais.
+## Quais dados o app armazena?
+Data de nascimento, nível de comunicação, objetivo principal, progresso de prática e configurações são armazenados localmente ou sincronizados pela sua conta privada do iCloud. PAN | DA não opera seu próprio servidor de dados de usuário. Consulte a Política de privacidade para detalhes.
 
-## O que são as estatísticas diárias?
-Toque no indicador de progresso para ver que categorias foram praticadas, que modo foi usado e como correu.
+## O app funciona offline?
+Sim. Todos os cartões, sons e síntese de voz funcionam sem internet. Uma conexão só é necessária para a sincronização do iCloud e o App Store.
 
-## O que significa o visto verde?
-Significa que a criança completou pelo menos um exercício nessa categoria hoje.
-
-## Dicas para pais?
-Pratique regularmente, mas por pouco tempo — 5 a 10 minutos por dia costuma ser suficiente. Elogie cada tentativa e alterne os modos.
+## Tem dicas para os pais?
+Pratique com regularidade, mas brevemente — 5 a 10 minutos por dia são suficientes. Elogie cada tentativa. Alterne os modos para manter a variedade. Nomeie as imagens juntos e incorpore naturalmente as novas palavras na conversa diária.
