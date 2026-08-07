@@ -76,6 +76,9 @@ body.landing {
 }
 .language-switch button:hover { opacity: .8; transform: scale(1.12); }
 .language-switch button.active { opacity: 1; transform: scale(1.18); }
+.lang-mobile-toggle { display: none; align-items: center; gap: 4px; font-size: 18px; background: none; border: none; cursor: pointer; padding: 3px 6px; border-radius: 999px; opacity: .8; }
+.lang-mobile-toggle:hover { opacity: 1; }
+.lang-mobile-menu { display: none; }
 
 /* ── HERO ── */
 .hero {
@@ -467,5 +470,14 @@ body.landing {
   .section { padding: 56px 20px; }
   .modes-grid { grid-template-columns: 1fr; }
   .nav { padding: 0 16px; }
-  .nav-right .language-switch { display: none; }
+  .language-switch { position: relative; }
+  .language-switch > button:not(.lang-mobile-toggle) { display: none; }
+  .lang-mobile-toggle { display: flex; }
+  .lang-mobile-menu {
+    position: absolute; right: 0; top: calc(100% + 8px);
+    background: #fff; border-radius: 12px;
+    box-shadow: 0 4px 24px rgba(0,0,0,.15);
+    padding: 8px; gap: 4px; z-index: 200; flex-direction: column;
+  }
+  .language-switch.open .lang-mobile-menu { display: flex; }
 }
