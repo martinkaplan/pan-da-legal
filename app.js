@@ -83,7 +83,7 @@ function renderLanguageSwitch() {
 
 async function loadMarkdown() {
   document.documentElement.lang = lang;
-  document.title = `${PAGE_TITLES[page][lang]} — Pan-da`;
+  document.title = `${PAGE_TITLES[page][lang]} — PAN | DA`;
   document.querySelectorAll('[data-page-link]').forEach(link => {
     link.href = `page.html?p=${link.dataset.pageLink}&lang=${lang}`;
     link.textContent = PAGE_TITLES[link.dataset.pageLink][lang];
