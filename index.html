@@ -7,6 +7,7 @@
   <meta name="description" content="PAN | DA — playful vocabulary and communication practice for young children. Pictures, sounds and short activities in six languages." />
   <link rel="stylesheet" href="styles.css" />
   <link rel="stylesheet" href="landing.css" />
+  <script data-goatcounter="https://martinkaplan.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </head>
 <body class="landing">
 
@@ -17,9 +18,9 @@
     <span>PAN | DA</span>
   </a>
   <nav class="nav-anchors" aria-label="Page sections">
-    <a href="#sec-how">How it works</a>
-    <a href="#sec-modes">Activities</a>
-    <a href="#sec-pricing">Pricing</a>
+    <a id="nav-how" href="#sec-how">How it works</a>
+    <a id="nav-activities" href="#sec-modes">Activities</a>
+    <a id="nav-pricing" href="#sec-pricing">Pricing</a>
   </nav>
   <div class="nav-right">
     <div class="language-switch" id="lang-switch"></div>
@@ -38,13 +39,11 @@
         <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>
         <span id="hero-cta-text">Download on App Store</span>
       </a>
-      <p class="hero-free" id="hero-free">Full card library + Repeat free · Premium adds 6 more activities</p>
+      <p class="hero-free" id="hero-free">Full card library + Repeat free · Premium adds 6 activities + Speech Sounds</p>
     </div>
     <div class="hero-visual">
-      <div class="phone-mockup">
-        <div class="phone-screen">
-          <img id="hero-screenshot" src="screen_categories_en.png" alt="PAN | DA app screenshot" class="phone-screenshot" />
-        </div>
+      <div class="ipad-showcase">
+        <img id="hero-screenshot" src="home_en.png" alt="PAN | DA home screen on iPad" class="localized-screenshot hero-screenshot" />
       </div>
     </div>
   </div>
@@ -107,7 +106,7 @@
         <div class="step-num">2</div>
         <div class="step-body">
           <h3 id="step2-title">Practice together</h3>
-          <p id="step2-body">Pick a training mode and go through the flashcards together. Repeat words, find images by name, listen to animal sounds, complete phrases. The app speaks every word aloud.</p>
+          <p id="step2-body">Choose an activity and practise together. Repeat words, find the right picture, recognise real sounds or use familiar words in everyday phrases. The app speaks every word aloud.</p>
         </div>
       </div>
       <div class="step">
@@ -124,56 +123,34 @@
 <!-- ── TRAINING MODES ── -->
 <section class="section" id="sec-modes">
   <div class="container">
-    <h2 class="section-title" id="modes-title">From first words to everyday phrases</h2>
-    <p class="section-sub" id="modes-sub">Repeat is always free. Premium adds seven more ways to practise listening, understanding, communication and speech sounds.</p>
-    <div class="modes-grid">
-      <div class="mode-card mode-free">
-        <div class="mode-badge" id="mode-free-label">FREE</div>
-        <div class="mode-emoji">🔁</div>
-        <h3 id="mode1-title">Repeat</h3>
-        <p id="mode1-body">Swipe through flashcards. Hear every word spoken aloud. Tap syllables to practice pronunciation step by step.</p>
+    <h2 class="section-title" id="modes-title">One vocabulary set. Seven ways to practise.</h2>
+    <p class="section-sub" id="modes-sub">Repeat is free. Premium adds six interactive activities for listening, understanding, everyday phrases, memory and categorisation.</p>
+
+    <div class="modes-showcase-grid">
+      <div class="modes-image-card">
+        <img id="modes-screenshot" src="modes_en.png" alt="PAN | DA activity selection on iPad" class="localized-screenshot modes-screenshot" />
       </div>
-      <div class="mode-card mode-premium">
-        <div class="mode-badge mode-badge-premium">Premium</div>
-        <div class="mode-emoji">🔍</div>
-        <h3 id="mode2-title">Find</h3>
-        <p id="mode2-body">Hear a word and choose the matching picture. Practises listening and understanding.</p>
-      </div>
-      <div class="mode-card mode-premium">
-        <div class="mode-badge mode-badge-premium">Premium</div>
-        <div class="mode-emoji">🔊</div>
-        <h3 id="mode3-title">Guess the Sound</h3>
-        <p id="mode3-body">Identify animals and objects by their real sound — not the word. Works with 60+ audio recordings.</p>
-      </div>
-      <div class="mode-card mode-premium">
-        <div class="mode-badge mode-badge-premium">Premium</div>
-        <div class="mode-emoji">💬</div>
-        <h3 id="mode4-title">Phrases</h3>
-        <p id="mode4-body">Practise familiar words in short, useful everyday phrases.</p>
-      </div>
-      <div class="mode-card mode-premium">
-        <div class="mode-badge mode-badge-premium">Premium</div>
-        <div class="mode-emoji">🃏</div>
-        <h3 id="mode5-title">Matching Pairs</h3>
-        <p id="mode5-body">Classic memory matching game. Flip cards, find pairs, hear words spoken on every match.</p>
-      </div>
-      <div class="mode-card mode-premium">
-        <div class="mode-badge mode-badge-premium">Premium</div>
-        <div class="mode-emoji">💬🖼️</div>
-        <h3 id="mode6-title">Find in a Sentence</h3>
-        <p id="mode6-body">Hear a short sentence and find the matching word or picture. Helps children recognise familiar words in connected speech.</p>
-      </div>
-      <div class="mode-card mode-premium">
-        <div class="mode-badge mode-badge-premium">Premium</div>
-        <div class="mode-emoji">🚫</div>
-        <h3 id="mode7-title">Odd One Out</h3>
-        <p id="mode7-body">Find the picture that does not belong and practise categorisation. Difficulty adapts to your child's level.</p>
-      </div>
-      <div class="mode-card mode-premium">
-        <div class="mode-badge mode-badge-premium">Premium</div>
-        <div class="mode-emoji">🔤</div>
-        <h3 id="mode8-title">Speech Sounds</h3>
-        <p id="mode8-body">Practise a specific sound in familiar words — at the beginning, middle or end. Structured by sound position across all six languages.</p>
+
+      <div class="modes-copy">
+        <div class="tier-summary tier-summary-free">
+          <div class="tier-pill tier-pill-free" id="mode-free-label">FREE</div>
+          <h3 id="modes-free-title">Start with Repeat</h3>
+          <p id="modes-free-body">Browse the full card library, hear each word and practise together at your child's pace.</p>
+        </div>
+
+        <div class="tier-summary tier-summary-premium">
+          <div class="tier-pill tier-pill-premium" id="mode-premium-label">PREMIUM</div>
+          <h3 id="modes-premium-title">Go further with Premium</h3>
+          <p id="modes-premium-body">Unlock Find, Guess the Sound, Phrases, Matching Pairs, Find in a Sentence and Odd One Out.</p>
+        </div>
+
+        <div class="speech-callout">
+          <div class="speech-callout-icon" aria-hidden="true">🔤</div>
+          <div>
+            <h3 id="speech-title">Focused Speech Sounds practice</h3>
+            <p id="speech-body">Premium also includes a separate tool for practising a target sound at the beginning, middle or end of familiar words.</p>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -255,7 +232,7 @@
         </div>
         <ul class="pricing-list">
           <li id="pp1">✅ Everything in Free</li>
-          <li id="pp2">✅ 7 additional ways to practise</li>
+          <li id="pp2">✅ 6 additional interactive activities</li>
           <li id="pp3">✅ Everyday phrases for real communication</li>
           <li id="pp4">✅ Listening, matching and categorisation</li>
           <li id="pp5">✅ Speech-sound practice in all 6 languages</li>
@@ -265,7 +242,7 @@
     </div>
     <div class="section-sub pricing-explanation">
       <p id="pricing-note1">We want every family to be able to try PAN | DA properly. That’s why the full card catalogue, Repeat mode, all languages and progress overview are free.</p>
-      <p id="pricing-note2">Premium unlocks six more ways to practise, including everyday phrases. Your subscription also supports new cards, sounds, translations and continued development.</p>
+      <p id="pricing-note2">Premium adds six interactive activities, while focused Speech Sounds practice is included as a separate Premium tool. Your subscription also supports new cards, sounds, translations and continued development.</p>
     </div>
   </div>
 </section>
@@ -308,11 +285,12 @@
 const L = {
   en: {
     'nav-download': 'Download',
+    'nav-how': 'How it works', 'nav-activities': 'Activities', 'nav-pricing': 'Pricing',
     'hero-badge': '🧡 Built by parents for everyday practice',
     'hero-h1': 'A calm, multilingual path<br>from first words to everyday phrases.',
     'hero-sub': 'A calm, truly multilingual app for children aged 2–5. It builds understanding and guides them from first words to useful everyday phrases — with no ads, account, microphone or pronunciation scoring.',
     'hero-cta-text': 'Download on App Store',
-    'hero-free': 'Full card library + Repeat free · Premium adds 7 more activities',
+    'hero-free': 'Full card library + Repeat free · Premium adds 6 activities + Speech Sounds',
     'for-whom-title': 'For children learning to communicate',
     'for-whom-sub': 'Use PAN | DA at your child\'s own pace — for first words, extra speech support or more than one home language.',
     'fw1-title': 'First words and vocabulary',
@@ -326,11 +304,11 @@ const L = {
     'step1-title': 'Daily Practice',
     'step1-body': 'PAN | DA suggests what to practise next based on your child\'s communication level and previous sessions.',
     'step2-title': 'Practice together',
-    'step2-body': 'Pick a training mode and go through flashcards together. The app speaks every word aloud.',
+    'step2-body': 'Choose an activity and practise together. Repeat words, find the right picture, recognise real sounds or use familiar words in everyday phrases. The app speaks every word aloud.',
     'step3-title': 'Show your therapist what you practiced',
     'step3-body': 'PAN | DA keeps a practice log — how often, which categories, how well. Export a PDF and bring it to your next appointment as a starting point.',
-    'modes-title': 'From first words to everyday phrases',
-    'modes-sub': 'Repeat is always free. Premium adds seven more ways to practise listening, understanding, communication and speech sounds.',
+    'modes-title': 'One vocabulary set. Seven ways to practise.',
+    'modes-sub': 'Repeat is free. Premium adds six interactive activities for listening, understanding, everyday phrases, memory and categorisation.',
     'mode-free-label': 'FREE',
     'mode1-title': 'Repeat', 'mode1-body': 'Swipe through flashcards. Hear every word spoken aloud. Tap syllables to practice pronunciation step by step.',
     'mode2-title': 'Find', 'mode2-body': 'Hear a word and choose the matching picture. Practises listening and understanding.',
@@ -340,6 +318,15 @@ const L = {
     'mode6-title': 'Find in a Sentence', 'mode6-body': 'Hear a short sentence and find the matching word or picture. Helps children recognise familiar words in connected speech.',
     'mode7-title': 'Odd One Out', 'mode7-body': 'Find the picture that does not belong and practise categorisation. Difficulty adapts to your child\'s level.',
     'mode8-title': 'Speech Sounds', 'mode8-body': 'Practise a specific sound in familiar words — at the beginning, middle or end. Structured by sound position across all six languages.',
+    'mode-premium-label': "PREMIUM",
+    'modes-free-title': "Start with Repeat",
+    'modes-free-body': "Browse the full card library, hear each word and practise together at your child's pace.",
+    'modes-premium-title': "Go further with Premium",
+    'modes-premium-body': "Unlock Find, Guess the Sound, Phrases, Matching Pairs, Find in a Sentence and Odd One Out.",
+    'speech-title': "Focused Speech Sounds practice",
+    'speech-body': "Premium also includes a separate tool for practising a target sound at the beginning, middle or end of familiar words.",
+    'hero-image-alt': "PAN | DA home screen on iPad",
+    'modes-image-alt': "PAN | DA activity selection on iPad",
     'langs-title': '6 languages, one app',
     'langs-sub': 'Practice 960+ picture cards in any language. Perfect for bilingual children or families living abroad.',
     'langs-note': 'English available in US and UK variants.',
@@ -352,13 +339,13 @@ const L = {
     'feat6-title': 'Communication levels', 'feat6-body': 'Set your child\'s stage — nonverbal to full sentences. The app adapts cards and modes shown.',
     'pricing-title': 'Simple pricing',
     'pricing-note1': 'We want every family to be able to try PAN | DA properly. That’s why the full card catalogue, Repeat mode, all languages and progress overview are free.',
-    'pricing-note2': 'Premium unlocks six more ways to practise, including everyday phrases. Your subscription also supports new cards, sounds, translations and continued development.',
+    'pricing-note2': 'Premium adds six interactive activities, while focused Speech Sounds practice is included as a separate Premium tool. Your subscription also supports new cards, sounds, translations and continued development.',
     'price-free-label': 'Free', 'price-premium-label': 'Premium',
     'price-free-amount': '$0', 'price-amount': '$4.99', 'per-month': '/month',
     'pf1': '✅ Unlimited Repeat mode', 'pf2': '✅ Full catalogue of 850+ picture cards', 'pf3': '✅ 6 languages',
     'pf4': '✅ Family & classmates cards', 'pf5': '✅ Offline and ad-free', 'pf6': '✅ Progress overview and PDF export',
     'price-free-cta': 'Download free',
-    'pp1': '✅ Everything in Free', 'pp2': '✅ 7 additional ways to practise',
+    'pp1': '✅ Everything in Free', 'pp2': '✅ 6 additional interactive activities',
     'pp3': '✅ Everyday phrases for real communication', 'pp4': '✅ Listening, matching and categorisation',
     'pp5': '✅ Speech-sound practice in all 6 languages',
     'price-premium-cta': 'Try Premium',
@@ -401,11 +388,12 @@ const L = {
   },
   cs: {
     'nav-download': 'Stáhnout',
+    'nav-how': 'Jak to funguje', 'nav-activities': 'Aktivity', 'nav-pricing': 'Ceny',
     'hero-badge': '🧡 Vytvořeno rodiči pro každodenní procvičování',
     'hero-h1': 'Klidná vícejazyčná cesta<br>od prvních slov ke každodenním frázím.',
     'hero-sub': 'Klidná, skutečně vícejazyčná aplikace pro děti od 2 do 5 let. Rozvíjí porozumění a vede od prvních slov k praktickým frázím — bez reklam, účtu, mikrofonu a hodnocení výslovnosti.',
     'hero-cta-text': 'Stáhnout v App Storu',
-    'hero-free': 'Celý katalog + Opakuj zdarma · Premium přidává 7 dalších aktivit',
+    'hero-free': 'Celý katalog + Opakuj zdarma · Premium přidává 6 aktivit + procvičování hlásek',
     'for-whom-title': 'Pro děti, které se učí komunikovat',
     'for-whom-sub': 'S PAN | DA může každé dítě procvičovat svým vlastním tempem — od prvních slov přes rozšiřování slovní zásoby až po učení ve více jazycích.',
     'fw1-title': 'První slova a slovní zásoba',
@@ -416,14 +404,14 @@ const L = {
     'fw3-body': 'Procvičujte stejné obrázkové karty v kterémkoli ze šesti jazyků a přepínejte podle potřeb vaší rodiny.',
     'for-whom-cta': 'Krátké vedené aktivity, které zapadnou do běžného rodinného dne.',
     'how-title': 'Jak to funguje',
-    'step1-title': 'Denní procvičování',
+    'step1-title': 'Plán procvičování',
     'step1-body': 'PAN | DA navrhne, co procvičovat dál, podle komunikační úrovně dítěte a předchozích sezení.',
     'step2-title': 'Procvičujte společně',
     'step2-body': 'Vyberte tréninkový mód a projděte karty společně. Aplikace každé slovo vysloví nahlas.',
     'step3-title': 'Ukažte logopedovi, co jste procvičovali',
     'step3-body': 'PAN | DA vede záznamy — jak často, jaké kategorie, jak přesně. Exportujte PDF a přineste ho na příští sezení jako podklad pro rozhovor.',
-    'modes-title': 'Od prvních slov ke každodenním frázím',
-    'modes-sub': 'Opakování je vždy zdarma. Premium přidává sedm dalších způsobů procvičování poslechu, porozumění, komunikace a hlásek.',
+    'modes-title': 'Jedna slovní zásoba. Sedm způsobů procvičování.',
+    'modes-sub': 'Opakuj je zdarma. Premium přidává šest interaktivních aktivit pro poslech, porozumění, každodenní fráze, paměť a třídění.',
     'mode-free-label': 'ZDARMA',
     'mode1-title': 'Opakuj', 'mode1-body': 'Přejíždějte kartami. Každé slovo je vysloveno nahlas. Klepněte na slabiky pro procvičení výslovnosti krok po kroku.',
     'mode2-title': 'Najdi', 'mode2-body': 'Poslechněte si slovo a vyberte správný obrázek. Procvičuje poslech a porozumění.',
@@ -433,6 +421,15 @@ const L = {
     'mode6-title': 'Najdi podle věty', 'mode6-body': 'Poslechněte krátkou větu a najděte odpovídající slovo nebo obrázek. Pomáhá dětem rozpoznávat známá slova ve větách.',
     'mode7-title': 'Co sem nepatří?', 'mode7-body': 'Najděte obrázek, který tam nepatří, a procvičte kategorizaci. Obtížnost se přizpůsobuje úrovni dítěte.',
     'mode8-title': 'Hlásky', 'mode8-body': 'Procvičujte konkrétní hlásku ve známých slovech — na začátku, uprostřed nebo na konci. Strukturováno podle pozice hlásky ve všech šesti jazycích.',
+    'mode-premium-label': "PREMIUM",
+    'modes-free-title': "Začněte s Opakuj",
+    'modes-free-body': "Procházejte celý katalog kartiček, poslouchejte jednotlivá slova a procvičujte společně vlastním tempem dítěte.",
+    'modes-premium-title': "S Premium pokračujte dál",
+    'modes-premium-body': "Odemkněte Najdi, Poznej zvuk, Fráze, Pexeso, Najdi podle věty a Co sem nepatří.",
+    'speech-title': "Cílené procvičování hlásek",
+    'speech-body': "Premium navíc obsahuje samostatný nástroj pro procvičování vybrané hlásky na začátku, uprostřed nebo na konci známých slov.",
+    'hero-image-alt': "Domovská obrazovka PAN | DA na iPadu",
+    'modes-image-alt': "Výběr aktivit PAN | DA na iPadu",
     'langs-title': '6 jazyků, jedna aplikace',
     'langs-sub': 'Procvičujte více než 960 obrázkových karet v libovolném jazyce. Ideální pro dvojjazyčné děti nebo rodiny žijící v zahraničí.',
     'langs-note': 'Angličtina je k dispozici v americké i britské variantě.',
@@ -445,13 +442,13 @@ const L = {
     'feat6-title': 'Komunikační úrovně', 'feat6-body': 'Nastavte vývojovou fázi dítěte — od neverbálního stádia po celé věty. Aplikace přizpůsobí zobrazené karty a módy.',
     'pricing-title': 'Jednoduché ceny',
     'pricing-note1': 'Chceme, aby si každá rodina mohla PAN | DA smysluplně vyzkoušet. Proto jsou celý katalog kartiček, režim Opakuj, všechny jazyky i přehled pokroku zdarma.',
-    'pricing-note2': 'Premium odemyká šest dalších způsobů procvičování včetně každodenních frází. Předplatným zároveň podporujete tvorbu nových kartiček, zvuků a překladů i další vývoj aplikace.',
+    'pricing-note2': 'Premium přidává šest interaktivních aktivit a samostatný nástroj pro cílené procvičování hlásek. Předplatným zároveň podporujete tvorbu nových kartiček, zvuků a překladů i další vývoj aplikace.',
     'price-free-label': 'Zdarma', 'price-premium-label': 'Premium',
     'price-free-amount': '0 Kč', 'price-amount': '99 Kč', 'per-month': '/měsíc',
     'pf1': '✅ Opakuj bez omezení', 'pf2': '✅ Celý katalog s více než 850 obrázkovými kartami', 'pf3': '✅ 6 jazyků',
     'pf4': '✅ Vlastní karty rodiny a spolužáků', 'pf5': '✅ Offline a bez reklam', 'pf6': '✅ Přehled pokroku a export do PDF',
     'price-free-cta': 'Stáhnout zdarma',
-    'pp1': '✅ Vše ze základní verze', 'pp2': '✅ 7 dalších způsobů procvičování',
+    'pp1': '✅ Vše ze základní verze', 'pp2': '✅ 6 dalších interaktivních aktivit',
     'pp3': '✅ Každodenní fráze pro praktickou komunikaci', 'pp4': '✅ Poslech, přiřazování a třídění',
     'pp5': '✅ Procvičování hlásek ve všech 6 jazycích',
     'price-premium-cta': 'Vyzkoušet Premium',
@@ -494,11 +491,12 @@ const L = {
   },
   de: {
     'nav-download': 'Herunterladen',
+    'nav-how': 'So funktioniert es', 'nav-activities': 'Aktivitäten', 'nav-pricing': 'Preise',
     'hero-badge': '🧡 Von Eltern für den Alltag entwickelt',
     'hero-h1': 'Ein ruhiger, mehrsprachiger Weg<br>von den ersten Wörtern zu Alltagssätzen.',
     'hero-sub': 'Eine ruhige, wirklich mehrsprachige App für Kinder von 2 bis 5 Jahren. Sie fördert das Sprachverständnis und führt von ersten Wörtern zu nützlichen Alltagssätzen — ohne Werbung, Konto, Mikrofon oder Bewertung der Aussprache.',
     'hero-cta-text': 'Im App Store laden',
-    'hero-free': 'Gesamte Kartenbibliothek + Wiederholen kostenlos · Premium mit 6 weiteren Aktivitäten',
+    'hero-free': 'Gesamter Kartenkatalog + Wiederholen kostenlos · Premium: 6 weitere Aktivitäten + Lautübungen',
     'for-whom-title': 'Für Kinder, die lernen zu kommunizieren',
     'for-whom-sub': 'Nutzen Sie PAN | DA im eigenen Tempo Ihres Kindes — für erste Wörter, mehr Sprachunterstützung oder mehrere Sprachen zu Hause.',
     'fw1-title': 'Erste Wörter und Wortschatz', 'fw1-body': 'Entdecken Sie nützliche Alltagswörter durch klare Bilder, gesprochenes Audio und kurze spielerische Aktivitäten.',
@@ -509,13 +507,22 @@ const L = {
     'step1-title': 'Empfehlung für heute', 'step1-body': 'Die App schlägt täglich vor, welche Kategorie geübt werden soll.',
     'step2-title': 'Gemeinsam üben', 'step2-body': 'Wähle einen Trainingsmodus und gehe Karteikarten gemeinsam durch.',
     'step3-title': 'Zeige dem Logopäden, was ihr geübt habt', 'step3-body': 'PAN | DA führt ein Übungsprotokoll — Häufigkeit, Kategorien, Genauigkeit. Exportiere ein PDF als Gesprächsgrundlage für die nächste Sitzung.',
-    'modes-title': 'Von ersten Wörtern zu Alltagssätzen',
-    'modes-sub': 'Wiederholen ist immer kostenlos. Premium bietet sieben weitere Übungsarten für Zuhören, Verstehen, Kommunikation und Lautübungen.',
+    'modes-title': 'Ein Wortschatz. Sieben Arten zu üben.',
+    'modes-sub': 'Wiederholen ist kostenlos. Premium ergänzt sechs interaktive Aktivitäten für Zuhören, Verstehen, Alltagssätze, Gedächtnis und Kategorisierung.',
     'mode-free-label': 'KOSTENLOS',
     'mode1-title': 'Wiederholen', 'mode2-title': 'Finden', 'mode3-title': 'Geräusch erkennen', 'mode4-title': 'Sätze', 'mode5-title': 'Paare finden',
     'mode6-title': 'Im Satz finden', 'mode6-body': 'Höre einen kurzen Satz und finde das passende Wort oder Bild. Hilft Kindern, bekannte Wörter in zusammenhängender Sprache zu erkennen.',
     'mode7-title': 'Was passt nicht?', 'mode7-body': 'Welches Bild passt nicht? Fördert Kategorisierung und logisches Denken. Schwierigkeit passt sich dem Kind an.',
     'mode8-title': 'Laute üben', 'mode8-body': 'Übe einen bestimmten Laut in vertrauten Wörtern — am Anfang, in der Mitte oder am Ende. Strukturiert nach Lautposition in allen sechs Sprachen.',
+    'mode-premium-label': "PREMIUM",
+    'modes-free-title': "Mit Wiederholen starten",
+    'modes-free-body': "Den gesamten Kartenkatalog ansehen, jedes Wort anhören und gemeinsam im Tempo des Kindes üben.",
+    'modes-premium-title': "Mit Premium weitergehen",
+    'modes-premium-body': "Finden, Geräusch erkennen, Sätze, Paare finden, Im Satz finden und Was passt nicht? freischalten.",
+    'speech-title': "Gezielte Lautübungen",
+    'speech-body': "Premium enthält außerdem ein separates Werkzeug, um einen Ziellaut am Anfang, in der Mitte oder am Ende vertrauter Wörter zu üben.",
+    'hero-image-alt': "PAN | DA Startbildschirm auf dem iPad",
+    'modes-image-alt': "PAN | DA Aktivitätsauswahl auf dem iPad",
     'langs-title': '6 Sprachen, eine App',
     'langs-sub': 'Übe mehr als 960 Bildkarten in jeder Sprache. Perfekt für zweisprachige Kinder.',
     'langs-note': 'Englisch ist in US- und UK-Variante verfügbar.',
@@ -524,7 +531,7 @@ const L = {
     'feat4-title': 'Familie & Mitschüler', 'feat4-body': 'Füge Fotos von Familienmitgliedern hinzu — sie erscheinen sofort auf dem Gerät des Kindes über iCloud.', 'feat5-title': 'Übungsprotokoll PDF', 'feat5-body': 'Exportiere eine Übungszusammenfassung — Häufigkeit, Kategorien, Genauigkeit — damit der Logopäde sofort weiß, woran ihr zu Hause gearbeitet habt.', 'feat6-title': 'Kommunikationsstufen',
     'pricing-title': 'Einfache Preise',
     'pricing-note1': 'Wir möchten, dass jede Familie PAN | DA in Ruhe ausprobieren kann. Deshalb sind der gesamte Kartenkatalog, der Modus Wiederholen, alle Sprachen und die Fortschrittsübersicht kostenlos.',
-    'pricing-note2': 'Premium schaltet sechs weitere Übungsarten frei, darunter alltagstaugliche Sätze. Mit Ihrem Abo unterstützen Sie außerdem neue Karten, Geräusche und Übersetzungen sowie die Weiterentwicklung der App.', 'price-free-label': 'Kostenlos', 'price-premium-label': 'Premium', 'price-free-amount': '0 $', 'price-amount': '4,99 $', 'per-month': '/Monat',
+    'pricing-note2': 'Premium ergänzt sechs interaktive Aktivitäten; gezielte Lautübungen sind als separates Premium-Werkzeug enthalten. Mit Ihrem Abo unterstützen Sie außerdem neue Karten, Geräusche, Übersetzungen und die Weiterentwicklung der App.', 'price-free-label': 'Kostenlos', 'price-premium-label': 'Premium', 'price-free-amount': '0 $', 'price-amount': '4,99 $', 'per-month': '/Monat',
     'price-free-cta': 'Kostenlos laden', 'price-premium-cta': 'Premium testen',
     'roadmap-title': 'Roadmap', 'roadmap-sub': 'Aktiv entwickelt. Neue Funktionen erscheinen regelmäßig.',
     'tag-10': 'Version 1.0 — Veröffentlicht', 'tag-11': 'Version 1.1 — Veröffentlicht',
@@ -551,7 +558,7 @@ const L = {
     'footer-privacy': 'Datenschutzerklärung', 'footer-terms': 'AGB', 'footer-faq': 'FAQ',
     'pf1': '✅ Wiederholen ohne Limit', 'pf2': '✅ Gesamter Katalog mit mehr als 850 Bildkarten', 'pf3': '✅ 6 Sprachen',
     'pf4': '✅ Eigene Karten für Familie & Mitschüler', 'pf5': '✅ Offline und werbefrei', 'pf6': '✅ Fortschrittsübersicht und PDF-Export',
-    'pp1': '✅ Alles aus der kostenlosen Version', 'pp2': '✅ 7 weitere Übungsarten',
+    'pp1': '✅ Alles aus der kostenlosen Version', 'pp2': '✅ 6 zusätzliche interaktive Aktivitäten',
     'pp3': '✅ Alltagssätze für praktische Kommunikation', 'pp4': '✅ Zuhören, Zuordnen und Kategorisieren',
     'pp5': '✅ Lautübungen in allen 6 Sprachen',
     'r10-1': '✅ 650 Karten in 25 Kategorien', 'r10-2': '✅ 5 Trainingsmodi', 'r10-3': '✅ Text-to-Speech in sechs Sprachen',
@@ -567,11 +574,12 @@ const L = {
   },
   es: {
     'nav-download': 'Descargar',
+    'nav-how': 'Cómo funciona', 'nav-activities': 'Actividades', 'nav-pricing': 'Precios',
     'hero-badge': '🧡 Creado por padres para la práctica diaria',
     'hero-h1': 'Un camino tranquilo y multilingüe<br>de las primeras palabras a frases cotidianas.',
     'hero-sub': 'Una aplicación tranquila y verdaderamente multilingüe para niños de 2 a 5 años. Desarrolla la comprensión y acompaña desde las primeras palabras hasta frases útiles del día a día — sin anuncios, cuenta, micrófono ni evaluación de la pronunciación.',
     'hero-cta-text': 'Descargar en App Store',
-    'hero-free': 'Biblioteca completa + Repetir gratis · Premium añade 6 actividades más',
+    'hero-free': 'Catálogo completo + Repetir gratis · Premium: 6 actividades más + práctica de sonidos',
     'for-whom-title': 'Para niños que aprenden a comunicarse',
     'for-whom-sub': 'Usa PAN | DA al ritmo de tu hijo — para primeras palabras, apoyo extra o más de un idioma en casa.',
     'fw1-title': 'Primeras palabras y vocabulario', 'fw1-body': 'Explora palabras cotidianas útiles a través de imágenes claras, audio hablado y actividades cortas y lúdicas.',
@@ -580,12 +588,21 @@ const L = {
     'for-whom-cta': 'Actividades cortas y guiadas que encajan en la vida familiar diaria.',
     'how-title': 'Cómo funciona',
     'step1-title': 'Recomendación de hoy', 'step2-title': 'Practica juntos', 'step3-title': 'Muestra al logopeda lo que practicaste',
-    'modes-title': 'De las primeras palabras a frases cotidianas', 'modes-sub': 'Repetir es siempre gratis. Premium añade siete formas de practicar la escucha, la comprensión, la comunicación y los sonidos del habla.',
+    'modes-title': 'El mismo vocabulario. Siete formas de practicar.', 'modes-sub': 'Repetir es gratis. Premium añade seis actividades interactivas para escucha, comprensión, frases cotidianas, memoria y categorización.',
     'mode-free-label': 'GRATIS',
     'mode1-title': 'Repetir', 'mode2-title': 'Encontrar', 'mode3-title': 'Adivinar el sonido', 'mode4-title': 'Frases', 'mode5-title': 'Parejas',
     'mode6-title': 'Encontrar en la frase', 'mode6-body': 'Escucha una frase corta y encuentra la palabra o imagen correspondiente. Ayuda a los niños a reconocer palabras conocidas en el habla continua.',
     'mode7-title': 'El intruso', 'mode7-body': '¿Qué imagen no encaja? Desarrolla la categorización y el pensamiento lógico. La dificultad se adapta al nivel del niño.',
     'mode8-title': 'Sonidos del habla', 'mode8-body': 'Practica un sonido específico en palabras conocidas — al principio, en el medio o al final. Estructurado por posición del sonido en los seis idiomas.',
+    'mode-premium-label': "PREMIUM",
+    'modes-free-title': "Empieza con Repetir",
+    'modes-free-body': "Explora todo el catálogo, escucha cada palabra y practicad juntos al ritmo del niño.",
+    'modes-premium-title': "Sigue con Premium",
+    'modes-premium-body': "Desbloquea Encontrar, Adivinar el sonido, Frases, Parejas, Encontrar en la frase y El intruso.",
+    'speech-title': "Práctica específica de sonidos",
+    'speech-body': "Premium también incluye una herramienta separada para practicar un sonido objetivo al principio, en medio o al final de palabras conocidas.",
+    'hero-image-alt': "Pantalla de inicio de PAN | DA en iPad",
+    'modes-image-alt': "Selección de actividades de PAN | DA en iPad",
     'langs-title': '6 idiomas, una app',
     'langs-sub': 'Practica con más de 960 tarjetas ilustradas en cualquier idioma.',
     'langs-note': 'Inglés disponible en variantes estadounidense y británica.',
@@ -594,7 +611,7 @@ const L = {
     'feat4-title': 'Familia y compañeros', 'feat4-body': 'Añade fotos de familiares desde tu teléfono — aparecen al instante en el dispositivo del niño por iCloud.', 'feat5-title': 'Registro de práctica PDF', 'feat5-body': 'Exporta un resumen de práctica — frecuencia, categorías, precisión — para que el logopeda sepa exactamente en qué habéis trabajado en casa.', 'feat6-title': 'Niveles de comunicación',
     'pricing-title': 'Precios simples',
     'pricing-note1': 'Queremos que todas las familias puedan probar PAN | DA de verdad. Por eso, el catálogo completo de tarjetas, el modo Repetir, todos los idiomas y el resumen de progreso son gratuitos.',
-    'pricing-note2': 'Premium desbloquea seis formas adicionales de practicar, incluidas frases cotidianas. La suscripción también ayuda a crear nuevas tarjetas, sonidos y traducciones, y a seguir mejorando la aplicación.', 'price-free-label': 'Gratis', 'price-premium-label': 'Premium', 'price-free-amount': '$0', 'price-amount': '$4.99', 'per-month': '/mes',
+    'pricing-note2': 'Premium añade seis actividades interactivas e incluye aparte una herramienta específica para practicar sonidos del habla. La suscripción también ayuda a crear nuevas tarjetas, sonidos y traducciones y a seguir mejorando la aplicación.', 'price-free-label': 'Gratis', 'price-premium-label': 'Premium', 'price-free-amount': '$0', 'price-amount': '$4.99', 'per-month': '/mes',
     'price-free-cta': 'Descargar gratis', 'price-premium-cta': 'Probar Premium',
     'roadmap-title': 'Hoja de ruta', 'roadmap-sub': 'En desarrollo activo.',
     'tag-10': 'Versión 1.0 — Publicada', 'tag-11': 'Versión 1.1 — Publicada',
@@ -621,7 +638,7 @@ const L = {
     'footer-privacy': 'Política de privacidad', 'footer-terms': 'Términos y condiciones', 'footer-faq': 'Preguntas frecuentes',
     'pf1': '✅ Repetir sin límites', 'pf2': '✅ Catálogo completo con más de 850 tarjetas', 'pf3': '✅ 6 idiomas',
     'pf4': '✅ Tarjetas propias de familia y compañeros', 'pf5': '✅ Sin conexión y sin anuncios', 'pf6': '✅ Progreso y exportación a PDF',
-    'pp1': '✅ Todo lo de la versión gratuita', 'pp2': '✅ 7 formas más de practicar',
+    'pp1': '✅ Todo lo de la versión gratuita', 'pp2': '✅ 6 actividades interactivas adicionales',
     'pp3': '✅ Frases cotidianas para comunicarse', 'pp4': '✅ Escucha, asociación y categorización',
     'pp5': '✅ Práctica de sonidos del habla en los 6 idiomas',
     'r10-1': '✅ 650 tarjetas en 25 categorías', 'r10-2': '✅ 5 modos de entrenamiento', 'r10-3': '✅ Texto a voz en seis idiomas',
@@ -637,11 +654,12 @@ const L = {
   },
   pt: {
     'nav-download': 'Baixar',
+    'nav-how': 'Como funciona', 'nav-activities': 'Atividades', 'nav-pricing': 'Preços',
     'hero-badge': '🧡 Criado por pais para a prática diária',
     'hero-h1': 'Um percurso calmo e multilingue<br>das primeiras palavras às frases do dia a dia.',
     'hero-sub': 'Uma aplicação calma e verdadeiramente multilingue para crianças dos 2 aos 5 anos. Desenvolve a compreensão e acompanha das primeiras palavras a frases úteis do dia a dia — sem publicidade, conta, microfone ou avaliação da pronúncia.',
     'hero-cta-text': 'Baixar na App Store',
-    'hero-free': 'Biblioteca completa + Repetir gratuito · Premium com 6 atividades extra',
+    'hero-free': 'Catálogo completo + Repetir grátis · Premium: 6 atividades extra + sons da fala',
     'for-whom-title': 'Para crianças que aprendem a se comunicar',
     'for-whom-sub': 'Use o PAN | DA no ritmo do seu filho — para primeiras palavras, mais apoio ou mais de um idioma em casa.',
     'fw1-title': 'Primeiras palavras e vocabulário', 'fw1-body': 'Explore palavras cotidianas úteis por meio de imagens claras, áudio falado e atividades curtas e lúdicas.',
@@ -650,12 +668,21 @@ const L = {
     'for-whom-cta': 'Atividades curtas e guiadas que se encaixam na rotina familiar.',
     'how-title': 'Como funciona',
     'step1-title': 'Recomendação de hoje', 'step2-title': 'Pratique juntos', 'step3-title': 'Mostre ao fonoaudiólogo o que praticaram',
-    'modes-title': 'Das primeiras palavras às frases do dia a dia', 'modes-sub': 'Repetir é sempre gratuito. O Premium acrescenta sete formas de praticar a audição, a compreensão, a comunicação e os sons da fala.',
+    'modes-title': 'O mesmo vocabulário. Sete formas de praticar.', 'modes-sub': 'Repetir é gratuito. O Premium acrescenta seis atividades interativas para audição, compreensão, frases do dia a dia, memória e categorização.',
     'mode-free-label': 'GRATUITO',
     'mode1-title': 'Repetir', 'mode2-title': 'Encontrar', 'mode3-title': 'Adivinhar o som', 'mode4-title': 'Frases', 'mode5-title': 'Jogo dos pares',
     'mode6-title': 'Encontrar na frase', 'mode6-body': 'Ouça uma frase curta e encontre a palavra ou imagem correspondente. Ajuda as crianças a reconhecer palavras conhecidas na fala contínua.',
     'mode7-title': 'O intruso', 'mode7-body': 'Qual imagem não se encaixa? Desenvolve categorização e raciocínio lógico. A dificuldade se adapta ao nível da criança.',
     'mode8-title': 'Sons da fala', 'mode8-body': 'Pratique um som específico em palavras conhecidas — no início, no meio ou no fim. Estruturado por posição do som nos seis idiomas.',
+    'mode-premium-label': "PREMIUM",
+    'modes-free-title': "Comece com Repetir",
+    'modes-free-body': "Explore todo o catálogo, ouça cada palavra e pratique em conjunto ao ritmo da criança.",
+    'modes-premium-title': "Continue com Premium",
+    'modes-premium-body': "Desbloqueie Encontrar, Adivinhar o som, Frases, Jogo dos pares, Encontrar na frase e O intruso.",
+    'speech-title': "Prática focada dos sons da fala",
+    'speech-body': "O Premium inclui também uma ferramenta separada para praticar um som-alvo no início, no meio ou no fim de palavras conhecidas.",
+    'hero-image-alt': "Ecrã inicial da PAN | DA no iPad",
+    'modes-image-alt': "Seleção de atividades da PAN | DA no iPad",
     'langs-title': '6 idiomas, um app',
     'langs-sub': 'Pratique com mais de 960 cartões ilustrados em qualquer idioma.',
     'langs-note': 'Inglês disponível nas variantes americana e britânica.',
@@ -664,7 +691,7 @@ const L = {
     'feat4-title': 'Família e colegas', 'feat4-body': 'Adicione fotos de familiares do seu telefone — aparecem instantaneamente no dispositivo da criança pelo iCloud.', 'feat5-title': 'Registro de prática PDF', 'feat5-body': 'Exporte um resumo de prática — frequência, categorias, precisão — para que o fonoaudiólogo saiba exatamente no que vocês trabalharam em casa.', 'feat6-title': 'Níveis de comunicação',
     'pricing-title': 'Preços simples',
     'pricing-note1': 'Queremos que todas as famílias possam experimentar o PAN | DA de forma completa. Por isso, o catálogo completo de cartões, o modo Repetir, todos os idiomas e o resumo do progresso são gratuitos.',
-    'pricing-note2': 'Premium desbloqueia mais seis formas de praticar, incluindo frases do dia a dia. A subscrição também apoia a criação de novos cartões, sons e traduções e o desenvolvimento contínuo da aplicação.', 'price-free-label': 'Gratuito', 'price-premium-label': 'Premium', 'price-free-amount': '$0', 'price-amount': '$4,99', 'per-month': '/mês',
+    'pricing-note2': 'O Premium acrescenta seis atividades interativas e inclui, em separado, uma ferramenta focada na prática dos sons da fala. A subscrição também apoia novos cartões, sons, traduções e o desenvolvimento contínuo da aplicação.', 'price-free-label': 'Gratuito', 'price-premium-label': 'Premium', 'price-free-amount': '$0', 'price-amount': '$4,99', 'per-month': '/mês',
     'price-free-cta': 'Baixar grátis', 'price-premium-cta': 'Experimentar Premium',
     'roadmap-title': 'Roadmap', 'roadmap-sub': 'Em desenvolvimento ativo.',
     'tag-10': 'Versão 1.0 — Lançada', 'tag-11': 'Versão 1.1 — Lançada',
@@ -691,7 +718,7 @@ const L = {
     'footer-privacy': 'Política de privacidade', 'footer-terms': 'Termos e condições', 'footer-faq': 'Perguntas frequentes',
     'pf1': '✅ Repetir sem limites', 'pf2': '✅ Catálogo completo com mais de 850 cartões', 'pf3': '✅ 6 idiomas',
     'pf4': '✅ Cartões próprios de família e colegas', 'pf5': '✅ Offline e sem anúncios', 'pf6': '✅ Progresso e exportação em PDF',
-    'pp1': '✅ Tudo da versão gratuita', 'pp2': '✅ Mais 7 formas de praticar',
+    'pp1': '✅ Tudo da versão gratuita', 'pp2': '✅ Mais 6 atividades interativas',
     'pp3': '✅ Frases do dia a dia para comunicar', 'pp4': '✅ Audição, associação e categorização',
     'pp5': '✅ Prática de sons da fala nos 6 idiomas',
     'r10-1': '✅ 650 cartões em 25 categorias', 'r10-2': '✅ 5 modos de treino', 'r10-3': '✅ Texto para fala em seis idiomas',
@@ -707,11 +734,12 @@ const L = {
   },
   fr: {
     'nav-download': 'Télécharger',
+    'nav-how': 'Comment ça marche', 'nav-activities': 'Activités', 'nav-pricing': 'Tarifs',
     'hero-badge': "🧡 Créé par des parents pour la pratique quotidienne",
     'hero-h1': "Un parcours calme et multilingue<br>des premiers mots aux phrases du quotidien.",
     'hero-sub': "Une app calme et véritablement multilingue pour les enfants de 2 à 5 ans. Elle développe la compréhension et accompagne des premiers mots aux phrases utiles du quotidien — sans publicité, compte, microphone ni évaluation de la prononciation.",
     'hero-cta-text': "Télécharger sur l'App Store",
-    'hero-free': 'Bibliothèque complète + Répéter gratuit · Premium avec 6 activités supplémentaires',
+    'hero-free': 'Catalogue complet + Répéter gratuit · Premium : 6 activités en plus + sons du langage',
     'for-whom-title': 'Pour les enfants qui apprennent à communiquer',
     'for-whom-sub': 'Chaque enfant a son propre parcours. PAN | DA s\'adapte au vôtre.',
     'fw1-title': "Premiers mots et vocabulaire", 'fw1-body': "Des images simples et des activités courtes pour aider votre enfant à acquérir le vocabulaire du quotidien — besoins, famille, nourriture, objets familiers.",
@@ -720,12 +748,21 @@ const L = {
     'for-whom-cta': 'Des activités courtes et guidées qui s\'intègrent dans la routine familiale.',
     'how-title': 'Comment ça marche',
     'step1-title': "Recommandation du jour", 'step2-title': 'Pratiquez ensemble', 'step3-title': "Montrez à l'orthophoniste ce que vous avez pratiqué",
-    ‘modes-title’: ‘Des premiers mots aux phrases du quotidien’, ‘modes-sub’: ‘Répéter est toujours gratuit. Premium ajoute sept façons de travailler l’écoute, la compréhension, la communication et les sons du langage.’,
+    'modes-title': 'Le même vocabulaire. Sept façons de s’entraîner.', 'modes-sub': 'Répéter est gratuit. Premium ajoute six activités interactives pour l’écoute, la compréhension, les phrases du quotidien, la mémoire et la catégorisation.',
     'mode-free-label': 'GRATUIT',
     'mode1-title': 'Répéter', 'mode2-title': 'Trouver', 'mode3-title': 'Deviner le son', 'mode4-title': 'Phrases', 'mode5-title': 'Jeu des paires',
     'mode6-title': 'Trouver dans la phrase', 'mode6-body': "Écoute une phrase courte et trouve le mot ou l'image correspondante. Aide les enfants à reconnaître des mots familiers dans la parole continue.",
-    ‘mode7-title’: ‘L’intrus’, ‘mode7-body’: "Quelle image n’est pas à sa place ? Développe la catégorisation et la logique. La difficulté s’adapte au niveau de l’enfant.",
-    ‘mode8-title’: ‘Sons du langage’, ‘mode8-body’: "Travaillez un son spécifique dans des mots familiers — au début, au milieu ou à la fin. Structuré par position du son dans les six langues.",
+    'mode7-title': 'L’intrus', 'mode7-body': "Quelle image n’est pas à sa place ? Développe la catégorisation et la logique. La difficulté s’adapte au niveau de l’enfant.",
+    'mode8-title': 'Sons du langage', 'mode8-body': "Travaillez un son spécifique dans des mots familiers — au début, au milieu ou à la fin. Structuré par position du son dans les six langues.",
+    'mode-premium-label': "PREMIUM",
+    'modes-free-title': "Commencez avec Répéter",
+    'modes-free-body': "Parcourez tout le catalogue, écoutez chaque mot et pratiquez ensemble au rythme de l’enfant.",
+    'modes-premium-title': "Allez plus loin avec Premium",
+    'modes-premium-body': "Débloquez Trouver, Deviner le son, Phrases, Jeu des paires, Trouver dans la phrase et L’intrus.",
+    'speech-title': "Travail ciblé des sons du langage",
+    'speech-body': "Premium inclut aussi un outil séparé pour travailler un son cible au début, au milieu ou à la fin de mots familiers.",
+    'hero-image-alt': "Écran d’accueil PAN | DA sur iPad",
+    'modes-image-alt': "Sélection des activités PAN | DA sur iPad",
     'langs-title': '6 langues, une seule app',
     'langs-sub': 'Pratiquez avec plus de 960 cartes illustrées dans n\'importe quelle langue.',
     'langs-note': "L'anglais est disponible en variantes américaine et britannique.",
@@ -734,7 +771,7 @@ const L = {
     'feat4-title': 'Famille et camarades', 'feat4-body': 'Ajoutez des photos de la famille depuis votre téléphone — elles apparaissent instantanément sur l\'appareil de l\'enfant via iCloud.', 'feat5-title': 'Journal de pratique PDF', 'feat5-body': 'Exportez un résumé de pratique — fréquence, catégories, précision — pour que l\'orthophoniste sache exactement sur quoi vous avez travaillé à la maison.', 'feat6-title': 'Niveaux de communication',
     'pricing-title': 'Tarifs simples',
     'pricing-note1': 'Nous voulons que chaque famille puisse vraiment essayer PAN | DA. C’est pourquoi le catalogue complet de cartes, le mode Répéter, toutes les langues et le suivi des progrès sont gratuits.',
-    'pricing-note2': 'Premium débloque six autres façons de s’entraîner, notamment avec des phrases du quotidien. L’abonnement soutient aussi la création de nouvelles cartes, de nouveaux sons et de nouvelles traductions, ainsi que le développement continu de l’application.', 'price-free-label': 'Gratuit', 'price-premium-label': 'Premium', 'price-free-amount': '0 $', 'price-amount': '4,99 $', 'per-month': '/mois',
+    'pricing-note2': 'Premium ajoute six activités interactives et inclut séparément un outil ciblé pour travailler les sons du langage. L’abonnement soutient aussi la création de nouvelles cartes, de nouveaux sons et traductions, ainsi que le développement continu de l’application.', 'price-free-label': 'Gratuit', 'price-premium-label': 'Premium', 'price-free-amount': '0 $', 'price-amount': '4,99 $', 'per-month': '/mois',
     'price-free-cta': 'Télécharger gratuitement', 'price-premium-cta': 'Essayer Premium',
     'roadmap-title': 'Feuille de route', 'roadmap-sub': 'En développement actif.',
     'tag-10': 'Version 1.0 — Publiée', 'tag-11': 'Version 1.1 — Publiée',
@@ -761,7 +798,7 @@ const L = {
     'footer-privacy': 'Politique de confidentialité', 'footer-terms': 'CGU', 'footer-faq': 'FAQ',
     'pf1': '✅ Répéter sans limite', 'pf2': '✅ Catalogue complet de plus de 850 cartes', 'pf3': '✅ 6 langues',
     'pf4': '✅ Cartes personnalisées famille & camarades', 'pf5': '✅ Hors ligne et sans publicité', 'pf6': '✅ Suivi des progrès et export PDF',
-    'pp1': '✅ Tout de la version gratuite', 'pp2': '✅ 7 façons supplémentaires',
+    'pp1': '✅ Tout de la version gratuite', 'pp2': '✅ 6 activités interactives supplémentaires',
     'pp3': '✅ Phrases du quotidien pour communiquer', 'pp4': '✅ Écoute, association et catégorisation',
     'pp5': '✅ Travail des sons du langage dans les 6 langues',
     'r10-1': '✅ 650 cartes dans 25 catégories', 'r10-2': "✅ 5 modes d'entraînement", 'r10-3': '✅ Synthèse vocale en six langues',
@@ -784,11 +821,32 @@ const DEFAULT = 'en';
 const detectedRaw = (navigator.language || DEFAULT).slice(0,2).toLowerCase();
 const detected = SUPPORTED.includes(detectedRaw) ? detectedRaw : DEFAULT;
 const params = new URLSearchParams(location.search);
-let lang = params.get('lang') || localStorage.getItem('panda_lang') || detected;
+let lang = (params.get('lang') || localStorage.getItem('panda_lang') || detected).toLowerCase();
 if (!SUPPORTED.includes(lang)) lang = DEFAULT;
 
 function t(key) {
   return (L[lang] && L[lang][key]) || (L['en'][key]) || '';
+}
+
+
+function setLocalizedScreenshot(id, prefix) {
+  const img = document.getElementById(id);
+  if (!img) return;
+
+  const candidates = [`${prefix}_${lang}.png`, `${prefix}_en.png`];
+  let index = 0;
+
+  img.style.display = '';
+  img.onerror = () => {
+    index += 1;
+    if (index < candidates.length) {
+      img.src = candidates[index];
+    } else {
+      img.onerror = null;
+      img.style.display = 'none';
+    }
+  };
+  img.src = candidates[index];
 }
 
 function applyLang() {
@@ -804,9 +862,15 @@ function applyLang() {
     else el.textContent = val;
   });
 
-  // Update hero screenshot
+  // Localized screenshots. If a language image has not been added yet,
+  // fall back to English instead of showing a broken image.
+  setLocalizedScreenshot('hero-screenshot', 'home');
+  setLocalizedScreenshot('modes-screenshot', 'modes');
+
   const heroShot = document.getElementById('hero-screenshot');
-  if (heroShot) heroShot.src = `screen_categories_${lang}.png`;
+  const modesShot = document.getElementById('modes-screenshot');
+  if (heroShot) heroShot.alt = t('hero-image-alt');
+  if (modesShot) modesShot.alt = t('modes-image-alt');
 
   // Update links with lang param
   ['footer-privacy','footer-terms','footer-faq'].forEach(id => {
@@ -816,7 +880,19 @@ function applyLang() {
     el.href = `page.html?p=${p}&lang=${lang}`;
   });
 
-  history.replaceState(null, '', `?lang=${lang}`);
+  const metaDescription = document.querySelector('meta[name="description"]');
+  const pageMeta = {
+    en: ['PAN | DA — Playful language practice for young children', 'Picture-based language practice for young children. Full card library and Repeat are free; Premium adds six interactive activities and Speech Sounds practice.'],
+    cs: ['PAN | DA — Hravé procvičování řeči a slovní zásoby', 'Obrázkové procvičování řeči a slovní zásoby pro malé děti. Celý katalog a Opakuj jsou zdarma; Premium přidává šest aktivit a procvičování hlásek.'],
+    de: ['PAN | DA — Spielerische Sprachübungen für Kinder', 'Bildbasierte Sprachübungen für kleine Kinder. Kartenkatalog und Wiederholen sind kostenlos; Premium ergänzt sechs Aktivitäten und Lautübungen.'],
+    es: ['PAN | DA — Práctica de lenguaje para niños', 'Práctica de lenguaje con imágenes para niños pequeños. El catálogo y Repetir son gratis; Premium añade seis actividades y práctica de sonidos.'],
+    pt: ['PAN | DA — Atividades de linguagem para crianças', 'Atividades de linguagem com imagens para crianças pequenas. O catálogo e Repetir são gratuitos; Premium acrescenta seis atividades e sons da fala.'],
+    fr: ['PAN | DA — Activités de langage pour jeunes enfants', 'Activités de langage illustrées pour jeunes enfants. Le catalogue et Répéter sont gratuits; Premium ajoute six activités et le travail des sons du langage.']
+  };
+  document.title = pageMeta[lang][0];
+  if (metaDescription) metaDescription.setAttribute('content', pageMeta[lang][1]);
+
+  history.replaceState(null, '', `${location.pathname}?lang=${lang}`);
   renderSwitch();
 }
 
