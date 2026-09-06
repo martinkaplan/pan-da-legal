@@ -50,18 +50,18 @@
 </section>
 
 <!-- ── LANG FLAGS STRIP ── -->
-<div class="lang-strip">
-  <span>🇺🇸 🇬🇧 English</span>
-  <span class="lang-strip-dot">·</span>
-  <span>🇨🇿 Čeština</span>
-  <span class="lang-strip-dot">·</span>
-  <span>🇩🇪 Deutsch</span>
-  <span class="lang-strip-dot">·</span>
-  <span>🇪🇸 🇲🇽 Español</span>
-  <span class="lang-strip-dot">·</span>
-  <span>🇵🇹 🇧🇷 Português</span>
-  <span class="lang-strip-dot">·</span>
-  <span>🇫🇷 Français</span>
+<div class="lang-strip" id="lang-strip" aria-label="Language selector">
+  <button type="button" class="lang-strip-item" data-lang="en">🇺🇸 🇬🇧 English</button>
+  <span class="lang-strip-dot" aria-hidden="true">·</span>
+  <button type="button" class="lang-strip-item" data-lang="cs">🇨🇿 Čeština</button>
+  <span class="lang-strip-dot" aria-hidden="true">·</span>
+  <button type="button" class="lang-strip-item" data-lang="de">🇩🇪 Deutsch</button>
+  <span class="lang-strip-dot" aria-hidden="true">·</span>
+  <button type="button" class="lang-strip-item" data-lang="es">🇪🇸 🇲🇽 Español</button>
+  <span class="lang-strip-dot" aria-hidden="true">·</span>
+  <button type="button" class="lang-strip-item" data-lang="pt">🇵🇹 🇧🇷 Português</button>
+  <span class="lang-strip-dot" aria-hidden="true">·</span>
+  <button type="button" class="lang-strip-item" data-lang="fr">🇫🇷 Français</button>
 </div>
 
 <!-- ── FOR WHOM ── -->
@@ -909,6 +909,19 @@ function renderSwitch() {
   switchEl.querySelectorAll('[data-lang]').forEach(btn =>
     btn.addEventListener('click', () => { lang = btn.dataset.lang; switchEl.classList.remove('open'); applyLang(); })
   );
+
+  // The large language strip below the hero is a real language selector too.
+  const stripEl = document.getElementById('lang-strip');
+  stripEl?.querySelectorAll('[data-lang]').forEach(btn => {
+    const isActive = btn.dataset.lang === lang;
+    btn.classList.toggle('active', isActive);
+    btn.setAttribute('aria-pressed', String(isActive));
+    btn.onclick = () => {
+      lang = btn.dataset.lang;
+      applyLang();
+    };
+  });
+
   document.getElementById('lang-mobile-btn')?.addEventListener('click', e => {
     e.stopPropagation();
     switchEl.classList.toggle('open');
