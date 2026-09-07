@@ -1,10 +1,22 @@
 # Časté otázky
 
+## Pro jak staré děti je PAN | DA?
+Především pro děti od 2 do 6 let. Obsah se přizpůsobuje zvolené komunikační úrovni — od neverbálních dětí po ty, které už skládají krátké věty.
+
+## Musíme aplikaci používat společně?
+PAN | DA je navržená hlavně pro společné procvičování s rodičem nebo terapeutem. Jednoduché aktivity jako Opakuj ale dítě může procházet i vlastním tempem.
+
+## Je PAN | DA jen na výslovnost?
+Ne. Zaměřuje se především na první slova, slovní zásobu, porozumění, každodenní fráze a práci se stejným obsahem různými způsoby. Procvičování hlásek (Výslovnost) je samostatná součást.
+
+## Nahrazuje logopeda?
+Ne. PAN | DA je pomůcka pro domácí procvičování, ne diagnostický ani terapeutický nástroj. Ideálně doplňuje logopedickou péči — logopedu doporučujeme konzultovat výběr cílů i postup.
+
 ## Co je PAN | DA?
 PAN | DA je aplikace pro rozvoj slovní zásoby a komunikace u dětí s opožděným vývojem řeči nebo vývojovou dysfázií. Pomocí obrázkových kartiček, zvuků a krátkých aktivit pomáhá dětem učit se nová slova hravou formou — v češtině, angličtině, němčině, španělštině, portugalštině a francouzštině.
 
 ## Pro koho je aplikace určena?
-Aplikace je určena pro děti, které se učí komunikovat — ať jde o první slůvka, větší podporu řeči mezi logopedickými sezeními, nebo dvojjazyčnost v rodině. Věkové rozmezí není striktně dané; záleží na komunikační úrovni dítěte, ne na věku.
+Pro děti, které se učí komunikovat — ať jde o první slůvka, větší podporu řeči mezi logopedickými sezeními, nebo dvojjazyčnost v rodině. Věkové rozmezí není striktně dané; záleží na komunikační úrovni dítěte.
 
 ## Jak funguje Denní procvičování?
 PAN | DA každý den vybere malou sadu slov k procvičení. Pamatuje si, co dítě vidělo, a postupně slova přináší zpět k opakování. Stačí pár minut denně — bez nutnosti vybírat, co procvičovat.
@@ -26,19 +38,19 @@ Premium odemkne všechny módy najednou. Zkušební verzi spustíte přes App St
 V Nastavení klepněte na vlajku nebo název jazyka. Změní se texty i výslovnost — přepnout lze kdykoli, i uprostřed procvičování.
 
 ## Kolik kategorií a kartiček aplikace obsahuje?
-Aktuálně 729 kartiček ve 30 kategoriích: základní slova, jídlo, zvířata, doprava, příroda, emoce, místa, povolání, slušné chování, čísla, barvy, tvary a další. Každou kartičku doprovází 5 frází ve všech jazycích.
+Aktuálně přes 950 kartiček ve 30+ kategoriích: základní slova, jídlo, zvířata, doprava, příroda, emoce, místa, povolání, slušné chování, čísla, barvy, tvary a další. Každou kartičku doprovází 5 frází ve všech jazycích.
 
 ## Jak přidám vlastní kartičky?
 V Nastavení v sekci **Rodinné kartičky** nebo **Spolužáci** přidejte fotografie z telefonu. Kategorie jsou určené pro procvičování jmen blízkých lidí — fotografie se synchronizují přes iCloud na ostatní vaše zařízení.
 
 ## Jak skryji kategorii nebo kartičku?
-V **Rodičovském nastavení** (chráněná sekce, vyžaduje Face ID / Touch ID) lze zapínat a vypínat celé kategorie nebo skrýt jednotlivé kartičky.
+V **Rodičovském nastavení** (chráněná sekce) lze v sekci **Balíčky** zapínat a vypínat celé kategorie. Jednotlivé kartičky skryjete v přehledu karet dané kategorie — ikona oka vedle každé kartičky.
 
 ## Jak funguje komunikační úroveň?
 Při nastavení úrovně dítěte (neverbální → plné věty) aplikace automaticky skryje kartičky, které jsou pro danou úroveň příliš obtížné, a přizpůsobí doporučené aktivity.
 
 ## Jaká data aplikace ukládá?
-Datum narození dítěte (pro věkové přizpůsobení), komunikační úroveň, hlavní cíl, pokrok v procvičování a nastavení aplikace jsou uloženy lokálně nebo synchronizovány přes váš soukromý iCloud účet. PAN | DA neprovozuje vlastní server pro uživatelská data. Podrobnosti viz Zásady ochrany soukromí.
+Datum narození dítěte, komunikační úroveň, hlavní cíl, pokrok v procvičování a nastavení jsou uloženy lokálně nebo synchronizovány přes váš soukromý iCloud účet — bez přístupu PAN | DA. Anonymní statistiky používání (otevřené kategorie, délka sezení, jazyk) jsou odesílány na server PAN | DA výhradně pro zlepšování aplikace; neobsahují žádné osobní údaje. Podrobnosti viz Zásady ochrany soukromí.
 
 ## Funguje aplikace bez internetu?
 Ano. Všechny kartičky, zvuky a hlasový výstup fungují offline. Připojení je potřeba pouze pro synchronizaci přes iCloud a pro App Store.

@@ -1,5 +1,17 @@
 # FAQ
 
+## Para qual idade é o PAN | DA?
+Principalmente para crianças de 2 a 6 anos. O conteúdo se adapta ao nível de comunicação escolhido — de crianças não verbais às que já formam frases curtas.
+
+## Precisamos usar o app juntos?
+PAN | DA foi pensado principalmente para a prática conjunta com um pai ou terapeuta. Atividades simples como Repita também podem ser exploradas pela criança no próprio ritmo.
+
+## PAN | DA é só para pronúncia?
+Não. O foco principal é em primeiras palavras, vocabulário, compreensão, frases do cotidiano e trabalhar o mesmo conteúdo de formas diferentes. A prática de sons da fala (Pronúncia) é uma parte separada.
+
+## Substitui o fonoaudiólogo?
+Não. PAN | DA é uma ferramenta de prática em casa, não um instrumento diagnóstico ou terapêutico. Idealmente complementa o acompanhamento fonoaudiológico.
+
 ## O que é a PAN | DA?
 PAN | DA é um app para desenvolver o vocabulário e a comunicação de crianças com atraso de fala ou disfasia do desenvolvimento. Com cartões ilustrados, sons e atividades curtas, as crianças aprendem novas palavras de forma lúdica — em checo, inglês, alemão, espanhol, português e francês.
 
@@ -26,19 +38,19 @@ O Premium desbloqueia todos os modos de uma só vez. Inicie o teste gratuito pel
 Em Configurações, toque na bandeira ou no nome do idioma. Os textos e a pronúncia mudam na hora — pode trocar a qualquer momento.
 
 ## Quantas categorias e cartões há?
-Atualmente 729 cartões em 30 categorias: palavras básicas, comida, animais, veículos, natureza, emoções, lugares, profissões, boas maneiras, números, cores, formas e mais. Cada cartão inclui 5 frases em todos os seis idiomas.
+Atualmente mais de 950 cartões em 30+ categorias: palavras básicas, comida, animais, veículos, natureza, emoções, lugares, profissões, boas maneiras, números, cores, formas e mais. Cada cartão inclui 5 frases em todos os seis idiomas.
 
 ## Como adiciono cartões personalizados?
 Em Configurações, em **Cartões de família** ou **Colegas**, adicione fotos da câmera. Essas categorias servem para praticar os nomes de pessoas conhecidas — as fotos sincronizam de forma privada pelo iCloud.
 
 ## Como oculto uma categoria ou cartão?
-Nas **Configurações parentais** (protegidas por Face ID / Touch ID), você pode ativar ou desativar categorias inteiras ou ocultar cartões individuais.
+Nas **Configurações parentais** (seção protegida), você pode ativar ou desativar categorias inteiras na seção **Pacotes**, ou ocultar cartões individuais na lista de cartões de cada categoria.
 
 ## Como funciona o nível de comunicação?
 Ao configurar o nível da criança (não verbal → frases completas), o app oculta automaticamente os cartões muito avançados e adapta as atividades sugeridas.
 
 ## Quais dados o app armazena?
-Data de nascimento, nível de comunicação, objetivo principal, progresso de prática e configurações são armazenados localmente ou sincronizados pela sua conta privada do iCloud. PAN | DA não opera seu próprio servidor de dados de usuário. Consulte a Política de privacidade para detalhes.
+Data de nascimento, nível de comunicação, objetivo principal, progresso de prática e configurações são armazenados localmente ou sincronizados pela sua conta privada do iCloud — sem acesso da PAN | DA. Estatísticas anônimas de uso (categorias abertas, duração da sessão, idioma) são enviadas ao servidor PAN | DA exclusivamente para melhorar o app; não contêm dados pessoais. Consulte a Política de privacidade para detalhes.
 
 ## O app funciona offline?
 Sim. Todos os cartões, sons e síntese de voz funcionam sem internet. Uma conexão só é necessária para a sincronização do iCloud e o App Store.

@@ -1,5 +1,17 @@
 # Preguntas frecuentes
 
+## ¿Para qué edad es PAN | DA?
+Principalmente para niños de 2 a 6 años. El contenido se adapta al nivel de comunicación elegido — desde niños no verbales hasta los que ya forman frases cortas.
+
+## ¿Tenemos que usar la app juntos?
+PAN | DA está pensada principalmente para la práctica conjunta con un padre o terapeuta. Actividades sencillas como Repite también pueden ser exploradas por el niño a su propio ritmo.
+
+## ¿PAN | DA es solo para pronunciación?
+No. El foco principal está en las primeras palabras, el vocabulario, la comprensión, las frases cotidianas y trabajar el mismo contenido de distintas formas. La práctica de sonidos del habla (Pronunciación) es una parte separada.
+
+## ¿Reemplaza al logopeda?
+No. PAN | DA es una herramienta de práctica en casa, no un instrumento diagnóstico ni terapéutico. Idealmente complementa el seguimiento logopédico.
+
 ## ¿Qué es PAN | DA?
 PAN | DA es una app para desarrollar el vocabulario y la comunicación en niños con retraso del habla o disfasia del desarrollo. Con tarjetas ilustradas, sonidos y actividades cortas, los niños aprenden nuevas palabras de forma lúdica — en checo, inglés, alemán, español, portugués y francés.
 
@@ -26,19 +38,19 @@ Premium desbloquea todos los modos a la vez. Empieza la prueba gratuita desde el
 En Ajustes, toca la bandera o el nombre del idioma. Los textos y la pronunciación cambian al instante — puedes cambiar en cualquier momento.
 
 ## ¿Cuántas categorías y tarjetas hay?
-Actualmente 729 tarjetas en 30 categorías: palabras básicas, comida, animales, vehículos, naturaleza, emociones, lugares, profesiones, modales, números, colores, formas y más. Cada tarjeta incluye 5 frases en los seis idiomas.
+Actualmente más de 950 tarjetas en 30+ categorías: palabras básicas, comida, animales, vehículos, naturaleza, emociones, lugares, profesiones, modales, números, colores, formas y más. Cada tarjeta incluye 5 frases en los seis idiomas.
 
 ## ¿Cómo añado tarjetas personalizadas?
 En Ajustes, en **Tarjetas de familia** o **Compañeros**, añade fotos de tu cámara. Estas categorías sirven para practicar los nombres de personas conocidas — las fotos se sincronizan privadamente por iCloud.
 
 ## ¿Cómo oculto una categoría o tarjeta?
-En los **Ajustes parentales** (protegidos por Face ID / Touch ID) puedes activar o desactivar categorías enteras, u ocultar tarjetas individuales.
+En los **Ajustes parentales** (sección protegida) puedes activar o desactivar categorías enteras en la sección **Paquetes**, u ocultar tarjetas individuales en la lista de tarjetas de cada categoría.
 
 ## ¿Cómo funciona el nivel de comunicación?
 Al configurar el nivel del niño (no verbal → frases completas), la app oculta automáticamente las tarjetas demasiado avanzadas y adapta las actividades sugeridas.
 
 ## ¿Qué datos guarda la app?
-Fecha de nacimiento, nivel de comunicación, objetivo principal, progreso de práctica y ajustes se almacenan localmente o se sincronizan mediante tu cuenta privada de iCloud. PAN | DA no gestiona su propio servidor de datos de usuario. Consulta la Política de privacidad para más detalles.
+Fecha de nacimiento, nivel de comunicación, objetivo principal, progreso de práctica y ajustes se almacenan localmente o se sincronizan mediante tu cuenta privada de iCloud — sin acceso de PAN | DA. Estadísticas anónimas de uso (categorías abiertas, duración de sesión, idioma) se envían al servidor de PAN | DA exclusivamente para mejorar la app; no contienen datos personales. Consulta la Política de privacidad para más detalles.
 
 ## ¿Funciona la app sin internet?
 Sí. Todas las tarjetas, sonidos y síntesis de voz funcionan sin conexión. Solo se necesita conexión para la sincronización de iCloud y el App Store.

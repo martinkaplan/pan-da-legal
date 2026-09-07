@@ -1,5 +1,17 @@
 # FAQ
 
+## Für welches Alter ist PAN | DA?
+Hauptsächlich für Kinder von 2 bis 6 Jahren. Der Inhalt passt sich dem gewählten Kommunikationsniveau an — von nicht-verbalen Kindern bis zu denen, die bereits kurze Sätze bilden.
+
+## Müssen wir die App gemeinsam nutzen?
+PAN | DA ist hauptsächlich für das gemeinsame Üben mit einem Elternteil oder Therapeuten konzipiert. Einfache Aktivitäten wie Wiederholen kann das Kind auch im eigenen Tempo erkunden.
+
+## Ist PAN | DA nur für die Aussprache?
+Nein. Der Schwerpunkt liegt auf ersten Wörtern, Wortschatz, Sprachverständnis, Alltagsphrasen und dem Üben desselben Inhalts auf verschiedene Arten. Das Aussprachetraining ist ein eigener, separater Bereich.
+
+## Ersetzt es einen Logopäden?
+Nein. PAN | DA ist ein Hilfsmittel für das häusliche Üben, kein diagnostisches oder therapeutisches Instrument. Idealerweise ergänzt es die logopädische Begleitung.
+
 ## Was ist PAN | DA?
 PAN | DA ist eine App zum Aufbau von Wortschatz und Kommunikation bei Kindern mit Sprachentwicklungsverzögerung oder Sprachentwicklungsstörung. Mit Bildkarten, Sounds und kurzen Aktivitäten lernen Kinder spielerisch neue Wörter — auf Tschechisch, Englisch, Deutsch, Spanisch, Portugiesisch und Französisch.
 
@@ -26,19 +38,19 @@ Premium schaltet alle Modi auf einmal frei. Starte eine kostenlose Testversion �
 In den Einstellungen auf die Flagge oder den Sprachnamen tippen. Texte und Aussprache ändern sich sofort — jederzeit umschaltbar.
 
 ## Wie viele Kategorien und Karten gibt es?
-Aktuell 729 Karten in 30 Kategorien: Grundwörter, Essen, Tiere, Fahrzeuge, Natur, Gefühle, Orte, Berufe, Manieren, Zahlen, Farben, Formen und mehr. Jede Karte enthält 5 Sätze in allen sechs Sprachen.
+Aktuell über 950 Karten in 30+ Kategorien: Grundwörter, Essen, Tiere, Fahrzeuge, Natur, Gefühle, Orte, Berufe, Manieren, Zahlen, Farben, Formen und mehr. Jede Karte enthält 5 Sätze in allen sechs Sprachen.
 
 ## Wie füge ich eigene Karten hinzu?
 In den Einstellungen unter **Familienkarten** oder **Mitschüler** Fotos aus der Bildergalerie hinzufügen. Diese Kategorien sind für das Üben von Namen vertrauter Personen gedacht — Fotos synchronisieren sich privat über iCloud.
 
 ## Wie verberge ich eine Kategorie oder Karte?
-In den **Elterneinstellungen** (durch Face ID / Touch ID geschützt) können ganze Kategorien aktiviert oder deaktiviert sowie einzelne Karten ausgeblendet werden.
+In den **Elterneinstellungen** (geschützter Bereich) können ganze Kategorien unter **Pakete** aktiviert oder deaktiviert werden. Einzelne Karten lassen sich in der Kartenliste der jeweiligen Kategorie ausblenden.
 
 ## Wie funktioniert die Kommunikationsstufe?
 Wenn du die Stufe des Kindes einstellst (nonverbal → vollständige Sätze), blendet die App automatisch zu schwierige Karten aus und passt die vorgeschlagenen Aktivitäten an.
 
 ## Welche Daten speichert die App?
-Geburtsdatum, Kommunikationsstufe, Hauptziel, Übungsfortschritt und Einstellungen werden lokal oder über deinen privaten iCloud-Account gespeichert. PAN | DA betreibt keinen eigenen Benutzerdaten-Server. Details in der Datenschutzerklärung.
+Geburtsdatum, Kommunikationsstufe, Hauptziel, Übungsfortschritt und Einstellungen werden lokal oder über deinen privaten iCloud-Account gespeichert — ohne Zugriff durch PAN | DA. Anonyme Nutzungsstatistiken (geöffnete Kategorien, Sitzungsdauer, Sprache) werden ausschließlich zur Verbesserung der App an den PAN | DA-Server übermittelt; sie enthalten keine personenbezogenen Daten. Details in der Datenschutzerklärung.
 
 ## Funktioniert die App offline?
 Ja. Alle Karten, Sounds und die Sprachausgabe funktionieren ohne Internetverbindung. Eine Verbindung wird nur für die iCloud-Synchronisation und den App Store benötigt.

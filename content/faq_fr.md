@@ -1,5 +1,17 @@
 # FAQ
 
+## Pour quel âge est PAN | DA ?
+Principalement pour les enfants de 2 à 6 ans. Le contenu s'adapte au niveau de communication choisi — des enfants non verbaux à ceux qui forment déjà de courtes phrases.
+
+## Devons-nous utiliser l'application ensemble ?
+PAN | DA est conçue principalement pour la pratique conjointe avec un parent ou un thérapeute. Les activités simples comme Répète peuvent aussi être explorées par l'enfant à son propre rythme.
+
+## PAN | DA est-elle uniquement pour la prononciation ?
+Non. Le focus principal porte sur les premiers mots, le vocabulaire, la compréhension, les phrases du quotidien et le travail du même contenu de différentes façons. L'entraînement à la prononciation des sons (Prononciation) est une partie distincte.
+
+## Remplace-t-elle l'orthophoniste ?
+Non. PAN | DA est un outil de pratique à la maison, pas un instrument diagnostique ou thérapeutique. Elle complète idéalement le suivi orthophonique.
+
 ## Qu'est-ce que PAN | DA ?
 PAN | DA est une application pour développer le vocabulaire et la communication des enfants ayant un retard de parole ou une dysphasie du développement. Grâce à des cartes illustrées, des sons et de courtes activités, les enfants apprennent de nouveaux mots de façon ludique — en tchèque, anglais, allemand, espagnol, portugais et français.
 
@@ -26,19 +38,19 @@ Le Premium débloque tous les modes en une seule fois. Démarrez un essai gratui
 Dans Paramètres, touchez le drapeau ou le nom de la langue. Les textes et la prononciation changent instantanément — vous pouvez changer à tout moment.
 
 ## Combien de catégories et de cartes y a-t-il ?
-Actuellement 729 cartes dans 30 catégories : mots de base, nourriture, animaux, véhicules, nature, émotions, lieux, professions, politesse, chiffres, couleurs, formes et bien plus. Chaque carte comprend 5 phrases dans les six langues.
+Actuellement plus de 950 cartes dans 30+ catégories : mots de base, nourriture, animaux, véhicules, nature, émotions, lieux, professions, politesse, chiffres, couleurs, formes et bien plus. Chaque carte comprend 5 phrases dans les six langues.
 
 ## Comment ajouter des cartes personnalisées ?
 Dans Paramètres, sous **Cartes famille** ou **Camarades**, ajoutez des photos de votre appareil. Ces catégories servent à pratiquer les prénoms des proches — les photos se synchronisent en privé via iCloud.
 
 ## Comment masquer une catégorie ou une carte ?
-Dans les **Paramètres parentaux** (protégés par Face ID / Touch ID), vous pouvez activer ou désactiver des catégories entières, ou masquer des cartes individuelles.
+Dans les **Paramètres parentaux** (section protégée), vous pouvez activer ou désactiver des catégories entières dans la section **Paquets**, ou masquer des cartes individuelles dans la liste des cartes de chaque catégorie.
 
 ## Comment fonctionne le niveau de communication ?
 En définissant le niveau de l'enfant (non verbal → phrases complètes), l'application masque automatiquement les cartes trop avancées et adapte les activités suggérées.
 
 ## Quelles données l'application stocke-t-elle ?
-La date de naissance, le niveau de communication, l'objectif principal, la progression et les paramètres sont stockés localement ou synchronisés via votre compte iCloud privé. PAN | DA ne gère pas son propre serveur de données utilisateur. Consultez la Politique de confidentialité pour les détails.
+La date de naissance, le niveau de communication, l'objectif principal, la progression et les paramètres sont stockés localement ou synchronisés via votre compte iCloud privé — sans accès de PAN | DA. Des statistiques d'utilisation anonymes (catégories ouvertes, durée de session, langue) sont envoyées au serveur PAN | DA uniquement pour améliorer l'application ; elles ne contiennent aucune donnée personnelle. Consultez la Politique de confidentialité pour les détails.
 
 ## L'application fonctionne-t-elle hors ligne ?
 Oui. Toutes les cartes, les sons et la synthèse vocale fonctionnent sans internet. Une connexion n'est nécessaire que pour la synchronisation iCloud et l'App Store.
