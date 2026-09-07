@@ -470,7 +470,7 @@ body.landing {
 .pricing-list { list-style: none; padding: 0; margin-bottom: 28px; }
 .pricing-list li { font-size: 15px; padding: 6px 0; border-bottom: 1px solid #f0f1ef; color: #333; }
 .pricing-list li:last-child { border-bottom: none; }
-#price-premium-cta {
+.pricing-card .btn-primary {
   align-self: center;
   justify-content: center;
   margin-inline: auto;
