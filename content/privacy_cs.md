@@ -1,56 +1,30 @@
 # Zásady ochrany soukromí
-Poslední aktualizace: červenec 2026
+Poslední aktualizace: 8. září 2026
 
-> PAN | DA neprodává osobní údaje a je navržena tak, aby fungovala bez uživatelského účtu.
+> PAN | DA neprodává osobní údaje. Aplikaci můžete používat bez registrace a bez vytváření uživatelského účtu.
 
-## Jaké údaje aplikace shromažďuje
-
-PAN | DA nevyžaduje registraci, e-mail ani kontaktní údaje. Aplikace lokálně nebo přes iCloud ukládá:
-
-- **Datum narození dítěte** — pro přizpůsobení obsahu věku dítěte
-- **Komunikační úroveň a hlavní cíl** — nastaveno při onboardingu, slouží k filtrování obsahu
-- **Pokrok v procvičování** — které kategorie a módy dítě hrálo, počty správných odpovědí a frekvence procvičování
-- **Skryté kategorie a kartičky** — vaše preference pro zobrazování obsahu
-- **Jazyk aplikace a nastavení** — včetně výběru hlasu pro syntézu řeči
-- **Vlastní fotografie (Rodinné kartičky, Spolužáci)** — přidané dobrovolně, uložené v soukromém úložišti aplikace
-
-PAN | DA vědomě neshromažďuje osobní identifikátory dítěte (jméno, e-mail, polohu).
+## Data uložená v aplikaci
+Aplikace ukládá datum narození dítěte, komunikační úroveň, hlavní cíl, přehled procvičování a nastavení. Patří sem také jazyk a hlas, oblíbené a skryté karty a vlastní kartičky s fotografiemi rodiny či spolužáků. Tyto údaje slouží k přizpůsobení obsahu a k pokračování v procvičování.
 
 ## Synchronizace přes iCloud
+Data aplikace se ukládají na vašem zařízení a při zapnuté synchronizaci také ve vašem soukromém iCloudu. Vlastní kartičky a fotografie se mohou synchronizovat mezi vašimi zařízeními prostřednictvím služeb Apple. Nejsou součástí statistik používání odesílaných na náš analytický server.
 
-Pokud je pro aplikaci zapnutý iCloud, výše uvedená data (s výjimkou fotografií v některých konfiguracích) se mohou synchronizovat mezi vašimi Apple zařízeními prostřednictvím infrastruktury Apple iCloud. PAN | DA pro tato data neprovozuje vlastní server.
+## Anonymizované statistiky používání
+Aktuální verze odesílá anonymizované údaje o interakcích v aplikaci na vlastní server PAN | DA. Jde o informace o tom, na co uživatel v aplikaci klepl a které části aplikace používal. Pomáhají nám porozumět používání aplikace a zlepšovat ji.
+K těmto statistikám nepřipojujeme fotografie, jméno ani datum narození dítěte. PAN | DA nepoužívá Firebase Analytics ani Firebase Crashlytics.
 
-Vlastní fotografie rodinných kartiček se synchronizují přes iCloud Documents a jsou přístupné pouze vám prostřednictvím vašeho Apple ID.
-
-## Diagnostika a výkon
-
-Pády aplikace a technické problémy jsou hlášeny prostřednictvím standardních nástrojů Apple (Apple CrashKit / TestFlight Diagnostics). Tato data jsou anonymizovaná a neslouží k identifikaci konkrétních uživatelů. Pokud jste v nastavení zařízení zapnuli sdílení analytiky s vývojáři, PAN | DA tato anonymizovaná data obdrží.
+## Mikrofon a výslovnost
+Aplikace nepoužívá mikrofon, nenahrává hlas dítěte a nehodnotí jeho výslovnost. Přehrávání slov a vět slouží k poslechu a společnému procvičování.
 
 ## Soukromí dětí
+PAN | DA je určena pro děti s podporou rodiče nebo jiné pečující osoby. Nastavení dítěte a vlastní fotografie jsou součástí soukromých dat aplikace, nikoli analytických událostí.
 
-PAN | DA je určena k používání společně s rodiči, pečovateli, učiteli nebo logopedy. Vědomě neshromažďujeme osobní údaje dětí ve smyslu zákonů na ochranu dětí.
-
-## Nákupy a předplatné
-
-Nákupy v aplikaci (měsíční nebo roční Premium předplatné) zpracovává Apple prostřednictvím App Storu. PAN | DA nevidí ani neukládá údaje o vaší platební kartě ani fakturační informace.
-
-## Služby třetích stran
-
-PAN | DA používá tyto služby Apple:
-- **Apple App Store / StoreKit** — zpracování předplatného a nákupů
-- **Apple iCloud** — synchronizace dat mezi zařízeními
-- **Apple CrashKit / Diagnostics** — anonymní hlášení pádů aplikace
-
-Žádné jiné analytické nástroje třetích stran (Google Analytics, Firebase, Mixpanel ani podobné) nejsou v aplikaci zahrnuty.
+## Nákupy a služby
+Nákupy a předplatné zpracovává Apple prostřednictvím App Storu a StoreKitu. PAN | DA neukládá údaje o vaší platební kartě. Pro synchronizaci používá Apple iCloud a pro anonymizované statistiky vlastní server.
 
 ## Smazání dat
+Místní data aplikace odstraníte smazáním aplikace ze zařízení. Synchronizovaná data může být potřeba odstranit také ve správě úložiště iCloud. Smazání aplikace samo o sobě neruší předplatné; to spravujete v nastavení předplatných Apple.
 
-Lokálně uložená data smažete odstraněním aplikace ze zařízení. Data synchronizovaná přes iCloud odstraníte v **Nastavení → [vaše jméno] → iCloud → Správa úložiště → PAN | DA**. Vlastní fotografie jsou uloženy v iCloud Documents a lze je smazat tamtéž.
-
-## Změny těchto zásad
-
-Tyto zásady můžeme aktualizovat podle změn v aplikaci. O podstatných změnách vás budeme informovat prostřednictvím aktualizace aplikace nebo oznámení v App Storu. Nejnovější verze je vždy dostupná na této stránce.
-
-## Kontakt
-
-Pokud máte otázky k ochraně soukromí, napište nám na: contact.panda.app@gmail.com
+## Změny a kontakt
+Tyto zásady aktualizujeme podle změn v aplikaci. Aktuální znění najdete na této stránce.
+Dotazy k soukromí: contact.panda.app@gmail.com
