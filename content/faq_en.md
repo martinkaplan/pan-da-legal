@@ -4,7 +4,7 @@
 Primarily children aged 2 to 5. Content adapts to the chosen communication level — from non-verbal children to those already forming short sentences.
 
 ## Do we need to use the app together?
-PAN | DA is designed mainly for joint practice with a parent or therapist. Simple activities like Repeat can also be explored by the child at their own pace.
+PAN | DA is designed mainly for practising together with a parent or therapist. Simple activities like Repeat can also be explored by the child at their own pace.
 
 ## Is PAN | DA only for pronunciation?
 No. It focuses primarily on first words, vocabulary, comprehension, everyday phrases, and practising the same content in different ways. Speech sound practice (Pronunciation) is a separate feature.
@@ -19,16 +19,16 @@ PAN | DA is an app for building vocabulary and communication in children with sp
 PAN | DA is for children learning to communicate — whether for first words, extra speech support between therapy sessions, or multilingual families. There is no strict age limit; the communication level setting matters more than age.
 
 ## How does Daily Practice work?
-Every day PAN | DA picks a small set of words to practise. It remembers what your child has already seen and gradually brings words back for review. A few minutes a day is enough — no need to decide what to work on.
+Every day PAN | DA picks a small set of words to practise. It remembers what your child has already seen and gradually brings words back for review. This helps you choose what to focus on during a short practice session.
 
 ## How do the training modes work?
 PAN | DA offers 7 activities:
 - **Repeat** — swipe through flashcards; every word is spoken aloud; tap syllables to practise pronunciation step by step (free)
 - **Find** — the app says a word; your child taps the right image from 4 options; builds receptive vocabulary (Premium)
 - **Guess the Sound** — identify animals and objects by their real sound, without hearing the name (Premium)
-- **Phrases** — every card has 5 sentences, from simple needs to conversational phrases (Premium)
-- **Matching Pairs** — classic matching game; a word plays aloud on every successful pair (Premium)
-- **Find in a Sentence** — hear a short sentence and find the matching picture; trains recognising familiar words in connected speech (Premium)
+- **Phrases** — short sentences show how to use familiar words in everyday situations (Premium)
+- **Matching Pairs** — classic matching game; the word is spoken when a matching pair is found (Premium)
+- **Find in a Sentence** — hear a short sentence and find the matching picture; practise recognising a familiar word within a sentence (Premium)
 - **Odd One Out** — which picture doesn't belong? Builds categorisation and logical thinking (Premium)
 
 ## How do I unlock Premium modes?
@@ -53,7 +53,7 @@ When you set your child's level (non-verbal → full sentences), the app automat
 Child settings, practice history and custom cards are stored on your device or synced through private iCloud storage. The current version also sends anonymised information about taps and app usage to PAN | DA's own server to improve the app. Photos, the child's name and date of birth are not included in these statistics. See the Privacy Policy for details.
 
 ## Does the app work offline?
-Yes. All cards, sounds and text-to-speech work without internet. A connection is only needed for iCloud sync and the App Store.
+Yes. You can use the cards, sounds and spoken words without an internet connection. A connection is used for iCloud sync, purchases and sending anonymised usage statistics.
 
 ## Do you have tips for parents?
-Practise regularly but briefly — 5 to 10 minutes a day is plenty. Praise every attempt. Alternate between modes to keep things varied. Name pictures together and naturally use new words in everyday conversation.
+Try short, regular sessions and adjust their length to your child's interest and energy. Praise every attempt. Alternate between modes to keep things varied. Name pictures together and naturally use new words in everyday conversation.
