@@ -5,10 +5,10 @@
 Ao descarregar ou usar a PAN | DA, aceita estes termos e condições. Se não concordar, não utilize a app.
 
 ## Sobre a app
-A PAN | DA é uma app de treino da fala e vocabulário através de aprendizagem lúdica. Não é um dispositivo médico e não substitui diagnóstico, terapia ou aconselhamento de um profissional qualificado.
+A PAN | DA é uma app de treino da fala e vocabulário através de aprendizagem lúdica. Não é um dispositivo médico e não substitui diagnóstico, terapia ou aconselhamento de um profissional qualificado na área da fala e da linguagem.
 
 ## Utilização por crianças
-As crianças devem usar a app com um pai, cuidador, professor ou profissional qualificado. O adulto é responsável por escolher conteúdo adequado e supervisionar a utilização.
+Recomenda-se que as crianças utilizem a aplicação com um dos pais, uma pessoa responsável pelos seus cuidados, um professor ou um profissional qualificado. O adulto é responsável por escolher conteúdo adequado e supervisionar a utilização.
 
 ## Compras e subscrições
 Se a app oferecer funcionalidades pagas ou subscrições, os pagamentos são processados pela Apple através da App Store. Gestão, cancelamento, reembolsos e faturação seguem os termos da App Store e as definições do seu Apple ID.
