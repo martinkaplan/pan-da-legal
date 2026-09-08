@@ -2,10 +2,10 @@
 Última atualização: maio de 2026
 
 ## Aceitação destes termos
-Ao descarregar ou usar a PAN | DA, aceita estes termos e condições. Se não concordar, não utilize a app.
+Ao descarregar ou utilizar a aplicação PAN | DA, aceita estes termos e condições. Se não concordar, não utilize a app.
 
 ## Sobre a app
-A PAN | DA é uma app de treino da fala e vocabulário através de aprendizagem lúdica. Não é um dispositivo médico e não substitui diagnóstico, terapia ou aconselhamento de um profissional qualificado na área da fala e da linguagem.
+O PAN | DA é uma aplicação para praticar a fala e o vocabulário através do jogo. Não é um dispositivo médico e não substitui diagnóstico, terapia ou aconselhamento de um profissional qualificado na área da fala e da linguagem.
 
 ## Utilização por crianças
 Recomenda-se que as crianças utilizem a aplicação com um dos pais, uma pessoa responsável pelos seus cuidados, um professor ou um profissional qualificado. O adulto é responsável por escolher conteúdo adequado e supervisionar a utilização.
@@ -14,10 +14,10 @@ Recomenda-se que as crianças utilizem a aplicação com um dos pais, uma pessoa
 Se a app oferecer funcionalidades pagas ou subscrições, os pagamentos são processados pela Apple através da App Store. Gestão, cancelamento, reembolsos e faturação seguem os termos da App Store e as definições do seu Apple ID.
 
 ## Conteúdo do utilizador
-Se adicionar fotografias ou cartões personalizados, é responsável por ter o direito de usar esse conteúdo. Não adicione conteúdo ilegal, prejudicial ou que viole direitos de terceiros.
+Se adicionar fotografias ou cartões personalizados, deve garantir que tem o direito de utilizar esse conteúdo. Não adicione conteúdo ilegal, prejudicial ou que viole direitos de terceiros.
 
 ## Sem garantia de resultados
-Procuramos tornar a PAN | DA útil e fiável, mas não garantimos resultados específicos de fala, educativos, terapêuticos ou de desenvolvimento.
+Procuramos tornar o PAN | DA útil e fiável, mas não garantimos resultados específicos de fala, educativos, terapêuticos ou de desenvolvimento.
 
 ## Disponibilidade e alterações
 Podemos atualizar, alterar, suspender ou descontinuar partes da app. Algumas funcionalidades podem depender das definições do dispositivo, versão do sistema operativo ou serviços Apple como iCloud.
@@ -26,7 +26,7 @@ Podemos atualizar, alterar, suspender ou descontinuar partes da app. Algumas fun
 O nome, design, textos, imagens e software da app estão protegidos por leis de propriedade intelectual. Não pode copiar, modificar, distribuir ou fazer engenharia inversa da app, exceto quando permitido por lei.
 
 ## Limitação de responsabilidade
-Na máxima medida permitida por lei, a PAN | DA é fornecida “tal como está”, sem garantias. Não somos responsáveis por danos indiretos, incidentais ou consequenciais decorrentes da utilização da app.
+Na máxima medida permitida por lei, a aplicação PAN | DA é fornecida “tal como está”, sem garantias. Não somos responsáveis por danos indiretos, incidentais ou consequenciais decorrentes da utilização da app.
 
 ## Alterações a estes termos
 Podemos atualizar estes termos ocasionalmente. A continuação da utilização da app após uma atualização significa que aceita os termos atualizados.
