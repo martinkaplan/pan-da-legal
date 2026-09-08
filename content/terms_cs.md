@@ -20,7 +20,7 @@ Pokud přidáte vlastní fotografie nebo kartičky, odpovídáte za to, že mát
 Snažíme se, aby PAN | DA byla užitečná a spolehlivá, ale nezaručujeme konkrétní řečové, vzdělávací, terapeutické ani vývojové výsledky.
 
 ## Dostupnost a změny aplikace
-Aplikaci můžeme aktualizovat, měnit, pozastavit nebo ukončit některé její části. Některé funkce mohou záviset na nastavení zařízení, verzi operačního systému nebo službách Apple, například iCloudu.
+Aplikaci můžeme aktualizovat a měnit nebo pozastavit či ukončit provoz některých jejích částí. Některé funkce mohou záviset na nastavení zařízení, verzi operačního systému nebo službách Apple, například iCloudu.
 
 ## Duševní vlastnictví
 Název aplikace, design, texty, obrázky a software jsou chráněny právními předpisy o duševním vlastnictví. Aplikaci nesmíte kopírovat, upravovat, šířit ani zpětně analyzovat, pokud to neumožňuje zákon.
