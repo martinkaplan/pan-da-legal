@@ -5,16 +5,16 @@ Dernière mise à jour : mai 2026
 En téléchargeant ou en utilisant PAN | DA, vous acceptez ces conditions. Si vous n’êtes pas d’accord, veuillez ne pas utiliser l’application.
 
 ## À propos de l’application
-PAN | DA est une application d’entraînement à la parole et au vocabulaire par le jeu. Elle n’est pas un dispositif médical et ne remplace pas un diagnostic, une thérapie ou un conseil professionnel.
+PAN | DA est une application d’entraînement à la parole et au vocabulaire par le jeu. Elle n’est pas un dispositif médical et ne remplace pas un diagnostic, une thérapie ou les conseils d’un professionnel qualifié de la parole et du langage.
 
 ## Utilisation par les enfants
-Les enfants doivent utiliser l’application avec un parent, un aidant, un enseignant ou un professionnel qualifié. L’adulte est responsable du choix du contenu approprié et de la supervision.
+Il est recommandé que les enfants utilisent l’application avec un parent, un aidant, un enseignant ou un professionnel qualifié. L’adulte est responsable du choix du contenu approprié et de la supervision.
 
 ## Achats et abonnements
 Si l’application propose des fonctionnalités payantes ou des abonnements, les paiements sont traités par Apple via l’App Store. La gestion, l’annulation, les remboursements et la facturation suivent les conditions de l’App Store et les réglages de votre identifiant Apple.
 
 ## Contenu utilisateur
-Si vous ajoutez des photos ou cartes personnalisées, vous êtes responsable du droit d’utiliser ce contenu. N’ajoutez pas de contenu illégal, nuisible ou portant atteinte aux droits d’autrui.
+Si vous ajoutez des photos ou cartes personnalisées, vous devez vous assurer de disposer du droit d’utiliser ce contenu. N’ajoutez pas de contenu illégal, nuisible ou portant atteinte aux droits d’autrui.
 
 ## Aucune garantie de résultat
 Nous nous efforçons de rendre PAN | DA utile et fiable, mais nous ne garantissons aucun résultat particulier sur le plan du langage, de l’éducation, de la thérapie ou du développement.
