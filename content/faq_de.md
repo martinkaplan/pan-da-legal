@@ -7,7 +7,7 @@ Hauptsächlich für Kinder von 2 bis 5 Jahren. Der Inhalt passt sich dem gewähl
 PAN | DA ist hauptsächlich für das gemeinsame Üben mit einem Elternteil oder Therapeuten konzipiert. Einfache Aktivitäten wie Wiederholen kann das Kind auch im eigenen Tempo erkunden.
 
 ## Ist PAN | DA nur für die Aussprache?
-Nein. Der Schwerpunkt liegt auf ersten Wörtern, Wortschatz, Sprachverständnis, Alltagsphrasen und dem Üben desselben Inhalts auf verschiedene Arten. Das Aussprachetraining ist ein eigener, separater Bereich.
+Nein. Der Schwerpunkt liegt auf ersten Wörtern, Wortschatz, Sprachverständnis, Alltagssätzen und dem Üben desselben Inhalts auf verschiedene Arten. Das Aussprachetraining ist ein eigener, separater Bereich.
 
 ## Ersetzt es einen Logopäden?
 Nein. PAN | DA ist ein Hilfsmittel für das häusliche Üben, kein diagnostisches oder therapeutisches Instrument. Idealerweise ergänzt es die logopädische Begleitung.
@@ -19,14 +19,14 @@ PAN | DA ist eine App zum Aufbau von Wortschatz und Kommunikation bei Kindern mi
 PAN | DA richtet sich an Kinder, die lernen zu kommunizieren — für erste Wörter, zusätzliche Sprachunterstützung zwischen Therapiestunden oder mehrsprachige Familien. Es gibt keine strenge Altersgrenze; die Kommunikationsstufe zählt mehr als das Alter.
 
 ## Wie funktioniert die tägliche Übung?
-Jeden Tag wählt PAN | DA eine kleine Reihe von Wörtern zum Üben. Die App merkt sich, was das Kind bereits gesehen hat, und bringt Wörter schrittweise zur Wiederholung zurück. Ein paar Minuten täglich reichen.
+Jeden Tag wählt PAN | DA eine kleine Auswahl an Wörtern zum Üben. Die App merkt sich, was das Kind bereits gesehen hat, und schlägt bekannte Wörter regelmäßig zum Wiederholen vor. Ein paar Minuten täglich reichen.
 
 ## Wie funktionieren die Trainingsmodi?
 PAN | DA bietet 7 Aktivitäten:
 - **Wiederholen** — durch Bildkarten wischen; jedes Wort wird laut vorgelesen; Silben antippen für schrittweises Aussprachetraining (kostenlos)
-- **Finden** — die App sagt ein Wort; das Kind tippt das richtige Bild aus 4 Optionen (Premium)
+- **Finden** — die App sagt ein Wort; das Kind tippt unter vier Bildern das passende an (Premium)
 - **Geräusch erkennen** — Tiere und Gegenstände am echten Klang erkennen, ohne den Namen zu hören (Premium)
-- **Sätze** — jede Karte hat 5 Sätze, von einfachen Bedürfnissen bis zu Konversationsphrasen (Premium)
+- **Sätze** — kurze Sätze zeigen, wie bekannte Wörter im Alltag verwendet werden (Premium)
 - **Paare finden** — Gedächtnisspiel: passende Kartenpaare finden; bei jedem Paar wird das Wort laut gesprochen (Premium)
 - **Im Satz finden** — einen kurzen Satz hören und das passende Bild finden; trainiert Worterkennung in zusammenhängender Sprache (Premium)
 - **Was passt nicht?** — welches Bild passt nicht? Fördert Kategorisierung und logisches Denken (Premium)
@@ -53,7 +53,7 @@ Wenn du die Stufe des Kindes einstellst (nonverbal → vollständige Sätze), bl
 Die Einstellungen des Kindes, der Übungsverlauf und eigene Karten werden auf deinem Gerät oder im privaten iCloud-Speicher gespeichert. Die aktuelle Version sendet außerdem anonymisierte Daten über angetippte Elemente und die App-Nutzung an einen eigenen Server von PAN | DA, um die App zu verbessern. Fotos, der Name und das Geburtsdatum des Kindes sind nicht Teil dieser Statistiken. Einzelheiten findest du in der Datenschutzerklärung.
 
 ## Funktioniert die App offline?
-Ja. Alle Karten, Sounds und die Sprachausgabe funktionieren ohne Internetverbindung. Eine Verbindung wird nur für die iCloud-Synchronisation und den App Store benötigt.
+Ja. Karten, Geräusche und Sprachausgabe lassen sich ohne Internetverbindung nutzen. Eine Verbindung wird für die iCloud-Synchronisierung, Käufe und die Übermittlung anonymisierter Nutzungsstatistiken verwendet.
 
 ## Hast du Tipps für Eltern?
-Regelmäßig, aber kurz üben — 5 bis 10 Minuten täglich reichen. Jeden Versuch loben. Modi abwechseln, um Abwechslung zu schaffen. Bilder gemeinsam benennen und neue Wörter natürlich in Alltagsgespräche einbauen.
+Übt regelmäßig und in kurzen Einheiten. Passe die Dauer an das Interesse und die Energie deines Kindes an. Jeden Versuch loben. Modi abwechseln, um Abwechslung zu schaffen. Bilder gemeinsam benennen und neue Wörter natürlich in Alltagsgespräche einbauen.
