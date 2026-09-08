@@ -1,27 +1,30 @@
 # Politique de confidentialité
-Dernière mise à jour : mai 2026
+Dernière mise à jour : 8 septembre 2026
 
-> PAN | DA ne vend pas de données personnelles et est conçue pour fonctionner sans compte utilisateur.
+> PAN | DA ne vend pas de données personnelles. Vous pouvez utiliser l’application sans inscription ni création de compte.
 
-## Données collectées par l’application
-PAN | DA ne nécessite pas de compte utilisateur et ne demande pas le nom de l’enfant, l’adresse e-mail, la localisation ni les coordonnées.
-
-## Données stockées sur votre appareil
-Les réglages de l’application, la langue, la progression quotidienne, les favoris, les cartes masquées et les photos personnalisées des cartes familiales sont stockés localement sur votre appareil. Les photos personnalisées restent dans l’espace privé de l’application et ne sont pas téléversées par PAN | DA.
+## Données enregistrées dans l’application
+L’application enregistre la date de naissance de l’enfant, son niveau de communication, l’objectif principal, l’historique des exercices et les réglages. Cela comprend aussi les préférences de langue et de voix, les cartes favorites et masquées ainsi que les cartes personnalisées avec des photos de proches ou de camarades. Ces données permettent d’adapter le contenu et de reprendre les exercices.
 
 ## Synchronisation iCloud
-Si iCloud est activé pour l’application, certaines données peuvent être synchronisées entre vos appareils Apple via l’infrastructure iCloud d’Apple. PAN | DA n’exploite pas son propre serveur pour ces données.
+Les données sont conservées sur votre appareil et, si la synchronisation est activée, dans votre espace iCloud privé. Les cartes personnalisées et les photos peuvent être synchronisées entre vos appareils via les services Apple. Elles ne font pas partie des statistiques d’utilisation envoyées à notre serveur d’analyse.
+
+## Statistiques d’utilisation anonymisées
+La version actuelle envoie des données anonymisées sur les interactions avec l’application à un serveur propre à PAN | DA. Elles indiquent les éléments sur lesquels l’utilisateur appuie et les parties de l’application qu’il utilise. Elles nous aident à comprendre l’utilisation de l’application et à l’améliorer.
+Nous ne joignons ni photos, ni nom, ni date de naissance de l’enfant à ces statistiques. PAN | DA n’utilise ni Firebase Analytics ni Firebase Crashlytics.
+
+## Microphone et prononciation
+L’application n’utilise pas le microphone, n’enregistre pas la voix de l’enfant et n’évalue pas sa prononciation. Les mots et les phrases sont lus à voix haute pour les écouter et s’exercer ensemble.
 
 ## Confidentialité des enfants
-PAN | DA est destinée à être utilisée par des parents, aidants, enseignants ou orthophonistes avec des enfants. Nous ne collectons pas sciemment d’informations personnelles auprès d’enfants.
+PAN | DA est destinée aux enfants accompagnés d’un parent ou d’une personne qui s’occupe d’eux. Les réglages de l’enfant et les photos personnalisées font partie des données privées de l’application, pas des événements d’analyse.
 
-## Achats et abonnements
-Les achats ou abonnements éventuels sont traités par Apple via l’App Store. PAN | DA ne reçoit ni ne stocke les informations de carte de paiement.
-
-## Services tiers
+## Achats et services
+Apple traite les achats et abonnements via l’App Store et StoreKit. PAN | DA ne conserve pas les données de votre carte de paiement. L’application utilise Apple iCloud pour la synchronisation et son propre serveur pour les statistiques anonymisées.
 
 ## Suppression des données
-Vous pouvez supprimer les données locales en supprimant l’application de votre appareil. Les données synchronisées via iCloud peuvent également devoir être supprimées dans vos réglages iCloud.
+Supprimez l’application de votre appareil pour effacer les données locales. Les données synchronisées peuvent aussi devoir être supprimées depuis la gestion du stockage iCloud. Supprimer l’application ne résilie pas l’abonnement ; celui-ci se gère dans les réglages des abonnements Apple.
 
-## Modifications de cette politique
-Nous pouvons mettre à jour cette politique lorsque l’application évolue. La version la plus récente sera publiée sur cette page.
+## Modifications et contact
+Nous actualisons cette politique lorsque l’application évolue. La version en vigueur est disponible sur cette page.
+Questions sur la confidentialité : contact.panda.app@gmail.com
