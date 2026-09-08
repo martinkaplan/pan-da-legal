@@ -19,14 +19,14 @@ PAN | DA je aplikace pro rozvoj slovní zásoby a komunikace u dětí s opoždě
 Pro děti, které se učí komunikovat — ať jde o první slůvka, větší podporu řeči mezi logopedickými sezeními, nebo dvojjazyčnost v rodině. Věkové rozmezí není striktně dané; záleží na komunikační úrovni dítěte.
 
 ## Jak funguje Denní procvičování?
-PAN | DA každý den vybere malou sadu slov k procvičení. Pamatuje si, co dítě vidělo, a postupně slova přináší zpět k opakování. Stačí pár minut denně — bez nutnosti vybírat, co procvičovat.
+PAN | DA každý den vybere malou sadu slov k procvičení. Pamatuje si, co dítě vidělo, a průběžně nabízí známá slova k zopakování. Aplikace vám tak pomůže vybrat, čemu se při krátkém procvičování věnovat.
 
-## Jak fungují tréninkové módy?
+## Jaké způsoby procvičování aplikace nabízí?
 PAN | DA nabízí 7 aktivit:
-- **Opakuj** — přejíždějte kartičkami, každé slovo se přehraje nahlas; klepnutím na slabiky procvičujete výslovnost krok po kroku (zdarma)
+- **Opakuj** — procházejte kartičky, každé slovo se přehraje nahlas; klepnutím na slabiky procvičujete výslovnost krok po kroku (zdarma)
 - **Najdi** — aplikace říká slovo, dítě hledá správný obrázek z nabídky 4 možností (Premium)
 - **Poznej zvuk** — dítě rozpoznává zvuky zvířat a předmětů, aniž uslyší název (Premium)
-- **Fráze** — každá kartička má 5 vět od jednoduchých potřeb po konverzační fráze (Premium)
+- **Fráze** — kartičky doplňují krátké věty, které ukazují použití slov v běžném životě (Premium)
 - **Pexeso** — klasická paměťová hra, po každém páru zazní slovo nahlas (Premium)
 - **Najdi podle věty** — dítě slyší krátkou větu a hledá odpovídající obrázek; trénuje rozpoznávání slov v řeči (Premium)
 - **Co sem nepatří?** — který obrázek se liší od ostatních; rozvíjí kategorizaci a logické myšlení (Premium)
@@ -53,7 +53,7 @@ Při nastavení úrovně dítěte (neverbální → plné věty) aplikace automa
 Nastavení dítěte, přehled procvičování a vlastní kartičky se ukládají v zařízení nebo synchronizují přes soukromý iCloud. Aktuální verze také odesílá anonymizované údaje o kliknutí a používání aplikace na vlastní server PAN | DA pro zlepšování aplikace. Fotografie, jméno ani datum narození dítěte nejsou součástí těchto statistik. Podrobnosti najdete v zásadách ochrany soukromí.
 
 ## Funguje aplikace bez internetu?
-Ano. Všechny kartičky, zvuky a hlasový výstup fungují offline. Připojení je potřeba pouze pro synchronizaci přes iCloud a pro App Store.
+Ano. Kartičky, zvuky a hlasové přehrávání můžete používat bez internetu. Připojení slouží také k synchronizaci iCloudu, nákupům a odesílání anonymizovaných statistik používání.
 
 ## Máte tipy pro rodiče?
-Procvičujte pravidelně, ale krátce — 5 až 10 minut denně stačí. Chvalte každý pokus. Střídejte různé módy, aby byla aktivita pestrá. Pojmenovávejte obrázky společně a přirozeně zapojujte nová slova do běžného rozhovoru.
+Zkuste krátké pravidelné procvičování a délku přizpůsobte zájmu a únavě dítěte. Chvalte každý pokus. Střídejte různé módy, aby byla aktivita pestrá. Pojmenovávejte obrázky společně a přirozeně zapojujte nová slova do běžného rozhovoru.
