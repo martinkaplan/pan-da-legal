@@ -23,7 +23,7 @@ Wir möchten PAN | DA hilfreich und zuverlässig machen, garantieren aber keine 
 Wir können Teile der App aktualisieren, ändern, aussetzen oder einstellen. Einige Funktionen können von Geräteeinstellungen, Betriebssystemversion oder Apple-Diensten wie iCloud abhängen.
 
 ## Geistiges Eigentum
-Name, Design, Texte, Bilder und Software der App sind urheber- und markenrechtlich geschützt. Sie dürfen die App nicht kopieren, verändern, verbreiten oder zurückentwickeln, außer soweit gesetzlich erlaubt.
+Name, Design, Texte, Bilder und Software der App sind durch Gesetze zum Schutz des geistigen Eigentums geschützt. Sie dürfen die App nicht kopieren, verändern, verbreiten oder zurückentwickeln, außer soweit gesetzlich erlaubt.
 
 ## Haftungsbeschränkung
 Soweit gesetzlich zulässig, wird PAN | DA „wie besehen“ ohne Gewährleistung bereitgestellt. Wir haften nicht für indirekte, zufällige oder Folgeschäden aus der Nutzung der App.
