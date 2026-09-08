@@ -1,7 +1,7 @@
 # FAQ
 
 ## What age is PAN | DA for?
-Primarily children aged 2 to 6. Content adapts to the chosen communication level — from non-verbal children to those already forming short sentences.
+Primarily children aged 2 to 5. Content adapts to the chosen communication level — from non-verbal children to those already forming short sentences.
 
 ## Do we need to use the app together?
 PAN | DA is designed mainly for joint practice with a parent or therapist. Simple activities like Repeat can also be explored by the child at their own pace.
@@ -25,10 +25,10 @@ Every day PAN | DA picks a small set of words to practise. It remembers what you
 PAN | DA offers 7 activities:
 - **Repeat** — swipe through flashcards; every word is spoken aloud; tap syllables to practise pronunciation step by step (free)
 - **Find** — the app says a word; your child taps the right image from 4 options; builds receptive vocabulary (Premium)
-- **Hear & Find** — identify animals and objects by their real sound, without hearing the name (Premium)
+- **Guess the Sound** — identify animals and objects by their real sound, without hearing the name (Premium)
 - **Phrases** — every card has 5 sentences, from simple needs to conversational phrases (Premium)
-- **Memory** — classic matching game; a word plays aloud on every successful pair (Premium)
-- **Find by Sentence** — hear a short sentence and find the matching picture; trains recognising familiar words in connected speech (Premium)
+- **Matching Pairs** — classic matching game; a word plays aloud on every successful pair (Premium)
+- **Find in a Sentence** — hear a short sentence and find the matching picture; trains recognising familiar words in connected speech (Premium)
 - **Odd One Out** — which picture doesn't belong? Builds categorisation and logical thinking (Premium)
 
 ## How do I unlock Premium modes?
@@ -38,7 +38,7 @@ Premium unlocks all modes at once. Start a free trial from the App Store.
 In Settings, tap the flag or language name. App text and pronunciation change instantly — you can switch at any time, even mid-session.
 
 ## How many categories and cards are there?
-Currently over 950 cards across 30+ categories: core words, food, animals, vehicles, nature, emotions, places, professions, manners, numbers, colours, shapes and more. Every card includes 5 phrases in all six languages.
+Currently over 960 cards across 30+ categories: core words, food, animals, vehicles, nature, emotions, places, professions, manners, numbers, colours, shapes and more. Every card includes 5 phrases in all six languages.
 
 ## How do I add custom cards?
 In Settings under **Family Cards** or **Classmates**, add photos from your camera roll. These categories are for practising the names of familiar people — photos sync privately via iCloud to your other devices.
@@ -50,7 +50,7 @@ In **Parental Settings** (protected section), use the **Packages** section to en
 When you set your child's level (non-verbal → full sentences), the app automatically hides cards that are too advanced and adapts suggested activities to their current stage.
 
 ## What data does the app store?
-Child birthdate, communication level, primary goal, practice progress and settings are stored locally or synced through your private iCloud account — PAN | DA has no access to this data. Anonymous usage statistics (categories opened, session length, language) are sent to the PAN | DA server solely to improve the app; they contain no personal information. See the Privacy Policy for details.
+Child settings, practice history and custom cards are stored on your device or synced through private iCloud storage. The current version also sends anonymised information about taps and app usage to PAN | DA's own server to improve the app. Photos, the child's name and date of birth are not included in these statistics. See the Privacy Policy for details.
 
 ## Does the app work offline?
 Yes. All cards, sounds and text-to-speech work without internet. A connection is only needed for iCloud sync and the App Store.
