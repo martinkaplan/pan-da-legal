@@ -1,56 +1,30 @@
 # Privacy Policy
-Last updated: July 2026
+Last updated: 8 September 2026
 
-> PAN | DA does not sell personal data and is designed to work without an account.
+> PAN | DA does not sell personal data. You can use the app without registering or creating an account.
 
-## What data the app collects
-
-PAN | DA does not require registration, an email address, or contact information. The app stores locally or through iCloud:
-
-- **Child's date of birth** — used to age-adjust content recommendations
-- **Communication level and primary goal** — set during onboarding; used to filter content and suggest activities
-- **Practice progress** — which categories and modes the child has played, correct-answer counts, and practice frequency
-- **Hidden categories and cards** — your content visibility preferences
-- **App language and settings** — including voice selection for text-to-speech
-- **Custom photos (Family Cards, Classmates)** — added voluntarily; stored in the app's private storage
-
-PAN | DA does not knowingly collect personal identifiers of the child (name, email, location).
+## Data stored in the app
+The app stores the child's date of birth, communication level, primary goal, practice history and settings. This also includes language and voice preferences, favourite and hidden cards, and custom cards with photos of family members or classmates. This information helps tailor content and resume practice.
 
 ## iCloud sync
+App data is stored on your device and, when sync is enabled, in your private iCloud storage. Custom cards and photos can sync between your devices through Apple services. They are not included in the usage statistics sent to our analytics server.
 
-If iCloud is enabled for the app, the data listed above (except photos in some configurations) may sync between your Apple devices through Apple's iCloud infrastructure. PAN | DA does not operate its own server for this data.
+## Anonymised usage statistics
+The current version sends anonymised information about interactions within the app to PAN | DA's own server. This describes what users tap and which parts of the app they use. It helps us understand app usage and improve the app.
+We do not attach photos, the child's name or date of birth to these statistics. PAN | DA does not use Firebase Analytics or Firebase Crashlytics.
 
-Custom family-card photos sync through iCloud Documents and are accessible only to you via your Apple ID.
-
-## Diagnostics and performance
-
-App crashes and technical issues are reported through standard Apple tools (Apple CrashKit / TestFlight Diagnostics). This data is anonymised and cannot be used to identify individual users. If you have enabled analytics sharing with developers in your device settings, PAN | DA receives this anonymised data.
+## Microphone and pronunciation
+The app does not use the microphone, record the child's voice or assess their pronunciation. Spoken words and sentences are provided for listening and practising together.
 
 ## Children's privacy
+PAN | DA is intended for children with support from a parent or caregiver. Child settings and custom photos are part of the app's private data, not analytics events.
 
-PAN | DA is intended to be used with parents, caregivers, teachers, or speech professionals. We do not knowingly collect personal information from children under applicable child-privacy laws.
-
-## Purchases and subscriptions
-
-In-app purchases (monthly or yearly Premium subscription) are processed by Apple through the App Store. PAN | DA does not receive or store your payment card details or billing information.
-
-## Third-party services
-
-PAN | DA uses the following Apple services:
-- **Apple App Store / StoreKit** — subscription and purchase processing
-- **Apple iCloud** — data sync between your devices
-- **Apple CrashKit / Diagnostics** — anonymised crash reporting
-
-No third-party analytics tools (Google Analytics, Firebase, Mixpanel or similar) are included in the app.
+## Purchases and services
+Apple processes purchases and subscriptions through the App Store and StoreKit. PAN | DA does not store payment card details. The app uses Apple iCloud for sync and its own server for anonymised statistics.
 
 ## Deleting data
+Delete the app from your device to remove local app data. Synced data may also need to be removed through iCloud storage management. Deleting the app does not cancel a subscription; manage subscriptions in your Apple subscription settings.
 
-You can delete locally stored data by removing the app from your device. To delete iCloud-synced data, go to **Settings → [your name] → iCloud → Manage Storage → PAN | DA**. Custom photos are stored in iCloud Documents and can be deleted there.
-
-## Changes to this policy
-
-We may update this policy when the app changes. We will notify you of significant changes through an app update or App Store notice. The latest version is always available on this page.
-
-## Contact
-
-If you have questions about privacy, contact us at: contact.panda.app@gmail.com
+## Changes and contact
+We update this policy as the app changes. The current version is available on this page.
+Privacy questions: contact.panda.app@gmail.com
