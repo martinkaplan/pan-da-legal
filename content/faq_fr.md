@@ -4,7 +4,7 @@
 Principalement pour les enfants de 2 à 5 ans. Le contenu s'adapte au niveau de communication choisi — des enfants non verbaux à ceux qui forment déjà de courtes phrases.
 
 ## Devons-nous utiliser l'application ensemble ?
-PAN | DA est conçue principalement pour les exercices partagés avec un parent ou un thérapeute. Les activités simples comme Répéter peuvent aussi être explorées par l'enfant à son propre rythme.
+PAN | DA est conçue pour que l’enfant s’exerce avec un parent ou un orthophoniste. Les activités simples comme Répéter peuvent aussi être explorées par l'enfant à son propre rythme.
 
 ## PAN | DA est-elle uniquement pour la prononciation ?
 Non. Elle se concentre sur les premiers mots, le vocabulaire, la compréhension, les phrases du quotidien et le travail du même contenu de différentes façons. L'entraînement à la prononciation des sons (Prononciation) est une partie distincte.
@@ -19,16 +19,16 @@ PAN | DA est une application pour développer le vocabulaire et la communication
 PAN | DA s'adresse aux enfants qui apprennent à communiquer — pour les premiers mots, un soutien supplémentaire entre les séances d'orthophonie ou les familles multilingues. Il n'y a pas de limite d'âge stricte ; le niveau de communication compte plus que l'âge.
 
 ## Comment fonctionne la pratique quotidienne ?
-Chaque jour, PAN | DA choisit un petit ensemble de mots à pratiquer. L'application se souvient de ce que l'enfant a déjà vu et propose régulièrement de revoir les mots déjà rencontrés. Quelques minutes par jour suffisent.
+Chaque jour, PAN | DA choisit une petite sélection de mots à travailler. L'application se souvient de ce que l'enfant a déjà vu et propose régulièrement de revoir les mots déjà rencontrés. Quelques minutes par jour suffisent.
 
 ## Comment fonctionnent les modes d'entraînement ?
 PAN | DA propose 7 activités :
 - **Répéter** — faites défiler les cartes ; chaque mot est dit à voix haute ; touchez les syllabes pour travailler la prononciation étape par étape (gratuit)
 - **Trouver** — l'application dit un mot ; l'enfant touche la bonne image parmi 4 options (Premium)
-- **Deviner le son** — identifiez des animaux et des objets à leur vrai son, sans entendre le nom (Premium)
-- **Phrases** — chaque carte a 5 phrases, des besoins simples aux phrases conversationnelles (Premium)
+- **Deviner le son** — identifiez des animaux et des objets au son qu’ils produisent, sans entendre le nom (Premium)
+- **Phrases** — de courtes phrases montrent comment utiliser des mots connus dans des situations du quotidien (Premium)
 - **Jeu des paires** — jeu de paires classique ; un mot est prononcé à chaque paire trouvée (Premium)
-- **Trouver dans la phrase** — écoute une courte phrase et trouve l'image correspondante ; entraîne la reconnaissance des mots dans la parole continue (Premium)
+- **Trouver dans la phrase** — écoutez une courte phrase et trouvez l’image correspondant au mot recherché (Premium)
 - **L’intrus** — quelle image n'est pas à sa place ? Développe la catégorisation et la logique (Premium)
 
 ## Comment débloquer les modes Premium ?
@@ -41,7 +41,7 @@ Dans Paramètres, touchez le drapeau ou le nom de la langue. Les textes et la pr
 Actuellement plus de 960 cartes dans 30+ catégories : mots de base, nourriture, animaux, véhicules, nature, émotions, lieux, professions, politesse, chiffres, couleurs, formes et bien plus. Chaque carte comprend 5 phrases dans les six langues.
 
 ## Comment ajouter des cartes personnalisées ?
-Dans Paramètres, sous **Cartes famille** ou **Camarades**, ajoutez des photos de votre appareil. Ces catégories servent à pratiquer les prénoms des proches — les photos se synchronisent en privé via iCloud.
+Dans Paramètres, sous **Cartes famille** ou **Camarades**, ajoutez des photos de votre appareil. Ces catégories servent à apprendre les prénoms des proches — les photos se synchronisent en privé via iCloud.
 
 ## Comment masquer une catégorie ou une carte ?
 Dans les **Paramètres parentaux** (section protégée), vous pouvez activer ou désactiver des catégories entières dans la section **Paquets**, ou masquer des cartes individuelles dans la liste des cartes de chaque catégorie.
@@ -53,7 +53,7 @@ En définissant le niveau de l'enfant (non verbal → phrases complètes), l'app
 Les réglages de l’enfant, l’historique des exercices et les cartes personnalisées sont conservés sur votre appareil ou synchronisés via votre espace iCloud privé. La version actuelle envoie aussi des données anonymisées sur les éléments touchés et l’utilisation de l’application à un serveur propre à PAN | DA pour l’améliorer. Les photos, le nom et la date de naissance de l’enfant ne font pas partie de ces statistiques. Consultez la politique de confidentialité.
 
 ## L'application fonctionne-t-elle hors ligne ?
-Oui. Toutes les cartes, les sons et la synthèse vocale fonctionnent sans internet. Une connexion n'est nécessaire que pour la synchronisation iCloud et l'App Store.
+Oui. Les cartes, les sons et la lecture à voix haute fonctionnent sans connexion internet. Une connexion sert à synchroniser les données avec iCloud, à effectuer des achats et à envoyer les statistiques d’utilisation anonymisées.
 
 ## Avez-vous des conseils pour les parents ?
-Pratiquez régulièrement mais brièvement — 5 à 10 minutes par jour suffisent. Félicitez chaque tentative. Alternez les modes pour varier les activités. Nommez les images ensemble et intégrez naturellement les nouveaux mots dans la conversation quotidienne.
+Privilégiez de courtes séances régulières et adaptez leur durée à l’intérêt et à la fatigue de votre enfant. Félicitez chaque tentative. Alternez les modes pour varier les activités. Nommez les images ensemble et intégrez naturellement les nouveaux mots dans la conversation quotidienne.
