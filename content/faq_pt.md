@@ -22,7 +22,7 @@ PAN | DA destina-se a crianças que estão a aprender a comunicar — para prime
 Todos os dias, PAN | DA escolhe um pequeno conjunto de palavras para praticar. A aplicação regista as palavras que a criança já viu e volta a propô-las para as rever. Alguns minutos por dia são suficientes.
 
 ## Como funcionam os modos de treino?
-PAN | DA oferece 7 atividades:
+PAN | DA oferece 8 atividades:
 - **Repetir** — deslize os cartões; cada palavra é lida em voz alta; toque nas sílabas para praticar a pronúncia passo a passo (gratuito)
 - **Encontrar** — a aplicação diz uma palavra; a criança toca a imagem certa entre 4 opções (Premium)
 - **Adivinhar o som** — identifique animais e objetos pelo som real, sem ouvir o nome (Premium)
@@ -30,15 +30,16 @@ PAN | DA oferece 7 atividades:
 - **Jogo dos pares** — jogo clássico de pares; a palavra é lida em voz alta quando a criança encontra um par (Premium)
 - **Encontrar na frase** — ouça uma frase curta e encontre a imagem correspondente; treina o reconhecimento de palavras dentro de uma frase (Premium)
 - **O intruso** — qual é a imagem que não pertence ao grupo? Desenvolve a categorização e o raciocínio lógico (Premium)
+- **Para que serve?** — Ouça uma pergunta simples sobre a função de um objeto e escolha a imagem correta. Desenvolve a compreensão das funções das coisas do dia a dia. (Premium)
 
 ## Como desbloqueio os modos Premium?
-O Premium desbloqueia todos os modos de uma só vez. Inicie o teste gratuito através da App Store.
+O Premium desbloqueia todos os modos de uma só vez. Experimente o Premium gratuitamente durante 3 dias pela App Store.
 
 ## Como mudo o idioma?
 Nas Definições, toque na bandeira ou no nome do idioma. Os textos e a pronúncia mudam de imediato — pode trocar a qualquer momento.
 
 ## Quantas categorias e cartões há?
-Atualmente mais de 960 cartões em 30+ categorias: palavras básicas, comida, animais, veículos, natureza, emoções, lugares, profissões, boas maneiras, números, cores, formas e mais. Cada cartão inclui 5 frases em todos os seis idiomas.
+Atualmente mais de 1 000 cartões em 30+ categorias: palavras básicas, comida, animais, veículos, natureza, emoções, lugares, profissões, boas maneiras, números, cores, formas e mais. Cada cartão inclui frases curtas do dia a dia em todos os seis idiomas.
 
 ## Como adiciono cartões personalizados?
 Nas Definições, em **Cartões de família** ou **Colegas**, adicione fotos da galeria do dispositivo. Estas categorias servem para praticar os nomes de pessoas conhecidas — as fotografias são sincronizadas de forma privada através do iCloud.
@@ -47,13 +48,13 @@ Nas Definições, em **Cartões de família** ou **Colegas**, adicione fotos da 
 Nas **Definições parentais** (secção protegida), pode ativar ou desativar categorias inteiras na secção **Pacotes**, ou ocultar cartões individuais na lista de cartões de cada categoria.
 
 ## Como funciona o nível de comunicação?
-Ao configurar o nível da criança (não verbal → frases completas), a aplicação oculta automaticamente os cartões muito avançados e adapta as atividades sugeridas.
+Ao configurar o nível da criança (não verbal → frases completas), a aplicação recomenda categorias e atividades adequadas à fase atual e ajusta o vocabulário apresentado na prática diária.
 
 ## Que dados guarda a aplicação?
-As definições da criança, o histórico de prática e os cartões personalizados são guardados no dispositivo ou sincronizados através do armazenamento privado do iCloud. A versão atual também envia dados anonimizados sobre os elementos em que o utilizador toca e a utilização da aplicação para um servidor próprio do PAN | DA, para a melhorar. As fotografias, o nome e a data de nascimento da criança não são incluídos nestas estatísticas. Consulte a política de privacidade.
+As definições da criança, o histórico de prática e os cartões personalizados são guardados no dispositivo ou sincronizados através do armazenamento privado do iCloud. A versão atual também envia dados pseudonimizados sobre os elementos em que o utilizador toca e a utilização da aplicação para um servidor próprio do PAN | DA, para a melhorar. As fotografias e o nome da criança não são incluídos nestas estatísticas. Consulte a política de privacidade.
 
 ## A aplicação funciona offline?
-Sim. Pode utilizar os cartões, os sons e a leitura em voz alta sem ligação à internet. A ligação é utilizada para sincronizar com o iCloud, efetuar compras e enviar estatísticas de utilização anonimizadas.
+Sim. Pode utilizar os cartões, os sons e a leitura em voz alta sem ligação à internet. A ligação é utilizada para sincronizar com o iCloud, efetuar compras e enviar estatísticas de utilização pseudonimizadas.
 
 ## Tem dicas para os pais?
 Procure momentos curtos para praticar e adapte a duração ao interesse e ao cansaço da criança. Elogie cada tentativa. Alterne os modos para manter a variedade. Digam os nomes das imagens em conjunto e utilizem as palavras novas nas conversas do dia a dia.

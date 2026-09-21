@@ -22,7 +22,7 @@ PAN | DA está dirigida a niños que aprenden a comunicarse — para primeras pa
 Cada día PAN | DA elige un pequeño conjunto de palabras para practicar. Recuerda lo que el niño ya ha visto y vuelve a proponer palabras para repasarlas. Unos minutos al día son suficientes.
 
 ## ¿Cómo funcionan los modos de entrenamiento?
-PAN | DA ofrece 7 actividades:
+PAN | DA ofrece 8 actividades:
 - **Repetir** — desliza tarjetas; cada palabra se escucha en voz alta; toca las sílabas para practicar la pronunciación paso a paso (gratuito)
 - **Encontrar** — la app dice una palabra; el niño toca la imagen correcta entre 4 opciones (Premium)
 - **Adivinar el sonido** — identifica animales y objetos por su sonido real, sin escuchar el nombre (Premium)
@@ -30,15 +30,16 @@ PAN | DA ofrece 7 actividades:
 - **Parejas** — juego de parejas clásico; se escucha la palabra en cada pareja encontrada (Premium)
 - **Encontrar en la frase** — escucha una frase corta y encuentra la imagen correspondiente; entrena el reconocimiento de palabras dentro de una frase (Premium)
 - **El intruso** — ¿qué imagen no encaja? Desarrolla la categorización y el pensamiento lógico (Premium)
+- **¿Para qué sirve?** — Escucha una pregunta sencilla sobre la función de un objeto y elige la imagen correcta. Desarrolla la comprensión de las funciones de las cosas cotidianas. (Premium)
 
 ## ¿Cómo desbloqueo los modos Premium?
-Premium desbloquea todos los modos a la vez. Empieza la prueba gratuita a través de la App Store.
+Premium desbloquea todos los modos a la vez. Prueba Premium gratis durante 3 días desde la App Store.
 
 ## ¿Cómo cambio el idioma?
 En Ajustes, toca la bandera o el nombre del idioma. Los textos y la pronunciación cambian al instante — puedes cambiar en cualquier momento.
 
 ## ¿Cuántas categorías y tarjetas hay?
-Actualmente más de 960 tarjetas en 30+ categorías: palabras básicas, comida, animales, vehículos, naturaleza, emociones, lugares, profesiones, modales, números, colores, formas y más. Cada tarjeta incluye 5 frases en los seis idiomas.
+Actualmente más de 1000 tarjetas en 30+ categorías: palabras básicas, comida, animales, vehículos, naturaleza, emociones, lugares, profesiones, modales, números, colores, formas y más. Cada tarjeta incluye frases cotidianas cortas en los seis idiomas.
 
 ## ¿Cómo añado tarjetas personalizadas?
 En Ajustes, en **Tarjetas de familia** o **Compañeros**, añade fotos guardadas en tu teléfono. Estas categorías sirven para practicar los nombres de personas conocidas — las fotos se sincronizan entre tus dispositivos mediante tu iCloud privado.
@@ -47,13 +48,13 @@ En Ajustes, en **Tarjetas de familia** o **Compañeros**, añade fotos guardadas
 En los **Ajustes parentales** (sección protegida) puedes activar o desactivar categorías enteras en la sección **Paquetes**, u ocultar tarjetas individuales en la lista de tarjetas de cada categoría.
 
 ## ¿Cómo funciona el nivel de comunicación?
-Al configurar el nivel del niño (no verbal → frases completas), la app oculta automáticamente las tarjetas demasiado avanzadas y adapta las actividades sugeridas.
+Al configurar el nivel del niño (no verbal → frases completas), la app recomienda categorías y actividades adecuadas para la fase actual y adapta el vocabulario de la práctica diaria.
 
 ## ¿Qué datos guarda la app?
-Los ajustes del niño, el historial de práctica y las tarjetas personalizadas se guardan en tu dispositivo o se sincronizan mediante tu almacenamiento privado de iCloud. La versión actual también envía datos anonimizados sobre los elementos que se tocan y el uso de la aplicación a un servidor propio de PAN | DA para mejorarla. Las fotos, el nombre y la fecha de nacimiento del niño no se incluyen en estas estadísticas. Consulta la política de privacidad.
+Los ajustes del niño, el historial de práctica y las tarjetas personalizadas se guardan en tu dispositivo o se sincronizan mediante tu almacenamiento privado de iCloud. La versión actual también envía datos seudoanonimizados sobre los elementos que se tocan y el uso de la aplicación a un servidor propio de PAN | DA para mejorarla. Las fotos y el nombre del niño no se incluyen en estas estadísticas. Consulta la política de privacidad.
 
 ## ¿Funciona la app sin internet?
-Sí. Puedes usar las tarjetas, los sonidos y la lectura en voz alta sin conexión. La conexión se utiliza para sincronizar con iCloud, realizar compras y enviar estadísticas de uso anonimizadas.
+Sí. Puedes usar las tarjetas, los sonidos y la lectura en voz alta sin conexión. La conexión se utiliza para sincronizar con iCloud, realizar compras y enviar estadísticas de uso seudoanonimizadas.
 
 ## ¿Tenéis consejos para las familias?
 Busca momentos breves para practicar y adapta la duración al interés y al cansancio de tu hijo. Elogia cada intento. Alterna los modos para mantener la variedad. Poned nombre a las imágenes juntos y utilizad las palabras nuevas en las conversaciones del día a día.

@@ -22,7 +22,7 @@ Pro děti, které se učí komunikovat — ať jde o první slůvka, větší po
 PAN | DA každý den vybere malou sadu slov k procvičení. Pamatuje si, co dítě vidělo, a průběžně nabízí známá slova k zopakování. Aplikace vám tak pomůže vybrat, čemu se při krátkém procvičování věnovat.
 
 ## Jaké způsoby procvičování aplikace nabízí?
-PAN | DA nabízí 7 aktivit:
+PAN | DA nabízí 8 aktivit:
 - **Opakuj** — procházejte kartičky, každé slovo se přehraje nahlas; klepnutím na slabiky procvičujete výslovnost krok po kroku (zdarma)
 - **Najdi** — aplikace říká slovo, dítě hledá správný obrázek z nabídky 4 možností (Premium)
 - **Poznej zvuk** — dítě rozpoznává zvuky zvířat a předmětů, aniž uslyší název (Premium)
@@ -30,15 +30,16 @@ PAN | DA nabízí 7 aktivit:
 - **Pexeso** — klasická paměťová hra, po každém páru zazní slovo nahlas (Premium)
 - **Najdi podle věty** — dítě slyší krátkou větu a hledá odpovídající obrázek; trénuje rozpoznávání slov v řeči (Premium)
 - **Co sem nepatří?** — který obrázek se liší od ostatních; rozvíjí kategorizaci a logické myšlení (Premium)
+- **K čemu to je?** — slyšíte jednoduchou otázku o funkci předmětu a vyberete správný obrázek. Rozvíjí porozumění funkcím každodenních věcí. (Premium)
 
 ## Jak se odemykají prémiové módy?
-Premium odemkne všechny módy najednou. Zkušební verzi spustíte přes App Store.
+Premium odemkne všechny módy najednou. Vyzkoušejte Premium 3 dny zdarma přes App Store.
 
 ## Jak změním jazyk?
-V Nastavení klepněte na vlajku nebo název jazyka. Změní se texty i výslovnost — přepnout lze kdykoli, i uprostřed procvičování.
+V Nastavení klepněte na vlajku nebo název jazyka. Změní se texty i výslovnost — přepnout lze kdykoli v Nastavení.
 
 ## Kolik kategorií a kartiček aplikace obsahuje?
-Aktuálně přes 960 kartiček ve 30+ kategoriích: základní slova, jídlo, zvířata, doprava, příroda, emoce, místa, povolání, slušné chování, čísla, barvy, tvary a další. Každou kartičku doprovází 5 frází ve všech jazycích.
+Aktuálně přes 1 000 kartiček ve 30+ kategoriích: základní slova, jídlo, zvířata, doprava, příroda, emoce, místa, povolání, slušné chování, čísla, barvy, tvary a další. Ke každé kartičce patří krátké každodenní fráze ve všech šesti jazycích.
 
 ## Jak přidám vlastní kartičky?
 V Nastavení v sekci **Rodinné kartičky** nebo **Spolužáci** přidejte fotografie z telefonu. Kategorie jsou určené pro procvičování jmen blízkých lidí — fotografie se synchronizují přes iCloud na ostatní vaše zařízení.
@@ -47,13 +48,13 @@ V Nastavení v sekci **Rodinné kartičky** nebo **Spolužáci** přidejte fotog
 V **Rodičovském nastavení** (chráněná sekce) lze v sekci **Balíčky** zapínat a vypínat celé kategorie. Jednotlivé kartičky skryjete v přehledu karet dané kategorie — ikona oka vedle každé kartičky.
 
 ## Jak funguje komunikační úroveň?
-Při nastavení úrovně dítěte (neverbální → plné věty) aplikace automaticky skryje kartičky, které jsou pro danou úroveň příliš obtížné, a přizpůsobí doporučené aktivity.
+Při nastavení úrovně dítěte (neverbální → plné věty) aplikace doporučuje kategorie a aktivity vhodné pro danou fázi a přizpůsobuje slovní zásobu zobrazovanou v Denním procvičování.
 
 ## Jaká data aplikace ukládá?
-Nastavení dítěte, přehled procvičování a vlastní kartičky se ukládají v zařízení nebo synchronizují přes soukromý iCloud. Aktuální verze také odesílá anonymizované údaje o kliknutí a používání aplikace na vlastní server PAN | DA pro zlepšování aplikace. Fotografie, jméno ani datum narození dítěte nejsou součástí těchto statistik. Podrobnosti najdete v zásadách ochrany soukromí.
+Nastavení dítěte, přehled procvičování a vlastní kartičky se ukládají v zařízení nebo synchronizují přes soukromý iCloud. Aktuální verze také odesílá pseudonymizované údaje o kliknutí a používání aplikace na vlastní server PAN | DA pro zlepšování aplikace. Fotografie ani jméno dítěte nejsou součástí těchto statistik. Podrobnosti najdete v zásadách ochrany soukromí.
 
 ## Funguje aplikace bez internetu?
-Ano. Kartičky, zvuky a hlasové přehrávání můžete používat bez internetu. Připojení slouží také k synchronizaci iCloudu, nákupům a odesílání anonymizovaných statistik používání.
+Ano. Kartičky, zvuky a hlasové přehrávání můžete používat bez internetu. Připojení slouží také k synchronizaci iCloudu, nákupům a odesílání pseudonymizovaných statistik používání.
 
 ## Máte tipy pro rodiče?
 Zkuste krátké pravidelné procvičování a délku přizpůsobte zájmu a únavě dítěte. Chvalte každý pokus. Střídejte různé módy, aby byla aktivita pestrá. Pojmenovávejte obrázky společně a přirozeně zapojujte nová slova do běžného rozhovoru.

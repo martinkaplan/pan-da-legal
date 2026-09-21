@@ -22,7 +22,7 @@ PAN | DA richtet sich an Kinder, die lernen zu kommunizieren — für erste Wör
 Jeden Tag wählt PAN | DA eine kleine Auswahl an Wörtern zum Üben. Die App merkt sich, was das Kind bereits gesehen hat, und schlägt bekannte Wörter regelmäßig zum Wiederholen vor. Ein paar Minuten täglich reichen.
 
 ## Wie funktionieren die Trainingsmodi?
-PAN | DA bietet 7 Aktivitäten:
+PAN | DA bietet 8 Aktivitäten:
 - **Wiederholen** — durch Bildkarten wischen; jedes Wort wird laut vorgelesen; Silben antippen für schrittweises Aussprachetraining (kostenlos)
 - **Finden** — die App sagt ein Wort; das Kind tippt unter vier Bildern das passende an (Premium)
 - **Geräusch erkennen** — Tiere und Gegenstände am echten Klang erkennen, ohne den Namen zu hören (Premium)
@@ -30,15 +30,16 @@ PAN | DA bietet 7 Aktivitäten:
 - **Paare finden** — Gedächtnisspiel: passende Kartenpaare finden; bei jedem Paar wird das Wort laut gesprochen (Premium)
 - **Im Satz finden** — einen kurzen Satz hören und das passende Bild finden; trainiert Worterkennung in zusammenhängender Sprache (Premium)
 - **Was passt nicht?** — welches Bild passt nicht? Fördert Kategorisierung und logisches Denken (Premium)
+- **Wofür ist das?** — Höre eine einfache Frage zur Funktion eines Gegenstands und wähle das richtige Bild. Fördert das Verständnis von Alltagsfunktionen. (Premium)
 
 ## Wie schalte ich Premium-Modi frei?
-Premium schaltet alle Modi auf einmal frei. Starte eine kostenlose Testversion über den App Store.
+Premium schaltet alle Modi auf einmal frei. Teste Premium 3 Tage kostenlos über den App Store.
 
 ## Wie ändere ich die Sprache?
 In den Einstellungen auf die Flagge oder den Sprachnamen tippen. Texte und Aussprache ändern sich sofort — jederzeit umschaltbar.
 
 ## Wie viele Kategorien und Karten gibt es?
-Aktuell über 960 Karten in 30+ Kategorien: Grundwörter, Essen, Tiere, Fahrzeuge, Natur, Gefühle, Orte, Berufe, Manieren, Zahlen, Farben, Formen und mehr. Jede Karte enthält 5 Sätze in allen sechs Sprachen.
+Aktuell über 1 000 Karten in 30+ Kategorien: Grundwörter, Essen, Tiere, Fahrzeuge, Natur, Gefühle, Orte, Berufe, Manieren, Zahlen, Farben, Formen und mehr. Zu jeder Karte gehören kurze Alltagssätze in allen sechs Sprachen.
 
 ## Wie füge ich eigene Karten hinzu?
 In den Einstellungen unter **Familienkarten** oder **Mitschüler** Fotos aus der Bildergalerie hinzufügen. Diese Kategorien sind für das Üben von Namen vertrauter Personen gedacht — Fotos synchronisieren sich privat über iCloud.
@@ -47,13 +48,13 @@ In den Einstellungen unter **Familienkarten** oder **Mitschüler** Fotos aus der
 In den **Elterneinstellungen** (geschützter Bereich) können ganze Kategorien unter **Pakete** aktiviert oder deaktiviert werden. Einzelne Karten lassen sich in der Kartenliste der jeweiligen Kategorie ausblenden.
 
 ## Wie funktioniert die Kommunikationsstufe?
-Wenn du die Stufe des Kindes einstellst (nonverbal → vollständige Sätze), blendet die App automatisch zu schwierige Karten aus und passt die vorgeschlagenen Aktivitäten an.
+Wenn du die Stufe des Kindes einstellst (nonverbal → vollständige Sätze), empfiehlt die App passende Kategorien und Aktivitäten für die aktuelle Phase und passt den Wortschatz in der Tagesübung an.
 
 ## Welche Daten speichert die App?
-Die Einstellungen des Kindes, der Übungsverlauf und eigene Karten werden auf deinem Gerät oder im privaten iCloud-Speicher gespeichert. Die aktuelle Version sendet außerdem anonymisierte Daten über angetippte Elemente und die App-Nutzung an einen eigenen Server von PAN | DA, um die App zu verbessern. Fotos, der Name und das Geburtsdatum des Kindes sind nicht Teil dieser Statistiken. Einzelheiten findest du in der Datenschutzerklärung.
+Die Einstellungen des Kindes, der Übungsverlauf und eigene Karten werden auf deinem Gerät oder im privaten iCloud-Speicher gespeichert. Die aktuelle Version sendet außerdem pseudonymisierte Daten über angetippte Elemente und die App-Nutzung an einen eigenen Server von PAN | DA, um die App zu verbessern. Fotos und der Name des Kindes sind nicht Teil dieser Statistiken. Einzelheiten findest du in der Datenschutzerklärung.
 
 ## Funktioniert die App offline?
-Ja. Karten, Geräusche und Sprachausgabe lassen sich ohne Internetverbindung nutzen. Eine Verbindung wird für die iCloud-Synchronisierung, Käufe und die Übermittlung anonymisierter Nutzungsstatistiken verwendet.
+Ja. Karten, Geräusche und Sprachausgabe lassen sich ohne Internetverbindung nutzen. Eine Verbindung wird für die iCloud-Synchronisierung, Käufe und die Übermittlung pseudonymisierter Nutzungsstatistiken verwendet.
 
 ## Hast du Tipps für Eltern?
 Übt regelmäßig und in kurzen Einheiten. Passe die Dauer an das Interesse und die Energie deines Kindes an. Jeden Versuch loben. Modi abwechseln, um Abwechslung zu schaffen. Bilder gemeinsam benennen und neue Wörter natürlich in Alltagsgespräche einbauen.

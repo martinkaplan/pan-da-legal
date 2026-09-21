@@ -22,7 +22,7 @@ PAN | DA is for children learning to communicate — whether for first words, ex
 Every day PAN | DA picks a small set of words to practise. It remembers what your child has already seen and gradually brings words back for review. This helps you choose what to focus on during a short practice session.
 
 ## How do the training modes work?
-PAN | DA offers 7 activities:
+PAN | DA offers 8 activities:
 - **Repeat** — swipe through flashcards; every word is spoken aloud; tap syllables to practise pronunciation step by step (free)
 - **Find** — the app says a word; your child taps the right image from 4 options; builds receptive vocabulary (Premium)
 - **Guess the Sound** — identify animals and objects by their real sound, without hearing the name (Premium)
@@ -30,15 +30,16 @@ PAN | DA offers 7 activities:
 - **Matching Pairs** — classic matching game; the word is spoken when a matching pair is found (Premium)
 - **Find in a Sentence** — hear a short sentence and find the matching picture; practise recognising a familiar word within a sentence (Premium)
 - **Odd One Out** — which picture doesn't belong? Builds categorisation and logical thinking (Premium)
+- **Object Functions** — Hear a simple question about an object's purpose and choose the right picture. Builds understanding of everyday object functions. (Premium)
 
 ## How do I unlock Premium modes?
-Premium unlocks all modes at once. Start a free trial from the App Store.
+Premium unlocks all modes at once. Try Premium free for 3 days from the App Store.
 
 ## How do I change the language?
-In Settings, tap the flag or language name. App text and pronunciation change instantly — you can switch at any time, even mid-session.
+In Settings, tap the flag or language name. App text and pronunciation change instantly — you can switch at any time in Settings.
 
 ## How many categories and cards are there?
-Currently over 960 cards across 30+ categories: core words, food, animals, vehicles, nature, emotions, places, professions, manners, numbers, colours, shapes and more. Every card includes 5 phrases in all six languages.
+Currently over 1,000 cards across 30+ categories: core words, food, animals, vehicles, nature, emotions, places, professions, manners, numbers, colours, shapes and more. Cards include short everyday phrases in all six languages.
 
 ## How do I add custom cards?
 In Settings under **Family Cards** or **Classmates**, add photos from your camera roll. These categories are for practising the names of familiar people — photos sync privately via iCloud to your other devices.
@@ -47,13 +48,13 @@ In Settings under **Family Cards** or **Classmates**, add photos from your camer
 In **Parental Settings** (protected section), use the **Packages** section to enable or disable entire categories. To hide individual cards, open the card list for a category — tap the eye icon next to any card.
 
 ## How does the communication level setting work?
-When you set your child's level (non-verbal → full sentences), the app automatically hides cards that are too advanced and adapts suggested activities to their current stage.
+When you set your child's level (non-verbal → full sentences), the app recommends categories and activities suited to their current stage, and adjusts the vocabulary shown in Daily Practice.
 
 ## What data does the app store?
-Child settings, practice history and custom cards are stored on your device or synced through private iCloud storage. The current version also sends anonymised information about taps and app usage to PAN | DA's own server to improve the app. Photos, the child's name and date of birth are not included in these statistics. See the Privacy Policy for details.
+Child settings, practice history and custom cards are stored on your device or synced through private iCloud storage. The current version also sends pseudonymous information about taps and app usage to PAN | DA's own server to improve the app. Photos and the child's name are not included in these statistics. See the Privacy Policy for details.
 
 ## Does the app work offline?
-Yes. You can use the cards, sounds and spoken words without an internet connection. A connection is used for iCloud sync, purchases and sending anonymised usage statistics.
+Yes. You can use the cards, sounds and spoken words without an internet connection. A connection is used for iCloud sync, purchases and sending pseudonymous usage statistics.
 
 ## Do you have tips for parents?
 Try short, regular sessions and adjust their length to your child's interest and energy. Praise every attempt. Alternate between modes to keep things varied. Name pictures together and naturally use new words in everyday conversation.

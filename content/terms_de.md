@@ -1,5 +1,5 @@
 # Allgemeine Geschäftsbedingungen
-Zuletzt aktualisiert: Mai 2026
+Zuletzt aktualisiert: September 2026
 
 ## Zustimmung zu diesen Bedingungen
 Durch das Herunterladen oder Verwenden von PAN | DA stimmen Sie diesen Bedingungen zu. Wenn Sie nicht zustimmen, verwenden Sie die App bitte nicht.

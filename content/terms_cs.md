@@ -1,5 +1,5 @@
 # Obchodní podmínky
-Poslední aktualizace: květen 2026
+Poslední aktualizace: září 2026
 
 ## Souhlas s podmínkami
 Stažením nebo používáním aplikace PAN | DA souhlasíte s těmito obchodními podmínkami. Pokud s nimi nesouhlasíte, aplikaci nepoužívejte.

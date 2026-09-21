@@ -1,5 +1,5 @@
 # Termos e condições
-Última atualização: maio de 2026
+Última atualização: setembro de 2026
 
 ## Aceitação destes termos
 Ao descarregar ou utilizar a aplicação PAN | DA, aceita estes termos e condições. Se não concordar, não utilize a app.

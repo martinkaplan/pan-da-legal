@@ -1,5 +1,5 @@
 # Conditions générales
-Dernière mise à jour : mai 2026
+Dernière mise à jour : septembre 2026
 
 ## Acceptation des conditions
 En téléchargeant ou en utilisant PAN | DA, vous acceptez ces conditions. Si vous n’êtes pas d’accord, veuillez ne pas utiliser l’application.

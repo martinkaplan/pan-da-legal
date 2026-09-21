@@ -1,9 +1,9 @@
-const SUPPORTED_LANGS = ['cs', 'en', 'de', 'fr', 'es', 'pt'];
+const SUPPORTED_LANGS = ['cs', 'en', 'de', 'fr', 'es', 'pt', 'it'];
 const DEFAULT_LANG = 'en';
 const PAGE_TITLES = {
-  privacy: { cs: 'Zásady ochrany soukromí', en: 'Privacy Policy', de: 'Datenschutzerklärung', fr: 'Politique de confidentialité', es: 'Política de privacidad', pt: 'Política de privacidade' },
-  terms: { cs: 'Obchodní podmínky', en: 'Terms & Conditions', de: 'Allgemeine Geschäftsbedingungen', fr: 'Conditions générales', es: 'Términos y condiciones', pt: 'Termos e condições' },
-  faq: { cs: 'FAQ', en: 'FAQ', de: 'FAQ', fr: 'FAQ', es: 'Preguntas frecuentes', pt: 'FAQ' },
+  privacy: { cs: 'Zásady ochrany soukromí', en: 'Privacy Policy', de: 'Datenschutzerklärung', fr: 'Politique de confidentialité', es: 'Política de privacidad', pt: 'Política de privacidade', it: 'Informativa sulla privacy' },
+  terms: { cs: 'Obchodní podmínky', en: 'Terms & Conditions', de: 'Allgemeine Geschäftsbedingungen', fr: 'Conditions générales', es: 'Términos y condiciones', pt: 'Termos e condições', it: 'Termini e condizioni' },
+  faq: { cs: 'FAQ', en: 'FAQ', de: 'FAQ', fr: 'FAQ', es: 'Preguntas frecuentes', pt: 'FAQ', it: 'Domande frequenti' },
 };
 
 const params = new URLSearchParams(location.search);
