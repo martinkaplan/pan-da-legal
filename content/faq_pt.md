@@ -1,7 +1,7 @@
 # Perguntas frequentes
 
 ## A que idades se destina o PAN | DA?
-Principalmente para crianças de 2 a 5 anos. O conteúdo adapta-se ao nível de comunicação escolhido — de crianças não verbais às que já formam frases curtas.
+Principalmente para crianças de 2 a 7 anos. O conteúdo adapta-se ao nível de comunicação escolhido — de crianças não verbais às que já formam frases curtas.
 
 ## Devemos utilizar a aplicação em conjunto?
 O PAN | DA foi pensado para a criança praticar com um familiar ou um terapeuta da fala. A criança também pode explorar atividades simples, como Repetir, ao seu próprio ritmo.
@@ -13,16 +13,19 @@ Não. A aplicação centra-se nas primeiras palavras, no vocabulário, na compre
 Não. PAN | DA é uma ferramenta de prática em casa, não um instrumento diagnóstico ou terapêutico. Idealmente complementa o acompanhamento de terapia da fala.
 
 ## O que é a PAN | DA?
-PAN | DA é uma aplicação para desenvolver o vocabulário e a comunicação de crianças com atraso de fala ou disfasia do desenvolvimento. Com cartões ilustrados, sons e atividades curtas, as crianças aprendem novas palavras de forma lúdica — em checo, inglês, alemão, espanhol, português e francês.
+PAN | DA é uma aplicação para desenvolver o vocabulário e a comunicação de crianças pequenas. Com cartões ilustrados, sons e atividades curtas, as crianças aprendem novas palavras de forma lúdica — nos 9 idiomas disponíveis.
 
 ## Para quem é a aplicação?
-PAN | DA destina-se a crianças que estão a aprender a comunicar — para primeiras palavras, apoio extra entre sessões de terapia ou famílias multilingues. Não há limite de idade rígido; o nível de comunicação importa mais do que a idade.
+PAN | DA destina-se a crianças que estão a aprender a comunicar — para primeiras palavras, crianças que falam mais tarde ou apoio extra entre sessões de terapia (incluindo crianças com atraso de fala ou disfasia do desenvolvimento), ou para famílias multilingues. Não há limite de idade rígido; o nível de comunicação importa mais do que a idade.
+
+## O PAN | DA é adequado para crianças com disfasia do desenvolvimento ou atraso de fala?
+Sim. A aplicação centra-se no vocabulário, na construção de frases e na compreensão — áreas que as crianças com atraso de fala ou disfasia do desenvolvimento muitas vezes precisam de praticar. Para objetivos específicos, recomendamos consultar um terapeuta da fala; o PAN | DA complementa esse acompanhamento, não o substitui.
 
 ## Como funciona a prática diária?
 Todos os dias, PAN | DA escolhe um pequeno conjunto de palavras para praticar. A aplicação regista as palavras que a criança já viu e volta a propô-las para as rever. Alguns minutos por dia são suficientes.
 
 ## Como funcionam os modos de treino?
-PAN | DA oferece 8 atividades:
+PAN | DA oferece 12 atividades:
 - **Repetir** — deslize os cartões; cada palavra é lida em voz alta; toque nas sílabas para praticar a pronúncia passo a passo (gratuito)
 - **Encontrar** — a aplicação diz uma palavra; a criança toca a imagem certa entre 4 opções (Premium)
 - **Adivinhar o som** — identifique animais e objetos pelo som real, sem ouvir o nome (Premium)
@@ -30,7 +33,11 @@ PAN | DA oferece 8 atividades:
 - **Jogo dos pares** — jogo clássico de pares; a palavra é lida em voz alta quando a criança encontra um par (Premium)
 - **Encontrar na frase** — ouça uma frase curta e encontre a imagem correspondente; treina o reconhecimento de palavras dentro de uma frase (Premium)
 - **O intruso** — qual é a imagem que não pertence ao grupo? Desenvolve a categorização e o raciocínio lógico (Premium)
+- **Prática dos sons** — pratica sons no início, no meio e no fim das palavras, e também em frases curtas (Premium)
 - **Para que serve?** — Ouça uma pergunta simples sobre a função de um objeto e escolha a imagem correta. Desenvolve a compreensão das funções das coisas do dia a dia. (Premium)
+- **O que combina?** — a criança associa duas coisas que normalmente andam juntas; desenvolve relações lógicas e de significado (Premium)
+- **A que grupo pertence?** — a criança organiza palavras conhecidas em grupos como animais, comida, veículos e mais; desenvolve a categorização (Premium)
+- **Segue as instruções** — a criança ouve uma instrução em dois passos e toca nas imagens pela ordem certa; treina a escuta e a memória de trabalho (Premium)
 
 ## Como desbloqueio os modos Premium?
 O Premium desbloqueia todos os modos de uma só vez. Experimente o Premium gratuitamente durante 3 dias pela App Store.
@@ -39,7 +46,7 @@ O Premium desbloqueia todos os modos de uma só vez. Experimente o Premium gratu
 Nas Definições, toque na bandeira ou no nome do idioma. Os textos e a pronúncia mudam de imediato — pode trocar a qualquer momento.
 
 ## Quantas categorias e cartões há?
-Atualmente mais de 1 000 cartões em 30+ categorias: palavras básicas, comida, animais, veículos, natureza, emoções, lugares, profissões, boas maneiras, números, cores, formas e mais. Cada cartão inclui frases curtas do dia a dia em todos os seis idiomas.
+Atualmente mais de 1 300 cartões em 100+ categorias: palavras básicas, comida, animais, veículos, natureza, emoções, lugares, profissões, boas maneiras, números, cores, formas e mais. Cada cartão inclui frases curtas do dia a dia em todos os 9 idiomas disponíveis.
 
 ## Como adiciono cartões personalizados?
 Nas Definições, em **Cartões de família** ou **Colegas**, adicione fotos da galeria do dispositivo. Estas categorias servem para praticar os nomes de pessoas conhecidas — as fotografias são sincronizadas de forma privada através do iCloud.

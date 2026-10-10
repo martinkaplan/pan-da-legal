@@ -1,7 +1,7 @@
 # FAQ
 
 ## Pour quel âge est PAN | DA ?
-Principalement pour les enfants de 2 à 5 ans. Le contenu s'adapte au niveau de communication choisi — des enfants non verbaux à ceux qui forment déjà de courtes phrases.
+Principalement pour les enfants de 2 à 7 ans. Le contenu s'adapte au niveau de communication choisi — des enfants non verbaux à ceux qui forment déjà de courtes phrases.
 
 ## Devons-nous utiliser l'application ensemble ?
 PAN | DA est conçue pour que l’enfant s’exerce avec un parent ou un orthophoniste. Les activités simples comme Répéter peuvent aussi être explorées par l'enfant à son propre rythme.
@@ -13,16 +13,19 @@ Non. Elle se concentre sur les premiers mots, le vocabulaire, la compréhension,
 Non. PAN | DA est un outil de pratique à la maison, pas un instrument diagnostique ou thérapeutique. Elle complète idéalement le suivi orthophonique.
 
 ## Qu'est-ce que PAN | DA ?
-PAN | DA est une application pour développer le vocabulaire et la communication des enfants ayant un retard de parole ou une dysphasie du développement. Grâce à des cartes illustrées, des sons et de courtes activités, les enfants apprennent de nouveaux mots de façon ludique — en tchèque, anglais, allemand, espagnol, portugais et français.
+PAN | DA est une application pour développer le vocabulaire et la communication des jeunes enfants. Grâce à des cartes illustrées, des sons et de courtes activités, les enfants apprennent de nouveaux mots de façon ludique — dans les 9 langues disponibles.
 
 ## À qui s'adresse l'application ?
-PAN | DA s'adresse aux enfants qui apprennent à communiquer — pour les premiers mots, un soutien supplémentaire entre les séances d'orthophonie ou les familles multilingues. Il n'y a pas de limite d'âge stricte ; le niveau de communication compte plus que l'âge.
+PAN | DA s'adresse aux enfants qui apprennent à communiquer — pour les premiers mots, les enfants qui parlent plus tard ou un soutien supplémentaire entre les séances d'orthophonie (y compris les enfants ayant un retard de parole ou une dysphasie du développement), ou pour les familles multilingues. Il n'y a pas de limite d'âge stricte ; le niveau de communication compte plus que l'âge.
+
+## PAN | DA convient-elle aux enfants ayant une dysphasie du développement ou un retard de parole ?
+Oui. L'application se concentre sur le vocabulaire, la construction de phrases et la compréhension — des domaines que les enfants ayant un retard de parole ou une dysphasie du développement ont souvent besoin de travailler. Pour des objectifs précis, nous recommandons de consulter un orthophoniste ; PAN | DA complète ce suivi, elle ne le remplace pas.
 
 ## Comment fonctionne la pratique quotidienne ?
 Chaque jour, PAN | DA choisit une petite sélection de mots à travailler. L'application se souvient de ce que l'enfant a déjà vu et propose régulièrement de revoir les mots déjà rencontrés. Quelques minutes par jour suffisent.
 
 ## Comment fonctionnent les modes d’entraînement ?
-PAN | DA propose 8 activités :
+PAN | DA propose 12 activités :
 - **Répéter** — faites défiler les cartes ; chaque mot est dit à voix haute ; touchez les syllabes pour travailler la prononciation étape par étape (gratuit)
 - **Trouver** — l’application dit un mot ; l’enfant touche la bonne image parmi 4 options (Premium)
 - **Deviner le son** — identifiez des animaux et des objets au son qu’ils produisent, sans entendre le nom (Premium)
@@ -30,7 +33,11 @@ PAN | DA propose 8 activités :
 - **Jeu des paires** — jeu de paires classique ; un mot est prononcé à chaque paire trouvée (Premium)
 - **Trouver dans la phrase** — écoutez une courte phrase et trouvez l’image correspondant au mot recherché (Premium)
 - **L’intrus** — quelle image n’est pas à sa place ? Développe la catégorisation et la logique (Premium)
+- **Entraînement des sons** — entraînez les sons au début, au milieu et à la fin des mots, ainsi que dans de courtes phrases (Premium)
 - **À quoi ça sert ?** — Écoutez une question simple sur la fonction d’un objet et choisissez l’image correcte. Développe la compréhension des fonctions des objets du quotidien. (Premium)
+- **Qu’est-ce qui va ensemble ?** — l’enfant associe deux choses qui vont généralement ensemble ; développe les relations logiques et de sens (Premium)
+- **Dans quel groupe ?** — l’enfant trie des mots connus en groupes comme les animaux, la nourriture, les véhicules et plus encore ; développe la catégorisation (Premium)
+- **Suis la consigne** — l’enfant écoute une consigne en deux étapes et touche les images dans le bon ordre ; entraîne l’écoute et la mémoire de travail (Premium)
 
 ## Comment débloquer les modes Premium ?
 Le Premium débloque tous les modes en une seule fois. Essayez Premium gratuitement pendant 3 jours depuis l'App Store.
@@ -39,7 +46,7 @@ Le Premium débloque tous les modes en une seule fois. Essayez Premium gratuitem
 Dans Paramètres, touchez le drapeau ou le nom de la langue. Les textes et la prononciation changent instantanément — vous pouvez changer à tout moment.
 
 ## Combien de catégories et de cartes y a-t-il ?
-Actuellement plus de 1 000 cartes dans 30+ catégories : mots de base, nourriture, animaux, véhicules, nature, émotions, lieux, professions, politesse, chiffres, couleurs, formes et bien plus. Chaque carte comprend de courtes phrases du quotidien dans les six langues.
+Actuellement plus de 1 300 cartes dans 100+ catégories : mots de base, nourriture, animaux, véhicules, nature, émotions, lieux, professions, politesse, chiffres, couleurs, formes et bien plus. Chaque carte comprend de courtes phrases du quotidien dans les 9 langues disponibles.
 
 ## Comment ajouter des cartes personnalisées ?
 Dans Paramètres, sous **Cartes famille** ou **Camarades**, ajoutez des photos de votre appareil. Ces catégories servent à apprendre les prénoms des proches — les photos se synchronisent en privé via iCloud.

@@ -1,7 +1,7 @@
 # Domande frequenti
 
 ## Per quale età è PAN | DA?
-PAN | DA è pensata soprattutto per bambini dai 2 ai 5 anni. I contenuti si adattano al livello di comunicazione scelto: dai bambini non verbali a quelli che stanno già iniziando a formare frasi brevi.
+PAN | DA è pensata soprattutto per bambini dai 2 ai 7 anni. I contenuti si adattano al livello di comunicazione scelto: dai bambini non verbali a quelli che stanno già iniziando a formare frasi brevi.
 
 ## Dobbiamo usare l’app insieme?
 PAN | DA è pensata soprattutto per essere usata insieme a un genitore o a un terapeuta. Attività semplici come Ripeti possono anche essere esplorate dal bambino al proprio ritmo.
@@ -13,24 +13,31 @@ No. Si concentra soprattutto su prime parole, vocabolario, comprensione, frasi q
 No. PAN | DA è uno strumento per esercitarsi a casa, non uno strumento diagnostico o terapeutico. È pensata per affiancare la logopedia: consigliamo di confrontarsi con il proprio logopedista sugli obiettivi e sui progressi.
 
 ## Che cos’è PAN | DA?
-PAN | DA è un’app per sviluppare il vocabolario e la comunicazione nei bambini con ritardo del linguaggio o disturbo dello sviluppo del linguaggio. Attraverso carte illustrate, suoni e attività brevi, aiuta i bambini a imparare nuove parole giocando — in ceco, inglese, tedesco, spagnolo, portoghese, francese e italiano.
+PAN | DA è un’app per sviluppare il vocabolario e la comunicazione nei bambini piccoli. Attraverso carte illustrate, suoni e attività brevi, aiuta i bambini a imparare nuove parole giocando — in tutte e 9 le lingue supportate.
 
 ## A chi è destinata l’app?
-PAN | DA è pensata per i bambini che stanno imparando a comunicare: per le prime parole, come supporto tra una seduta di logopedia e l’altra o per le famiglie multilingue. Non c’è un limite di età rigido; conta soprattutto il livello di comunicazione impostato.
+PAN | DA è pensata per i bambini che stanno imparando a comunicare: per le prime parole, per i bambini che parlano più tardi o come supporto tra una seduta di logopedia e l’altra (anche in caso di ritardo del linguaggio o disturbo dello sviluppo del linguaggio), o per le famiglie multilingue. Non c’è un limite di età rigido; conta soprattutto il livello di comunicazione impostato.
+
+## PAN | DA è adatta ai bambini con disturbo dello sviluppo del linguaggio o ritardo del linguaggio?
+Sì. L’app si concentra su vocabolario, costruzione delle frasi e comprensione — aree che i bambini con ritardo del linguaggio o disturbo dello sviluppo del linguaggio spesso devono esercitare. Per obiettivi specifici consigliamo di consultare un logopedista; PAN | DA affianca questo percorso, non lo sostituisce.
 
 ## Come funziona la Pratica quotidiana?
 Ogni giorno PAN | DA propone un piccolo gruppo di parole da esercitare. Ricorda ciò che il bambino ha già visto e ripropone gradualmente le parole per il ripasso. In questo modo è più facile scegliere su cosa concentrarsi durante una sessione breve.
 
 ## Come funzionano le modalità di allenamento?
-PAN | DA offre 8 attività:
+PAN | DA offre 12 attività:
 - **Ripeti** — scorri le carte; ogni parola viene pronunciata; tocca le sillabe per esercitare la pronuncia passo dopo passo (gratis)
 - **Trova** — l’app pronuncia una parola; il bambino tocca l’immagine giusta tra 4 opzioni; sviluppa il vocabolario ricettivo (Premium)
 - **Indovina il suono** — riconosci animali e oggetti dal loro suono reale, senza sentirne il nome (Premium)
 - **Frasi** — brevi frasi mostrano come usare parole familiari nelle situazioni quotidiane (Premium)
 - **Coppie** — classico gioco di memoria; la parola viene pronunciata quando si trova una coppia (Premium)
 - **Trova nella frase** — ascolta una frase breve e trova l’immagine corrispondente; allena il riconoscimento di una parola familiare all’interno di una frase (Premium)
-- **Intruso** — quale immagine non c’entra? Sviluppa la capacità di categorizzare e il pensiero logico (Premium)
+- **Trova l'intruso** — quale immagine non c’entra? Sviluppa la capacità di categorizzare e il pensiero logico (Premium)
+- **Pratica dei suoni** — esercita i suoni all’inizio, al centro e alla fine delle parole, anche in frasi brevi (Premium)
 - **A cosa serve?** — ascolta una semplice domanda sulla funzione di un oggetto e scegli l’immagine giusta; sviluppa la comprensione delle funzioni degli oggetti di uso quotidiano (Premium)
+- **Cosa va insieme?** — il bambino collega due cose che di solito vanno insieme; sviluppa relazioni logiche e di significato (Premium)
+- **In quale gruppo?** — il bambino ordina parole conosciute in gruppi come animali, cibo, veicoli e altro; sviluppa la categorizzazione (Premium)
+- **Segui l'istruzione** — il bambino ascolta un'istruzione in due passaggi e tocca le immagini nell'ordine giusto; allena l'ascolto e la memoria di lavoro (Premium)
 
 ## Come sblocco le modalità Premium?
 Premium sblocca tutte le modalità insieme. Puoi provare Premium gratuitamente per 3 giorni tramite l’App Store.
@@ -39,7 +46,7 @@ Premium sblocca tutte le modalità insieme. Puoi provare Premium gratuitamente p
 Nelle Impostazioni puoi scegliere la lingua principale e le lingue da usare nella pratica. Puoi aggiungere più lingue e passare da una all’altra nelle attività che supportano il cambio rapido della lingua.
 
 ## Quante categorie e carte ci sono?
-Attualmente ci sono oltre 1.000 carte in più di 30 categorie: parole essenziali, cibo, animali, veicoli, natura, emozioni, luoghi, professioni, buone maniere, numeri, colori, forme e altro ancora. Le carte includono brevi frasi quotidiane in tutte le lingue supportate.
+Attualmente ci sono oltre 1.300 carte in più di 100 categorie: parole essenziali, cibo, animali, veicoli, natura, emozioni, luoghi, professioni, buone maniere, numeri, colori, forme e altro ancora. Le carte includono brevi frasi quotidiane in tutte le lingue supportate.
 
 ## Come aggiungo carte personalizzate?
 Nelle Impostazioni, sotto **Carte famiglia** o **Compagni**, puoi aggiungere foto dal rullino. Queste categorie servono per esercitare i nomi di persone familiari. Se la sincronizzazione iCloud è attiva, le foto possono sincronizzarsi privatamente sugli altri tuoi dispositivi.

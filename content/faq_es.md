@@ -1,7 +1,7 @@
 # Preguntas frecuentes
 
 ## ¿Para qué edad es PAN | DA?
-Principalmente para niños de 2 a 5 años. El contenido se adapta al nivel de comunicación elegido — desde niños no verbales hasta los que ya forman frases cortas.
+Principalmente para niños de 2 a 7 años. El contenido se adapta al nivel de comunicación elegido — desde niños no verbales hasta los que ya forman frases cortas.
 
 ## ¿Tenemos que usar la app juntos?
 PAN | DA está pensada para practicar junto a un familiar o un logopeda. El niño también puede explorar actividades sencillas, como Repetir, a su propio ritmo.
@@ -13,16 +13,19 @@ No. Se centra en las primeras palabras, el vocabulario, la comprensión, las fra
 No. PAN | DA es una herramienta de práctica en casa, no un instrumento diagnóstico ni terapéutico. Idealmente complementa el seguimiento logopédico.
 
 ## ¿Qué es PAN | DA?
-PAN | DA es una app para desarrollar el vocabulario y la comunicación en niños con retraso del habla o disfasia del desarrollo. Con tarjetas ilustradas, sonidos y actividades cortas, los niños aprenden nuevas palabras de forma lúdica — en checo, inglés, alemán, español, portugués y francés.
+PAN | DA es una app para desarrollar el vocabulario y la comunicación en niños pequeños. Con tarjetas ilustradas, sonidos y actividades cortas, los niños aprenden nuevas palabras de forma lúdica — en los 9 idiomas disponibles.
 
 ## ¿Para quién es la app?
-PAN | DA está dirigida a niños que aprenden a comunicarse — para primeras palabras, apoyo extra entre sesiones de terapia o familias multilingües. No hay un límite de edad estricto; el nivel de comunicación importa más que la edad.
+PAN | DA está dirigida a niños que aprenden a comunicarse — para primeras palabras, niños que hablan más tarde o apoyo extra entre sesiones de terapia (incluidos niños con retraso del habla o disfasia del desarrollo), o familias multilingües. No hay un límite de edad estricto; el nivel de comunicación importa más que la edad.
+
+## ¿Es PAN | DA adecuada para niños con disfasia del desarrollo o retraso del habla?
+Sí. La app se centra en el vocabulario, la formación de frases y la comprensión — áreas que los niños con retraso del habla o disfasia del desarrollo suelen necesitar practicar. Para objetivos y pautas concretas, recomendamos consultar con un logopeda; PAN | DA complementa ese seguimiento, no lo sustituye.
 
 ## ¿Cómo funciona la práctica diaria?
 Cada día PAN | DA elige un pequeño conjunto de palabras para practicar. Recuerda lo que el niño ya ha visto y vuelve a proponer palabras para repasarlas. Unos minutos al día son suficientes.
 
 ## ¿Cómo funcionan los modos de entrenamiento?
-PAN | DA ofrece 8 actividades:
+PAN | DA ofrece 12 actividades:
 - **Repetir** — desliza tarjetas; cada palabra se escucha en voz alta; toca las sílabas para practicar la pronunciación paso a paso (gratuito)
 - **Encontrar** — la app dice una palabra; el niño toca la imagen correcta entre 4 opciones (Premium)
 - **Adivinar el sonido** — identifica animales y objetos por su sonido real, sin escuchar el nombre (Premium)
@@ -30,7 +33,11 @@ PAN | DA ofrece 8 actividades:
 - **Parejas** — juego de parejas clásico; se escucha la palabra en cada pareja encontrada (Premium)
 - **Encontrar en la frase** — escucha una frase corta y encuentra la imagen correspondiente; entrena el reconocimiento de palabras dentro de una frase (Premium)
 - **El intruso** — ¿qué imagen no encaja? Desarrolla la categorización y el pensamiento lógico (Premium)
+- **Entrenamiento de sonidos** — practica sonidos al principio, en medio y al final de las palabras, y también en frases cortas (Premium)
 - **¿Para qué sirve?** — Escucha una pregunta sencilla sobre la función de un objeto y elige la imagen correcta. Desarrolla la comprensión de las funciones de las cosas cotidianas. (Premium)
+- **¿Qué va junto?** — el niño conecta dos cosas que suelen ir juntas; desarrolla relaciones lógicas y de significado (Premium)
+- **¿A qué grupo pertenece?** — el niño clasifica palabras conocidas en grupos como animales, comida, vehículos y más; desarrolla la categorización (Premium)
+- **Sigue las instrucciones** — el niño escucha una instrucción de dos pasos y toca las imágenes en el orden correcto; entrena la escucha y la memoria de trabajo (Premium)
 
 ## ¿Cómo desbloqueo los modos Premium?
 Premium desbloquea todos los modos a la vez. Prueba Premium gratis durante 3 días desde la App Store.
@@ -39,7 +46,7 @@ Premium desbloquea todos los modos a la vez. Prueba Premium gratis durante 3 dí
 En Ajustes, toca la bandera o el nombre del idioma. Los textos y la pronunciación cambian al instante — puedes cambiar en cualquier momento.
 
 ## ¿Cuántas categorías y tarjetas hay?
-Actualmente más de 1000 tarjetas en 30+ categorías: palabras básicas, comida, animales, vehículos, naturaleza, emociones, lugares, profesiones, modales, números, colores, formas y más. Cada tarjeta incluye frases cotidianas cortas en los seis idiomas.
+Actualmente más de 1300 tarjetas en 100+ categorías: palabras básicas, comida, animales, vehículos, naturaleza, emociones, lugares, profesiones, modales, números, colores, formas y más. Cada tarjeta incluye frases cotidianas cortas en los 9 idiomas disponibles.
 
 ## ¿Cómo añado tarjetas personalizadas?
 En Ajustes, en **Tarjetas de familia** o **Compañeros**, añade fotos guardadas en tu teléfono. Estas categorías sirven para practicar los nombres de personas conocidas — las fotos se sincronizan entre tus dispositivos mediante tu iCloud privado.
