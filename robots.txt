@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://martinkaplan.github.io/pan-da-legal/sitemap.xml
